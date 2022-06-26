@@ -1,0 +1,80 @@
+﻿sortNumber;code;officialTitle;mediumTitle;shortTitle
+1;SK0101;Okres Bratislava I;Bratislava I;Bratislava I
+2;SK0102;Okres Bratislava II;Bratislava II;Bratislava II
+3;SK0103;Okres Bratislava III;Bratislava III;Bratislava III
+4;SK0104;Okres Bratislava IV;Bratislava IV;Bratislava IV
+5;SK0105;Okres Bratislava V;Bratislava V;Bratislava V
+6;SK0106;Okres Malacky;Malacky;Malacky
+7;SK0107;Okres Pezinok;Pezinok;Pezinok
+8;SK0108;Okres Senec;Senec;Senec
+9;SK0211;Okres Dunajská Streda;Dunajská Streda;Dunajská Streda
+10;SK0212;Okres Galanta;Galanta;Galanta
+11;SK0213;Okres Hlohovec;Hlohovec;Hlohovec
+12;SK0214;Okres Piešťany;Piešťany;Piešťany
+13;SK0215;Okres Senica;Senica;Senica
+14;SK0216;Okres Skalica;Skalica;Skalica
+15;SK0217;Okres Trnava;Trnava;Trnava
+16;SK0221;Okres Bánovce nad Bebravou;Bánovce nad Bebravou;Bánovce nad Bebravou
+17;SK0222;Okres Ilava;Ilava;Ilava
+18;SK0223;Okres Myjava;Myjava;Myjava
+19;SK0224;Okres Nové Mesto nad Váhom;Nové Mesto nad Váhom;Nové Mesto nad Váhom
+20;SK0225;Okres Partizánske;Partizánske;Partizánske
+21;SK0226;Okres Považská Bystrica;Považská Bystrica;Považská Bystrica
+22;SK0227;Okres Prievidza;Prievidza;Prievidza
+23;SK0228;Okres Púchov;Púchov;Púchov
+24;SK0229;Okres Trenčín;Trenčín;Trenčín
+25;SK0231;Okres Komárno;Komárno;Komárno
+26;SK0232;Okres Levice;Levice;Levice
+27;SK0233;Okres Nitra;Nitra;Nitra
+28;SK0234;Okres Nové Zámky;Nové Zámky;Nové Zámky
+29;SK0235;Okres Šaľa;Šaľa;Šaľa
+30;SK0236;Okres Topoľčany;Topoľčany;Topoľčany
+31;SK0237;Okres Zlaté Moravce;Zlaté Moravce;Zlaté Moravce
+32;SK031A;Okres Tvrdošín;Tvrdošín;Tvrdošín
+33;SK031B;Okres Žilina;Žilina;Žilina
+34;SK0311;Okres Bytča;Bytča;Bytča
+35;SK0312;Okres Čadca;Čadca;Čadca
+36;SK0313;Okres Dolný Kubín;Dolný Kubín;Dolný Kubín
+37;SK0314;Okres Kysucké Nové Mesto;Kysucké Nové Mesto;Kysucké Nové Mesto
+38;SK0315;Okres Liptovský Mikuláš;Liptovský Mikuláš;Liptovský Mikuláš
+39;SK0316;Okres Martin;Martin;Martin
+40;SK0317;Okres Námestovo;Námestovo;Námestovo
+41;SK0318;Okres Ružomberok;Ružomberok;Ružomberok
+42;SK0319;Okres Turčianske Teplice;Turčianske Teplice;Turčianske Teplice
+43;SK032A;Okres Veľký Krtíš;Veľký Krtíš;Veľký Krtíš
+44;SK032B;Okres Zvolen;Zvolen;Zvolen
+45;SK032C;Okres Žarnovica;Žarnovica;Žarnovica
+46;SK032D;Okres Žiar nad Hronom;Žiar nad Hronom;Žiar nad Hronom
+47;SK0321;Okres Banská Bystrica;Banská Bystrica;Banská Bystrica
+48;SK0322;Okres Banská Štiavnica;Banská Štiavnica;Banská Štiavnica
+49;SK0323;Okres Brezno;Brezno;Brezno
+50;SK0324;Okres Detva;Detva;Detva
+51;SK0325;Okres Krupina;Krupina;Krupina
+52;SK0326;Okres Lučenec;Lučenec;Lučenec
+53;SK0327;Okres Poltár;Poltár;Poltár
+54;SK0328;Okres Revúca;Revúca;Revúca
+55;SK0329;Okres Rimavská Sobota;Rimavská Sobota;Rimavská Sobota
+56;SK041A;Okres Stará Ľubovňa;Stará Ľubovňa;Stará Ľubovňa
+57;SK041B;Okres Stropkov;Stropkov;Stropkov
+58;SK041C;Okres Svidník;Svidník;Svidník
+59;SK041D;Okres Vranov nad Topľou;Vranov nad Topľou;Vranov nad Topľou
+60;SK0411;Okres Bardejov;Bardejov;Bardejov
+61;SK0412;Okres Humenné;Humenné;Humenné
+62;SK0413;Okres Kežmarok;Kežmarok;Kežmarok
+63;SK0414;Okres Levoča;Levoča;Levoča
+64;SK0415;Okres Medzilaborce;Medzilaborce;Medzilaborce
+65;SK0416;Okres Poprad;Poprad;Poprad
+66;SK0417;Okres Prešov;Prešov;Prešov
+67;SK0418;Okres Sabinov;Sabinov;Sabinov
+68;SK0419;Okres Snina;Snina;Snina
+69;SK042A;Okres Spišská Nová Ves;Spišská Nová Ves;Spišská Nová Ves
+70;SK042B;Okres Trebišov;Trebišov;Trebišov
+71;SK0421;Okres Gelnica;Gelnica;Gelnica
+72;SK0422;Okres Košice I;Košice I;Košice I
+73;SK0423;Okres Košice II;Košice II;Košice II
+74;SK0424;Okres Košice III;Košice III;Košice III
+75;SK0425;Okres Košice IV;Košice IV;Košice IV
+76;SK0426;Okres Košice - okolie;Košice - okolie;Košice - okolie
+77;SK0427;Okres Michalovce;Michalovce;Michalovce
+78;SK0428;Okres Rožňava;Rožňava;Rožňava
+79;SK0429;Okres Sobrance;Sobrance;Sobrance

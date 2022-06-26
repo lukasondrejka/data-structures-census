@@ -1,0 +1,205 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="Main.cpp" />
+    <ClCompile Include="census\census.cpp">
+      <Filter>census</Filter>
+    </ClCompile>
+    <ClCompile Include="structures\structure.cpp">
+      <Filter>structures</Filter>
+    </ClCompile>
+    <ClCompile Include="structures\vector\vector.cpp">
+      <Filter>structures\vector</Filter>
+    </ClCompile>
+    <ClCompile Include="csv_loader\csv_loader.cpp">
+      <Filter>csv_loader</Filter>
+    </ClCompile>
+    <ClCompile Include="structures\utils.cpp">
+      <Filter>structures</Filter>
+    </ClCompile>
+    <ClCompile Include="census\territorial_unit\territorial_unit_search_container.cpp">
+      <Filter>census\territorial_unit</Filter>
+    </ClCompile>
+    <ClCompile Include="census\territorial_unit\territorial_unit.cpp">
+      <Filter>census\territorial_unit</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="census\census.h">
+      <Filter>census</Filter>
+    </ClInclude>
+    <ClInclude Include="cli\cli.h">
+      <Filter>cli</Filter>
+    </ClInclude>
+    <ClInclude Include="implementation\composite_filter.h">
+      <Filter>implementation</Filter>
+    </ClInclude>
+    <ClInclude Include="implementation\criterion.h">
+      <Filter>implementation</Filter>
+    </ClInclude>
+    <ClInclude Include="structures\structure.h">
+      <Filter>structures</Filter>
+    </ClInclude>
+    <ClInclude Include="implementation\selector.h">
+      <Filter>implementation</Filter>
+    </ClInclude>
+    <ClInclude Include="structures\data_item.h">
+      <Filter>structures</Filter>
+    </ClInclude>
+    <ClInclude Include="structures\array\array.h">
+      <Filter>structures\array</Filter>
+    </ClInclude>
+    <ClInclude Include="structures\list\array_list.h">
+      <Filter>structures\list</Filter>
+    </ClInclude>
+    <ClInclude Include="implementation\container\array_list_container.h">
+      <Filter>implementation\container</Filter>
+    </ClInclude>
+    <ClInclude Include="structures\matrix\coherent_matrix.h">
+      <Filter>structures\matrix</Filter>
+    </ClInclude>
+    <ClInclude Include="structures\matrix\matrix.h">
+      <Filter>structures\matrix</Filter>
+    </ClInclude>
+    <ClInclude Include="structures\table\table.h">
+      <Filter>structures\table</Filter>
+    </ClInclude>
+    <ClInclude Include="structures\vector\vector.h">
+      <Filter>structures\vector</Filter>
+    </ClInclude>
+    <ClInclude Include="implementation\filter.h">
+      <Filter>implementation</Filter>
+    </ClInclude>
+    <ClInclude Include="structures\heap_monitor.h">
+      <Filter>structures</Filter>
+    </ClInclude>
+    <ClInclude Include="structures\list\list.h">
+      <Filter>structures\list</Filter>
+    </ClInclude>
+    <ClInclude Include="structures\list\linked_list.h">
+      <Filter>structures\list</Filter>
+    </ClInclude>
+    <ClInclude Include="census\territorial_unit\filters.h">
+      <Filter>census\territorial_unit</Filter>
+    </ClInclude>
+    <ClInclude Include="csv_loader\csv_loader.h">
+      <Filter>csv_loader</Filter>
+    </ClInclude>
+    <ClInclude Include="cli\printable.h">
+      <Filter>cli</Filter>
+    </ClInclude>
+    <ClInclude Include="structures\table\sorting\quick_sort.h">
+      <Filter>structures\table\sorting</Filter>
+    </ClInclude>
+    <ClInclude Include="structures\table\sorting\sort.h">
+      <Filter>structures\table\sorting</Filter>
+    </ClInclude>
+    <ClInclude Include="implementation\sorting\quick_sort.h">
+      <Filter>implementation\sorting</Filter>
+    </ClInclude>
+    <ClInclude Include="implementation\sorting\shuffle.h">
+      <Filter>implementation\sorting</Filter>
+    </ClInclude>
+    <ClInclude Include="implementation\sorting\sortable.h">
+      <Filter>implementation\sorting</Filter>
+    </ClInclude>
+    <ClInclude Include="structures\utils.h">
+      <Filter>structures</Filter>
+    </ClInclude>
+    <ClInclude Include="structures\table\unsorted_sequence_table.h">
+      <Filter>structures\table</Filter>
+    </ClInclude>
+    <ClInclude Include="census\types.h">
+      <Filter>census</Filter>
+    </ClInclude>
+    <ClInclude Include="structures\types.h">
+      <Filter>structures</Filter>
+    </ClInclude>
+    <ClInclude Include="census\territorial_unit\territorial_unit_search_container.h">
+      <Filter>census\territorial_unit</Filter>
+    </ClInclude>
+    <ClInclude Include="census\territorial_unit\territorial_unit.h">
+      <Filter>census\territorial_unit</Filter>
+    </ClInclude>
+    <ClInclude Include="structures\structure_iterator.h">
+      <Filter>structures</Filter>
+    </ClInclude>
+    <ClInclude Include="structures\table\sorted_sequence_table.h">
+      <Filter>structures\table</Filter>
+    </ClInclude>
+    <ClInclude Include="implementation\smart_ptr.h">
+      <Filter>implementation</Filter>
+    </ClInclude>
+    <ClInclude Include="implementation\sorting\shell_sort.h">
+      <Filter>implementation\sorting</Filter>
+    </ClInclude>
+    <ClInclude Include="structures\table\sorting\shell_sort.h">
+      <Filter>structures\table\sorting</Filter>
+    </ClInclude>
+    <ClInclude Include="structures\table\sequence_table.h">
+      <Filter>structures\table</Filter>
+    </ClInclude>
+    <ClInclude Include="census\territorial_unit\selection_criterions.h">
+      <Filter>census\territorial_unit</Filter>
+    </ClInclude>
+    <ClInclude Include="implementation\selection_criterion.h">
+      <Filter>implementation</Filter>
+    </ClInclude>
+    <ClInclude Include="implementation\sorting\sort.h">
+      <Filter>implementation\sorting</Filter>
+    </ClInclude>
+    <ClInclude Include="census\territorial_unit\criterions.h">
+      <Filter>census\territorial_unit</Filter>
+    </ClInclude>
+    <ClInclude Include="implementation\container\container.h">
+      <Filter>implementation\container</Filter>
+    </ClInclude>
+    <ClInclude Include="structures\table\sorting\shuffle.h">
+      <Filter>structures\table\sorting</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="structures">
+      <UniqueIdentifier>{91fc4461-aece-4028-bb1a-9d03d186be9c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="implementation">
+      <UniqueIdentifier>{c6211acc-573a-4f91-84ef-8bd5a54252ad}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="cli">
+      <UniqueIdentifier>{6f3a2e2c-4ca2-4032-85f0-9f510c14106d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="csv_loader">
+      <UniqueIdentifier>{37feca1a-3d0d-4ee4-a61d-e6002dad1d7e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="implementation\container">
+      <UniqueIdentifier>{45b12895-b377-4e9b-90ea-5bcca3ba3fa4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="census">
+      <UniqueIdentifier>{050c21e5-2f2b-4f73-8b12-a71dc0a41218}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="census\territorial_unit">
+      <UniqueIdentifier>{2a221152-9521-4c14-8bed-3045296f5cce}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="structures\array">
+      <UniqueIdentifier>{adb364ff-de73-4765-b247-995ef23a5a44}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="structures\vector">
+      <UniqueIdentifier>{dcf5c4d3-9740-46ae-a701-d58b927a73a9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="structures\matrix">
+      <UniqueIdentifier>{e9b56d17-1082-4a00-8f5b-51141f4c172c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="structures\list">
+      <UniqueIdentifier>{fb2bb129-8b5f-4787-b9ee-86bcbfe2018a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="structures\table">
+      <UniqueIdentifier>{13ef9be3-105c-4e25-bbcd-66f76dda21ae}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="structures\table\sorting">
+      <UniqueIdentifier>{b7c2b27a-39ee-4a2b-8974-bd2194438e44}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="implementation\sorting">
+      <UniqueIdentifier>{d1032e25-d546-4ba8-9499-dbfa1de941c9}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

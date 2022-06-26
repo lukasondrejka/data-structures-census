@@ -1,0 +1,2929 @@
+﻿sortNumber;code;officialTitle;mediumTitle;shortTitle
+1;SK0101528595;Bratislava - mestska cast Stare Mesto;Bratislava-Stare Mesto;Bratislava-Stare Mesto
+2;SK0102529311;Bratislava - mestska cast Podunajske Biskupice;Bratislava-Podunajske Biskupice;Bratislava-Pod.Biskup.
+3;SK0102529320;Bratislava - mestska cast Ruzinov;Bratislava-Ruzinov;Bratislava-Ruzinov
+4;SK0102529338;Bratislava - mestska cast Vrakuna;Bratislava-Vrakuna;Bratislava-Vrakuna
+5;SK0103529346;Bratislava - mestska cast Nove Mesto;Bratislava-Nove Mesto;Bratislava-Nove Mesto
+6;SK0103529354;Bratislava - mestska cast Raca;Bratislava-Raca;Bratislava-Raca
+7;SK0103529362;Bratislava - mestska cast Vajnory;Bratislava-Vajnory;Bratislava-Vajnory
+8;SK0104529371;Bratislava - mestska cast Devinska Nova Ves;Bratislava-Devinska Nova Ves;Bratislava-Dev.Nova Ves
+9;SK0104529389;Bratislava - mestska cast Dubravka;Bratislava-Dubravka;Bratislava-Dubravka
+10;SK0104529397;Bratislava - mestska cast Karlova Ves;Bratislava-Karlova Ves;Bratislava-Karlova Ves
+11;SK0104529401;Bratislava - mestska cast Devin;Bratislava-Devin;Bratislava-Devin
+12;SK0104529419;Bratislava - mestska cast Lamac;Bratislava-Lamac;Bratislava-Lamac
+13;SK0104529427;Bratislava - mestska cast Zahorska Bystrica;Bratislava-Zahorska Bystrica;Bratislava-Zahor.Bystr.
+14;SK0105529435;Bratislava - mestska cast Cunovo;Bratislava-Cunovo;Bratislava-Cunovo
+15;SK0105529443;Bratislava - mestska cast Jarovce;Bratislava-Jarovce;Bratislava-Jarovce
+16;SK0105529460;Bratislava - mestska cast Petrzalka;Bratislava-Petrzalka;Bratislava-Petrzalka
+17;SK0105529494;Bratislava - mestska cast Rusovce;Bratislava-Rusovce;Bratislava-Rusovce
+18;SK0106500267;Zahorie (vojensky obvod);Zahorie;Zahorie (voj.obvod)
+19;SK0106504556;Male Levare;Male Levare;Male Levare
+20;SK0106504629;Plavecke Podhradie;Plavecke Podhradie;Plavecke Podhradie
+21;SK0106504637;Plavecky Mikulas;Plavecky Mikulas;Plavecky Mikulas
+22;SK0106504769;Rohoznik;Rohoznik;Rohoznik
+23;SK0106504858;Solosnica;Solosnica;Solosnica
+24;SK0106504874;Studienka;Studienka;Studienka
+25;SK0106504947;Velke Levare;Velke Levare;Velke Levare
+26;SK0106504980;Zavod;Zavod;Zavod
+27;SK0106507831;Borinka;Borinka;Borinka
+28;SK0106507890;Gajary;Gajary;Gajary
+29;SK0106507954;Jablonove;Jablonove;Jablonove
+30;SK0106507962;Jakubov;Jakubov;Jakubov
+31;SK0106508012;Kostoliste;Kostoliste;Kostoliste
+32;SK0106508021;Kuchyna;Kuchyna;Kuchyna
+33;SK0106508039;Lab;Lab;Lab
+34;SK0106508055;Lozorno;Lozorno;Lozorno
+35;SK0106508063;Malacky;Malacky;Malacky
+36;SK0106508080;Marianka;Marianka;Marianka
+37;SK0106508161;Pernek;Pernek;Pernek
+38;SK0106508195;Plavecky Stvrtok;Plavecky Stvrtok;Plavecky Stvrtok
+39;SK0106508233;Stupava;Stupava;Stupava
+40;SK0106508241;Suchohrad;Suchohrad;Suchohrad
+41;SK0106508349;Vysoka pri Morave;Vysoka pri Morave;Vysoka pri Morave
+42;SK0106508365;Zahorska Ves;Zahorska Ves;Zahorska Ves
+43;SK0106508381;Zohor;Zohor;Zohor
+44;SK0107507806;Bahon;Bahon;Bahon
+45;SK0107507849;Budmerice;Budmerice;Budmerice
+46;SK0107507857;Casta;Casta;Casta
+47;SK0107507873;Dolany;Dolany;Dolany
+48;SK0107507881;Dubova;Dubova;Dubova
+49;SK0107507946;Jablonec;Jablonec;Jablonec
+50;SK0107507989;Svaty Jur;Svaty Jur;Svaty Jur
+51;SK0107508047;Limbach;Limbach;Limbach
+52;SK0107508101;Modra;Modra;Modra
+53;SK0107508179;Pezinok;Pezinok;Pezinok
+54;SK0107508187;Pila;Pila;Pila
+55;SK0107508225;Slovensky Grob;Slovensky Grob;Slovensky Grob
+56;SK0107508250;Senkvice;Senkvice;Senkvice
+57;SK0107508268;Stefanova;Stefanova;Stefanova
+58;SK0107508306;Vinicne;Vinicne;Vinicne
+59;SK0107508314;Vinosady;Vinosady;Vinosady
+60;SK0107508322;Vistuk;Vistuk;Vistuk
+61;SK0108503681;Boldog;Boldog;Boldog
+62;SK0108503797;Hruba Borsa;Hruba Borsa;Hruba Borsa
+63;SK0108503801;Hruby Sur;Hruby Sur;Hruby Sur
+64;SK0108503819;Hurbanova Ves;Hurbanova Ves;Hurbanova Ves
+65;SK0108503851;Kostolna pri Dunaji;Kostolna pri Dunaji;Kostolna pri Dunaji
+66;SK0108503894;Kralova pri Senci;Kralova pri Senci;Kralova pri Senci
+67;SK0108503983;Reca;Reca;Reca
+68;SK0108507814;Bernolakovo;Bernolakovo;Bernolakovo
+69;SK0108507822;Blatne;Blatne;Blatne
+70;SK0108507865;Cataj;Cataj;Cataj
+71;SK0108507903;Hamuliakovo;Hamuliakovo;Hamuliakovo
+72;SK0108507911;Chorvatsky Grob;Chorvatsky Grob;Chorvatsky Grob
+73;SK0108507938;Ivanka pri Dunaji;Ivanka pri Dunaji;Ivanka pri Dunaji
+74;SK0108507997;Kalinkovo;Kalinkovo;Kalinkovo
+75;SK0108508071;Malinovo;Malinovo;Malinovo
+76;SK0108508098;Miloslavov;Miloslavov;Miloslavov
+77;SK0108508110;Most pri Bratislave;Most pri Bratislave;Most pri Bratislave
+78;SK0108508136;Nova Dedinka;Nova Dedinka;Nova Dedinka
+79;SK0108508209;Rovinka;Rovinka;Rovinka
+80;SK0108508217;Senec;Senec;Senec
+81;SK0108508276;Tomasov;Tomasov;Tomasov
+82;SK0108508284;Turen;Turen;Turen
+83;SK0108508292;Velky Biel;Velky Biel;Velky Biel
+84;SK0108508331;Vlky;Vlky;Vlky
+85;SK0108545333;Dunajska Luzna;Dunajska Luzna;Dunajska Luzna
+86;SK0108555487;Igram;Igram;Igram
+87;SK0108555495;Kaplna;Kaplna;Kaplna
+88;SK0108555509;Zalesie;Zalesie;Zalesie
+89;SK0108582549;Novy Svet;Novy Svet;Novy Svet
+90;SK0211501433;Dunajska Streda;Dunajska Streda;Dunajska Streda
+91;SK0211501441;Bac;Bac;Bac
+92;SK0211501450;Baka;Baka;Baka
+93;SK0211501468;Balon;Balon;Balon
+94;SK0211501484;Blahova;Blahova;Blahova
+95;SK0211501492;Blatna na Ostrove;Blatna na Ostrove;Blatna na Ostrove
+96;SK0211501506;Bohelov;Bohelov;Bohelov
+97;SK0211501514;Cakany;Cakany;Cakany
+98;SK0211501522;Velky Meder;Velky Meder;Velky Meder
+99;SK0211501531;Cilizska Radvan;Cilizska Radvan;Cilizska Radvan
+100;SK0211501549;Dobrohost;Dobrohost;Dobrohost
+101;SK0211501557;Dolny Bar;Dolny Bar;Dolny Bar
+102;SK0211501573;Gabcikovo;Gabcikovo;Gabcikovo
+103;SK0211501581;Holice;Holice;Holice
+104;SK0211501590;Horna Poton;Horna Poton;Horna Poton
+105;SK0211501603;Horny Bar;Horny Bar;Horny Bar
+106;SK0211501611;Dolny Stal;Dolny Stal;Dolny Stal
+107;SK0211501620;Hubice;Hubice;Hubice
+108;SK0211501638;Hviezdoslavov;Hviezdoslavov;Hviezdoslavov
+109;SK0211501654;Jahodna;Jahodna;Jahodna
+110;SK0211501662;Janiky;Janiky;Janiky
+111;SK0211501671;Jurova;Jurova;Jurova
+112;SK0211501689;Klucovec;Klucovec;Klucovec
+113;SK0211501697;Kostolne Kracany;Kostolne Kracany;Kostolne Kracany
+114;SK0211501701;Kralovicove Kracany;Kralovicove Kracany;Kralovicove Kracany
+115;SK0211501719;Kutniky;Kutniky;Kutniky
+116;SK0211501727;Kvetoslavov;Kvetoslavov;Kvetoslavov
+117;SK0211501735;Lehnice;Lehnice;Lehnice
+118;SK0211501743;Luc na Ostrove;Luc na Ostrove;Luc na Ostrove
+119;SK0211501760;Medvedov;Medvedov;Medvedov
+120;SK0211501778;Mierovo;Mierovo;Mierovo
+121;SK0211501786;Michal na Ostrove;Michal na Ostrove;Michal na Ostrove
+122;SK0211501808;Novy Zivot;Novy Zivot;Novy Zivot
+123;SK0211501816;Ohrady;Ohrady;Ohrady
+124;SK0211501824;Okoc;Okoc;Okoc
+125;SK0211501832;Oldza;Oldza;Oldza
+126;SK0211501859;Orechova Poton;Orechova Poton;Orechova Poton
+127;SK0211501867;Padan;Padan;Padan
+128;SK0211501875;Sap;Sap;Sap
+129;SK0211501883;Patas;Patas;Patas
+130;SK0211501891;Rohovce;Rohovce;Rohovce
+131;SK0211501905;Samorin;Samorin;Samorin
+132;SK0211501913;Stvrtok na Ostrove;Stvrtok na Ostrove;Stvrtok na Ostrove
+133;SK0211501921;Topolniky;Topolniky;Topolniky
+134;SK0211501930;Narad;Narad;Narad
+135;SK0211501956;Trnavka;Trnavka;Trnavka
+136;SK0211501964;Trstena na Ostrove;Trstena na Ostrove;Trstena na Ostrove
+137;SK0211501972;Velka Paka;Velka Paka;Velka Paka
+138;SK0211501981;Velke Blahovo;Velke Blahovo;Velke Blahovo
+139;SK0211501999;Vojka nad Dunajom;Vojka nad Dunajom;Vojka nad Dunajom
+140;SK0211502006;Vrakun;Vrakun;Vrakun
+141;SK0211502014;Vydrany;Vydrany;Vydrany
+142;SK0211502022;Zlate Klasy;Zlate Klasy;Zlate Klasy
+143;SK0211503461;Bodiky;Bodiky;Bodiky
+144;SK0211555517;Bellova Ves;Bellova Ves;Bellova Ves
+145;SK0211555541;Dunajsky Klatov;Dunajsky Klatov;Dunajsky Klatov
+146;SK0211555568;Horne Myto;Horne Myto;Horne Myto
+147;SK0211555576;Trhova Hradska;Trhova Hradska;Trhova Hradska
+148;SK0211555606;Macov;Macov;Macov
+149;SK0211555649;Mad;Mad;Mad
+150;SK0211555665;Male Dvorniky;Male Dvorniky;Male Dvorniky
+151;SK0211555673;Velke Dvorniky;Velke Dvorniky;Velke Dvorniky
+152;SK0211555720;Povoda;Povoda;Povoda
+153;SK0211555746;Vieska;Vieska;Vieska
+154;SK0211580554;Cenkovce;Cenkovce;Cenkovce
+155;SK0211580597;Kyselica;Kyselica;Kyselica
+156;SK0211582522;Potonske Luky;Potonske Luky;Potonske Luky
+157;SK0212503665;Galanta;Galanta;Galanta
+158;SK0212503673;Abraham;Abraham;Abraham
+159;SK0212503690;Cierna Voda;Cierna Voda;Cierna Voda
+160;SK0212503703;Cierny Brod;Cierny Brod;Cierny Brod
+161;SK0212503746;Dolne Saliby;Dolne Saliby;Dolne Saliby
+162;SK0212503754;Dolny Chotar;Dolny Chotar;Dolny Chotar
+163;SK0212503762;Gan;Gan;Gan
+164;SK0212503771;Horne Saliby;Horne Saliby;Horne Saliby
+165;SK0212503789;Hoste;Hoste;Hoste
+166;SK0212503827;Janovce;Janovce;Janovce
+167;SK0212503835;Jelka;Jelka;Jelka
+168;SK0212503843;Kajal;Kajal;Kajal
+169;SK0212503860;Kosuty;Kosuty;Kosuty
+170;SK0212503878;Kralov Brod;Kralov Brod;Kralov Brod
+171;SK0212503924;Mostova;Mostova;Mostova
+172;SK0212503959;Pata;Pata;Pata
+173;SK0212503967;Puste Sady;Puste Sady;Puste Sady
+174;SK0212503975;Puste Ulany;Puste Ulany;Puste Ulany
+175;SK0212504009;Sered;Sered;Sered
+176;SK0212504017;Sladkovicovo;Sladkovicovo;Sladkovicovo
+177;SK0212504033;Salgocka;Salgocka;Salgocka
+178;SK0212504041;Sintava;Sintava;Sintava
+179;SK0212504050;Soporna;Soporna;Soporna
+180;SK0212504076;Tomasikovo;Tomasikovo;Tomasikovo
+181;SK0212504084;Topolnica;Topolnica;Topolnica
+182;SK0212504106;Trstice;Trstice;Trstice
+183;SK0212504114;Vahovce;Vahovce;Vahovce
+184;SK0212504122;Velka Maca;Velka Maca;Velka Maca
+185;SK0212504131;Velke Ulany;Velke Ulany;Velke Ulany
+186;SK0212504149;Velky Grob;Velky Grob;Velky Grob
+187;SK0212504157;Vinohrady nad Vahom;Vinohrady nad Vahom;Vinohrady nad Vahom
+188;SK0212504173;Vozokany;Vozokany;Vozokany
+189;SK0212504181;Zemianske Sady;Zemianske Sady;Zemianske Sady
+190;SK0212555754;Matuskovo;Matuskovo;Matuskovo
+191;SK0212555789;Dolna Streda;Dolna Streda;Dolna Streda
+192;SK0212582638;Mala Maca;Mala Maca;Mala Maca
+193;SK0213506800;Bojnicky;Bojnicky;Bojnicky
+194;SK0213506885;Cervenik;Cervenik;Cervenik
+195;SK0213506958;Dolne Otrokovce;Dolne Otrokovce;Dolne Otrokovce
+196;SK0213506966;Dolne Trhoviste;Dolne Trhoviste;Dolne Trhoviste
+197;SK0213507024;Dvorniky;Dvorniky;Dvorniky
+198;SK0213507032;Hlohovec;Hlohovec;Hlohovec
+199;SK0213507075;Horne Otrokovce;Horne Otrokovce;Horne Otrokovce
+200;SK0213507130;Jalsove;Jalsove;Jalsove
+201;SK0213507172;Klacany;Klacany;Klacany
+202;SK0213507202;Koplotovce;Koplotovce;Koplotovce
+203;SK0213507253;Leopoldov;Leopoldov;Leopoldov
+204;SK0213507288;Madunice;Madunice;Madunice
+205;SK0213507326;Merasice;Merasice;Merasice
+206;SK0213507415;Pastuchov;Pastuchov;Pastuchov
+207;SK0213507521;Sasinkovo;Sasinkovo;Sasinkovo
+208;SK0213507539;Siladice;Siladice;Siladice
+209;SK0213507661;Trakovice;Trakovice;Trakovice
+210;SK0213507792;Zlkovce;Zlkovce;Zlkovce
+211;SK0213518620;Ratkovce;Ratkovce;Ratkovce
+212;SK0213556521;Dolne Zelenice;Dolne Zelenice;Dolne Zelenice
+213;SK0213556530;Horne Zelenice;Horne Zelenice;Horne Zelenice
+214;SK0213556602;Horne Trhoviste;Horne Trhoviste;Horne Trhoviste
+215;SK0213556611;Tekoldany;Tekoldany;Tekoldany
+216;SK0213556645;Teplicky;Teplicky;Teplicky
+217;SK0214506834;Borovce;Borovce;Borovce
+218;SK0214506982;Dolny Lopasov;Dolny Lopasov;Dolny Lopasov
+219;SK0214506991;Drahovce;Drahovce;Drahovce
+220;SK0214507008;Dubovany;Dubovany;Dubovany
+221;SK0214507121;Chtelnica;Chtelnica;Chtelnica
+222;SK0214507199;Kocin-Lancar;Kocin-Lancar;Kocin-Lancar
+223;SK0214507229;Krakovany;Krakovany;Krakovany
+224;SK0214507342;Moravany nad Vahom;Moravany nad Vahom;Moravany nad Vahom
+225;SK0214507369;Nizna;Nizna;Nizna
+226;SK0214507385;Ostrov;Ostrov;Ostrov
+227;SK0214507431;Pecenady;Pecenady;Pecenady
+228;SK0214507440;Piestany;Piestany;Piestany
+229;SK0214507466;Prasnik;Prasnik;Prasnik
+230;SK0214507482;Rakovice;Rakovice;Rakovice
+231;SK0214507491;Ratnovce;Ratnovce;Ratnovce
+232;SK0214507563;Sokolovce;Sokolovce;Sokolovce
+233;SK0214507679;Trebatice;Trebatice;Trebatice
+234;SK0214507709;Velke Kostolany;Velke Kostolany;Velke Kostolany
+235;SK0214507725;Vesele;Vesele;Vesele
+236;SK0214507750;Vrbove;Vrbove;Vrbove
+237;SK0214556548;Sterusy;Sterusy;Sterusy
+238;SK0214556572;Velke Orviste;Velke Orviste;Velke Orviste
+239;SK0214556581;Hubina;Hubina;Hubina
+240;SK0214558338;Ducove;Ducove;Ducove
+241;SK0214558354;Basovce;Basovce;Basovce
+242;SK0214558397;Sipkove;Sipkove;Sipkove
+243;SK0214581399;Banka;Banka;Banka
+244;SK0215504203;Senica;Senica;Senica
+245;SK0215504211;Bilkove Humence;Bilkove Humence;Bilkove Humence
+246;SK0215504220;Borsky Svaty Jur;Borsky Svaty Jur;Borsky Svaty Jur
+247;SK0215504238;Borsky Mikulas;Borsky Mikulas;Borsky Mikulas
+248;SK0215504297;Cerova;Cerova;Cerova
+249;SK0215504319;Cary;Cary;Cary
+250;SK0215504327;Castkov;Castkov;Castkov
+251;SK0215504335;Dojc;Dojc;Dojc
+252;SK0215504360;Hlboke;Hlboke;Hlboke
+253;SK0215504386;Hradiste pod Vratnom;Hradiste pod Vratnom;Hradiste pod Vratnom
+254;SK0215504416;Jablonica;Jablonica;Jablonica
+255;SK0215504475;Kovalov;Kovalov;Kovalov
+256;SK0215504491;Kuklov;Kuklov;Kuklov
+257;SK0215504513;Kuty;Kuty;Kuty
+258;SK0215504521;Laksarska Nova Ves;Laksarska Nova Ves;Laksarska Nova Ves
+259;SK0215504572;Moravsky Svaty Jan;Moravsky Svaty Jan;Moravsky Svaty Jan
+260;SK0215504602;Osuske;Osuske;Osuske
+261;SK0215504645;Plavecky Peter;Plavecky Peter;Plavecky Peter
+262;SK0215504653;Podbranc;Podbranc;Podbranc
+263;SK0215504700;Prietrz;Prietrz;Prietrz
+264;SK0215504726;Prievaly;Prievaly;Prievaly
+265;SK0215504777;Rovensko;Rovensko;Rovensko
+266;SK0215504823;Smolinske;Smolinske;Smolinske
+267;SK0215504831;Smrdaky;Smrdaky;Smrdaky
+268;SK0215504840;Sobotiste;Sobotiste;Sobotiste
+269;SK0215504882;Sajdikove Humence;Sajdikove Humence;Sajdikove Humence
+270;SK0215504891;Sastin-Straze;Sastin-Straze;Sastin-Straze
+271;SK0215504904;Stefanov;Stefanov;Stefanov
+272;SK0215556114;Sekule;Sekule;Sekule
+273;SK0215556122;Rohov;Rohov;Rohov
+274;SK0215556131;Rybky;Rybky;Rybky
+275;SK0216504271;Brodske;Brodske;Brodske
+276;SK0216504343;Dubovce;Dubovce;Dubovce
+277;SK0216504351;Gbely;Gbely;Gbely
+278;SK0216504378;Holic;Holic;Holic
+279;SK0216504394;Chropov;Chropov;Chropov
+280;SK0216504432;Katov;Katov;Katov
+281;SK0216504459;Kopcany;Kopcany;Kopcany
+282;SK0216504483;Kovalovec;Kovalovec;Kovalovec
+283;SK0216504530;Letnicie;Letnicie;Letnicie
+284;SK0216504548;Lopasov;Lopasov;Lopasov
+285;SK0216504564;Mokry Haj;Mokry Haj;Mokry Haj
+286;SK0216504599;Oreske;Oreske;Oreske
+287;SK0216504611;Petrova Ves;Petrova Ves;Petrova Ves
+288;SK0216504670;Popudinske Mocidlany;Popudinske Mocidlany;Popudinske Mocidlany
+289;SK0216504718;Prietrzka;Prietrzka;Prietrzka
+290;SK0216504734;Radimov;Radimov;Radimov
+291;SK0216504742;Radosovce;Radosovce;Radosovce
+292;SK0216504815;Skalica;Skalica;Skalica
+293;SK0216504912;Trnovec;Trnovec;Trnovec
+294;SK0216504939;Unin;Unin;Unin
+295;SK0216504963;Vradiste;Vradiste;Vradiste
+296;SK0217506745;Trnava;Trnava;Trnava
+297;SK0217506788;Binovce;Binovce;Binovce
+298;SK0217506796;Bohdanovce nad Trnavou;Bohdanovce nad Trnavou;Bohdanovce nad Trnavou
+299;SK0217506818;Boleraz;Boleraz;Boleraz
+300;SK0217506826;Borova;Borova;Borova
+301;SK0217506842;Brestovany;Brestovany;Brestovany
+302;SK0217506851;Bucany;Bucany;Bucany
+303;SK0217506869;Bukova;Bukova;Bukova
+304;SK0217506877;Cifer;Cifer;Cifer
+305;SK0217506893;Dechtice;Dechtice;Dechtice
+306;SK0217506915;Dobra Voda;Dobra Voda;Dobra Voda
+307;SK0217506923;Dolna Krupa;Dolna Krupa;Dolna Krupa
+308;SK0217506931;Dolne Dubove;Dolne Dubove;Dolne Dubove
+309;SK0217506940;Dolne Oresany;Dolne Oresany;Dolne Oresany
+310;SK0217507041;Horna Krupa;Horna Krupa;Horna Krupa
+311;SK0217507059;Horne Dubove;Horne Dubove;Horne Dubove
+312;SK0217507067;Horne Oresany;Horne Oresany;Horne Oresany
+313;SK0217507156;Jaslovske Bohunice;Jaslovske Bohunice;Jaslovske Bohunice
+314;SK0217507164;Katlovce;Katlovce;Katlovce
+315;SK0217507211;Kosolna;Kosolna;Kosolna
+316;SK0217507296;Majcichov;Majcichov;Majcichov
+317;SK0217507318;Malzenice;Malzenice;Malzenice
+318;SK0217507351;Nahac;Nahac;Nahac
+319;SK0217507512;Ruzindol;Ruzindol;Ruzindol
+320;SK0217507555;Smolenice;Smolenice;Smolenice
+321;SK0217507571;Sucha nad Parnou;Sucha nad Parnou;Sucha nad Parnou
+322;SK0217507601;Spacince;Spacince;Spacince
+323;SK0217507636;Surovce;Surovce;Surovce
+324;SK0217507687;Trstin;Trstin;Trstin
+325;SK0217507741;Voderady;Voderady;Voderady
+326;SK0217507768;Zavar;Zavar;Zavar
+327;SK0217507776;Zelenec;Zelenec;Zelenec
+328;SK0217556483;Krizovany nad Dudvahom;Krizovany nad Dudvahom;Krizovany nad Dudvahom
+329;SK0217556491;Opoj;Opoj;Opoj
+330;SK0217556513;Vlckovce;Vlckovce;Vlckovce
+331;SK0217556556;Pavlice;Pavlice;Pavlice
+332;SK0217556564;Slovenska Nova Ves;Slovenska Nova Ves;Slovenska Nova Ves
+333;SK0217556599;Dlha;Dlha;Dlha
+334;SK0217556653;Radosovce;Radosovce;Radosovce
+335;SK0217556661;Dolne Lovcice;Dolne Lovcice;Dolne Lovcice
+336;SK0217556670;Selpice;Selpice;Selpice
+337;SK0217556688;Losonec;Losonec;Losonec
+338;SK0217580473;Biely Kostol;Biely Kostol;Biely Kostol
+339;SK0217581020;Hrnciarovce nad Parnou;Hrnciarovce nad Parnou;Hrnciarovce nad Parnou
+340;SK0217581488;Zvoncin;Zvoncin;Zvoncin
+341;SK0221505056;Lutov;Lutov;Lutov
+342;SK0221505072;Mala Hradna;Mala Hradna;Mala Hradna
+343;SK0221505102;Male Hoste;Male Hoste;Male Hoste
+344;SK0221505153;Miezgovce;Miezgovce;Miezgovce
+345;SK0221505200;Nedasovce;Nedasovce;Nedasovce
+346;SK0221505277;Omastina;Omastina;Omastina
+347;SK0221505331;Pecenany;Pecenany;Pecenany
+348;SK0221505358;Podluzany;Podluzany;Podluzany
+349;SK0221505382;Pravotice;Pravotice;Pravotice
+350;SK0221505412;Prusy;Prusy;Prusy
+351;SK0221505447;Ruskovce;Ruskovce;Ruskovce
+352;SK0221505455;Rybany;Rybany;Rybany
+353;SK0221505471;Slatina nad Bebravou;Slatina nad Bebravou;Slatina nad Bebravou
+354;SK0221505480;Slatinka nad Bebravou;Slatinka nad Bebravou;Slatinka nad Bebravou
+355;SK0221505544;Sipkov;Sipkov;Sipkov
+356;SK0221505552;Sisov;Sisov;Sisov
+357;SK0221505579;Timoradza;Timoradza;Timoradza
+358;SK0221505595;Trebichava;Trebichava;Trebichava
+359;SK0221505625;Uhrovec;Uhrovec;Uhrovec
+360;SK0221505633;Uhrovske Podhradie;Uhrovske Podhradie;Uhrovske Podhradie
+361;SK0221505684;Velke Hoste;Velke Hoste;Velke Hoste
+362;SK0221505692;Velke Chlievany;Velke Chlievany;Velke Chlievany
+363;SK0221505765;Vysocany;Vysocany;Vysocany
+364;SK0221505790;Zlatniky;Zlatniky;Zlatniky
+365;SK0221505811;Zitna-Radisa;Zitna-Radisa;Zitna-Radisa
+366;SK0221542652;Banovce nad Bebravou;Banovce nad Bebravou;Banovce nad Bebravou
+367;SK0221542741;Brezolupy;Brezolupy;Brezolupy
+368;SK0221542776;Cimenna;Cimenna;Cimenna
+369;SK0221542806;Cierna Lehota;Cierna Lehota;Cierna Lehota
+370;SK0221542822;Dezerice;Dezerice;Dezerice
+371;SK0221542849;Dolne Nastice;Dolne Nastice;Dolne Nastice
+372;SK0221542857;Dubnicka;Dubnicka;Dubnicka
+373;SK0221542873;Dvorec;Dvorec;Dvorec
+374;SK0221542890;Halacovce;Halacovce;Halacovce
+375;SK0221542920;Horne Nastice;Horne Nastice;Horne Nastice
+376;SK0221543080;Krasna Ves;Krasna Ves;Krasna Ves
+377;SK0221543136;Ksinna;Ksinna;Ksinna
+378;SK0221545651;Velke Drzkovce;Velke Drzkovce;Velke Drzkovce
+379;SK0221556289;Otrhanky;Otrhanky;Otrhanky
+380;SK0221556360;Libichava;Libichava;Libichava
+381;SK0221556408;Chuda Lehota;Chuda Lehota;Chuda Lehota
+382;SK0221556742;Pochabany;Pochabany;Pochabany
+383;SK0221556793;Borcany;Borcany;Borcany
+384;SK0222512885;Bolesov;Bolesov;Bolesov
+385;SK0222512931;Cerveny Kamen;Cerveny Kamen;Cerveny Kamen
+386;SK0222513016;Dubnica nad Vahom;Dubnica nad Vahom;Dubnica nad Vahom
+387;SK0222513024;Dulov;Dulov;Dulov
+388;SK0222513091;Horna Poruba;Horna Poruba;Horna Poruba
+389;SK0222513156;Ilava;Ilava;Ilava
+390;SK0222513253;Koseca;Koseca;Koseca
+391;SK0222513296;Ladce;Ladce;Ladce
+392;SK0222513351;Kosecke Podhradie;Kosecke Podhradie;Kosecke Podhradie
+393;SK0222513385;Mikusovce;Mikusovce;Mikusovce
+394;SK0222513440;Nova Dubnica;Nova Dubnica;Nova Dubnica
+395;SK0222513598;Pruske;Pruske;Pruske
+396;SK0222513725;Tuchyna;Tuchyna;Tuchyna
+397;SK0222513865;Zliechov;Zliechov;Zliechov
+398;SK0222557391;Borcice;Borcice;Borcice
+399;SK0222557404;Kamenicany;Kamenicany;Kamenicany
+400;SK0222557412;Sedmerovec;Sedmerovec;Sedmerovec
+401;SK0222557421;Slavnica;Slavnica;Slavnica
+402;SK0222557617;Krivoklat;Krivoklat;Krivoklat
+403;SK0222557625;Vrsatske Podhradie;Vrsatske Podhradie;Vrsatske Podhradie
+404;SK0222582301;Bohunice;Bohunice;Bohunice
+405;SK0223504254;Brestovec;Brestovec;Brestovec
+406;SK0223504262;Brezova pod Bradlom;Brezova pod Bradlom;Brezova pod Bradlom
+407;SK0223504289;Bukovec;Bukovec;Bukovec
+408;SK0223504408;Chvojnica;Chvojnica;Chvojnica
+409;SK0223504424;Jablonka;Jablonka;Jablonka
+410;SK0223504467;Kosariska;Kosariska;Kosariska
+411;SK0223504581;Myjava;Myjava;Myjava
+412;SK0223504661;Polianka;Polianka;Polianka
+413;SK0223504688;Poriadie;Poriadie;Poriadie
+414;SK0223504696;Priepasne;Priepasne;Priepasne
+415;SK0223504793;Rudnik;Rudnik;Rudnik
+416;SK0223504866;Stara Myjava;Stara Myjava;Stara Myjava
+417;SK0223504971;Vrbovce;Vrbovce;Vrbovce
+418;SK0223506079;Hrasne;Hrasne;Hrasne
+419;SK0223506141;Kostolne;Kostolne;Kostolne
+420;SK0223506150;Krajne;Krajne;Krajne
+421;SK0223506419;Podkylava;Podkylava;Podkylava
+422;SK0224505846;Beckov;Beckov;Beckov
+423;SK0224505871;Bosaca;Bosaca;Bosaca
+424;SK0224505889;Brunovce;Brunovce;Brunovce
+425;SK0224505897;Bzince pod Javorinou;Bzince pod Javorinou;Bzince pod Javorinou
+426;SK0224505901;Cachtice;Cachtice;Cachtice
+427;SK0224505919;Castkovce;Castkovce;Castkovce
+428;SK0224505951;Dolne Srnie;Dolne Srnie;Dolne Srnie
+429;SK0224505994;Horka nad Vahom;Horka nad Vahom;Horka nad Vahom
+430;SK0224506001;Horna Streda;Horna Streda;Horna Streda
+431;SK0224506052;Hradok;Hradok;Hradok
+432;SK0224506061;Hrachoviste;Hrachoviste;Hrachoviste
+433;SK0224506109;Kalnica;Kalnica;Kalnica
+434;SK0224506125;Kocovce;Kocovce;Kocovce
+435;SK0224506184;Lubina;Lubina;Lubina
+436;SK0224506206;Luka;Luka;Luka
+437;SK0224506249;Modrova;Modrova;Modrova
+438;SK0224506257;Modrovka;Modrovka;Modrovka
+439;SK0224506265;Moravske Lieskove;Moravske Lieskove;Moravske Lieskove
+440;SK0224506303;Nova Bosaca;Nova Bosaca;Nova Bosaca
+441;SK0224506311;Nova Lehota;Nova Lehota;Nova Lehota
+442;SK0224506338;Nove Mesto nad Vahom;Nove Mesto nad Vahom;Nove Mesto nad Vahom
+443;SK0224506346;Ockov;Ockov;Ockov
+444;SK0224506401;Pobedim;Pobedim;Pobedim
+445;SK0224506427;Podolie;Podolie;Podolie
+446;SK0224506435;Potvorice;Potvorice;Potvorice
+447;SK0224506443;Povazany;Povazany;Povazany
+448;SK0224506516;Stara Lehota;Stara Lehota;Stara Lehota
+449;SK0224506524;Stara Tura;Stara Tura;Stara Tura
+450;SK0224506583;Trencianske Bohuslavice;Trencianske Bohuslavice;Trencianske Bohuslavice
+451;SK0224506630;Vadovce;Vadovce;Vadovce
+452;SK0224506672;Visnove;Visnove;Visnove
+453;SK0224556424;Haluzice;Haluzice;Haluzice
+454;SK0224556441;Zemianske Podhradie;Zemianske Podhradie;Zemianske Podhradie
+455;SK0224556459;Nova Ves nad Vahom;Nova Ves nad Vahom;Nova Ves nad Vahom
+456;SK0225505129;Male Krstenany;Male Krstenany;Male Krstenany
+457;SK0225505170;Nadlice;Nadlice;Nadlice
+458;SK0225505196;Nedanovce;Nedanovce;Nedanovce
+459;SK0225505307;Ostratice;Ostratice;Ostratice
+460;SK0225505315;Partizanske;Partizanske;Partizanske
+461;SK0225505323;Pazit;Pazit;Pazit
+462;SK0225505463;Skacany;Skacany;Skacany
+463;SK0225505706;Velke Krstenany;Velke Krstenany;Velke Krstenany
+464;SK0225505722;Velke Uherce;Velke Uherce;Velke Uherce
+465;SK0225505731;Velky Kliz;Velky Kliz;Velky Kliz
+466;SK0225505803;Zabokreky nad Nitrou;Zabokreky nad Nitrou;Zabokreky nad Nitrou
+467;SK0225542733;Bosany;Bosany;Bosany
+468;SK0225542962;Hradiste;Hradiste;Hradiste
+469;SK0225543004;Chynorany;Chynorany;Chynorany
+470;SK0225543047;Klatova Nova Ves;Klatova Nova Ves;Klatova Nova Ves
+471;SK0225543055;Kolacno;Kolacno;Kolacno
+472;SK0225556173;Livina;Livina;Livina
+473;SK0225556190;Livinske Opatovce;Livinske Opatovce;Livinske Opatovce
+474;SK0225556246;Krasno;Krasno;Krasno
+475;SK0225556271;Turcianky;Turcianky;Turcianky
+476;SK0225556416;Jeskova Ves;Jeskova Ves;Jeskova Ves
+477;SK0225580449;Brodzany;Brodzany;Brodzany
+478;SK0225580953;Male Uherce;Male Uherce;Male Uherce
+479;SK0226512842;Povazska Bystrica;Povazska Bystrica;Povazska Bystrica
+480;SK0226512915;Brvniste;Brvniste;Brvniste
+481;SK0226512966;Dolna Marikova;Dolna Marikova;Dolna Marikova
+482;SK0226513008;Domaniza;Domaniza;Domaniza
+483;SK0226513083;Horna Marikova;Horna Marikova;Horna Marikova
+484;SK0226513172;Jasenica;Jasenica;Jasenica
+485;SK0226513245;Kostolec;Kostolec;Kostolec
+486;SK0226513466;Papradno;Papradno;Papradno
+487;SK0226513474;Plevnik-Drienove;Plevnik-Drienove;Plevnik-Drienove
+488;SK0226513563;Precin;Precin;Precin
+489;SK0226513601;Pruzina;Pruzina;Pruzina
+490;SK0226513687;Stupne;Stupne;Stupne
+491;SK0226513741;Udica;Udica;Udica
+492;SK0226513784;Vrchtepla;Vrchtepla;Vrchtepla
+493;SK0226513822;Zaskalie;Zaskalie;Zaskalie
+494;SK0226518913;Sverepec;Sverepec;Sverepec
+495;SK0226546640;Dolny Lieskov;Dolny Lieskov;Dolny Lieskov
+496;SK0226557480;Slopna;Slopna;Slopna
+497;SK0226557510;Hatne;Hatne;Hatne
+498;SK0226557552;Kliestina;Kliestina;Kliestina
+499;SK0226557561;Celkova Lehota;Celkova Lehota;Celkova Lehota
+500;SK0226557579;Male Lednice;Male Lednice;Male Lednice
+501;SK0226557595;Sadocne;Sadocne;Sadocne
+502;SK0226557609;Durdove;Durdove;Durdove
+503;SK0226557633;Bodina;Bodina;Bodina
+504;SK0226558222;Pocarova;Pocarova;Pocarova
+505;SK0226580856;Horny Lieskov;Horny Lieskov;Horny Lieskov
+506;SK0226580864;Podskalie;Podskalie;Podskalie
+507;SK0227513881;Prievidza;Prievidza;Prievidza
+508;SK0227513903;Bojnice;Bojnice;Bojnice
+509;SK0227513911;Bystricany;Bystricany;Bystricany
+510;SK0227513920;Cigel;Cigel;Cigel
+511;SK0227513938;Cavoj;Cavoj;Cavoj
+512;SK0227513946;Cerenany;Cerenany;Cerenany
+513;SK0227513954;Diviacka Nova Ves;Diviacka Nova Ves;Diviacka Nova Ves
+514;SK0227513962;Diviaky nad Nitricou;Diviaky nad Nitricou;Diviaky nad Nitricou
+515;SK0227513971;Dlzin;Dlzin;Dlzin
+516;SK0227513989;Dolne Vestenice;Dolne Vestenice;Dolne Vestenice
+517;SK0227513997;Handlova;Handlova;Handlova
+518;SK0227514004;Horna Ves;Horna Ves;Horna Ves
+519;SK0227514012;Horne Vestenice;Horne Vestenice;Horne Vestenice
+520;SK0227514021;Chrenovec-Brusno;Chrenovec-Brusno;Chrenovec-Brusno
+521;SK0227514039;Chvojnica;Chvojnica;Chvojnica
+522;SK0227514063;Kamenec pod Vtacnikom;Kamenec pod Vtacnikom;Kamenec pod Vtacnikom
+523;SK0227514071;Kanianka;Kanianka;Kanianka
+524;SK0227514080;Klacno;Klacno;Klacno
+525;SK0227514098;Kocurany;Kocurany;Kocurany
+526;SK0227514101;Kostolna Ves;Kostolna Ves;Kostolna Ves
+527;SK0227514110;Kos;Kos;Kos
+528;SK0227514128;Lazany;Lazany;Lazany
+529;SK0227514136;Lehota pod Vtacnikom;Lehota pod Vtacnikom;Lehota pod Vtacnikom
+530;SK0227514144;Liestany;Liestany;Liestany
+531;SK0227514179;Mala Causa;Mala Causa;Mala Causa
+532;SK0227514187;Malinova;Malinova;Malinova
+533;SK0227514209;Nedozery-Brezany;Nedozery-Brezany;Nedozery-Brezany
+534;SK0227514217;Nevidzany;Nevidzany;Nevidzany
+535;SK0227514225;Nitrianske Pravno;Nitrianske Pravno;Nitrianske Pravno
+536;SK0227514233;Nitrianske Rudno;Nitrianske Rudno;Nitrianske Rudno
+537;SK0227514241;Nitrianske Sucany;Nitrianske Sucany;Nitrianske Sucany
+538;SK0227514250;Nitrica;Nitrica;Nitrica
+539;SK0227514268;Novaky;Novaky;Novaky
+540;SK0227514284;Opatovce nad Nitrou;Opatovce nad Nitrou;Opatovce nad Nitrou
+541;SK0227514292;Oslany;Oslany;Oslany
+542;SK0227514306;Podhradie;Podhradie;Podhradie
+543;SK0227514314;Poluvsie;Poluvsie;Poluvsie
+544;SK0227514322;Poruba;Poruba;Poruba
+545;SK0227514331;Pravenec;Pravenec;Pravenec
+546;SK0227514349;Radobica;Radobica;Radobica
+547;SK0227514357;Raztocno;Raztocno;Raztocno
+548;SK0227514365;Rudnianska Lehota;Rudnianska Lehota;Rudnianska Lehota
+549;SK0227514373;Sebedrazie;Sebedrazie;Sebedrazie
+550;SK0227514381;Sec;Sec;Sec
+551;SK0227514390;Sutovce;Sutovce;Sutovce
+552;SK0227514403;Temes;Temes;Temes
+553;SK0227514411;Tuzina;Tuzina;Tuzina
+554;SK0227514420;Valaska Bela;Valaska Bela;Valaska Bela
+555;SK0227514438;Velka Causa;Velka Causa;Velka Causa
+556;SK0227514454;Zemianske Kostolany;Zemianske Kostolany;Zemianske Kostolany
+557;SK0227557706;Lipnik;Lipnik;Lipnik
+558;SK0227557714;Jalovec;Jalovec;Jalovec
+559;SK0228500348;Zubak;Zubak;Zubak
+560;SK0228512851;Belusa;Belusa;Belusa
+561;SK0228512940;Dohnany;Dohnany;Dohnany
+562;SK0228512958;Dolna Breznica;Dolna Breznica;Dolna Breznica
+563;SK0228513121;Horovce;Horovce;Horovce
+564;SK0228513300;Lazy pod Makytou;Lazy pod Makytou;Lazy pod Makytou
+565;SK0228513318;Lednica;Lednica;Lednica
+566;SK0228513326;Lednicke Rovne;Lednicke Rovne;Lednicke Rovne
+567;SK0228513334;Luky;Luky;Luky
+568;SK0228513342;Lysa pod Makytou;Lysa pod Makytou;Lysa pod Makytou
+569;SK0228513377;Mestecko;Mestecko;Mestecko
+570;SK0228513407;Mojtin;Mojtin;Mojtin
+571;SK0228513610;Puchov;Puchov;Puchov
+572;SK0228513776;Visolaje;Visolaje;Visolaje
+573;SK0228513814;Zariecie;Zariecie;Zariecie
+574;SK0228557439;Dolne Kockovce;Dolne Kockovce;Dolne Kockovce
+575;SK0228557447;Nimnica;Nimnica;Nimnica
+576;SK0228557471;Strezenice;Strezenice;Strezenice
+577;SK0228557498;Vydrna;Vydrna;Vydrna
+578;SK0228557501;Kvasov;Kvasov;Kvasov
+579;SK0228557692;Horna Breznica;Horna Breznica;Horna Breznica
+580;SK0229505820;Trencin;Trencin;Trencin
+581;SK0229505838;Adamovske Kochanovce;Adamovske Kochanovce;Adamovske Kochanovce
+582;SK0229505854;Bobot;Bobot;Bobot
+583;SK0229505935;Dolna Poruba;Dolna Poruba;Dolna Poruba
+584;SK0229505943;Dolna Suca;Dolna Suca;Dolna Suca
+585;SK0229505960;Drietoma;Drietoma;Drietoma
+586;SK0229505978;Dubodiel;Dubodiel;Dubodiel
+587;SK0229506010;Horna Suca;Horna Suca;Horna Suca
+588;SK0229506028;Hornany;Hornany;Hornany
+589;SK0229506036;Horne Srnie;Horne Srnie;Horne Srnie
+590;SK0229506044;Hrabovka;Hrabovka;Hrabovka
+591;SK0229506087;Chocholna-Velcice;Chocholna-Velcice;Chocholna-Velcice
+592;SK0229506095;Ivanovce;Ivanovce;Ivanovce
+593;SK0229506133;Kostolna-Zariecie;Kostolna-Zariecie;Kostolna-Zariecie
+594;SK0229506168;Krivosud-Bodovka;Krivosud-Bodovka;Krivosud-Bodovka
+595;SK0229506231;Mnichova Lehota;Mnichova Lehota;Mnichova Lehota
+596;SK0229506273;Motesice;Motesice;Motesice
+597;SK0229506281;Nemsova;Nemsova;Nemsova
+598;SK0229506290;Neporadza;Neporadza;Neporadza
+599;SK0229506354;Omsenie;Omsenie;Omsenie
+600;SK0229506371;Opatovce;Opatovce;Opatovce
+601;SK0229506478;Selec;Selec;Selec
+602;SK0229506508;Soblahov;Soblahov;Soblahov
+603;SK0229506532;Svinna;Svinna;Svinna
+604;SK0229506541;Stvrtok;Stvrtok;Stvrtok
+605;SK0229506559;Trencianska Tepla;Trencianska Tepla;Trencianska Tepla
+606;SK0229506567;Trencianska Turna;Trencianska Turna;Trencianska Turna
+607;SK0229506591;Trencianske Jastrabie;Trencianske Jastrabie;Trencianske Jastrabie
+608;SK0229506605;Trencianske Mitice;Trencianske Mitice;Trencianske Mitice
+609;SK0229506613;Trencianske Teplice;Trencianske Teplice;Trencianske Teplice
+610;SK0229506648;Velka Hradna;Velka Hradna;Velka Hradna
+611;SK0229506656;Velke Bierovce;Velke Bierovce;Velke Bierovce
+612;SK0229545686;Melcice-Lieskove;Melcice-Lieskove;Melcice-Lieskove
+613;SK0229545741;Trencianske Stankovce;Trencianske Stankovce;Trencianske Stankovce
+614;SK0229546682;Skalka nad Vahom;Skalka nad Vahom;Skalka nad Vahom
+615;SK0229556475;Zamarovce;Zamarovce;Zamarovce
+616;SK0229581348;Petrova Lehota;Petrova Lehota;Petrova Lehota
+617;SK0231501026;Komarno;Komarno;Komarno
+618;SK0231501034;Bajc;Bajc;Bajc
+619;SK0231501042;Bodza;Bodza;Bodza
+620;SK0231501069;Brestovec;Brestovec;Brestovec
+621;SK0231501077;Buc;Buc;Buc
+622;SK0231501085;Calovec;Calovec;Calovec
+623;SK0231501093;Cicov;Cicov;Cicov
+624;SK0231501107;Dedina Mladeze;Dedina Mladeze;Dedina Mladeze
+625;SK0231501115;Svaty Peter;Svaty Peter;Svaty Peter
+626;SK0231501123;Dulovce;Dulovce;Dulovce
+627;SK0231501140;Hurbanovo;Hurbanovo;Hurbanovo
+628;SK0231501158;Chotin;Chotin;Chotin
+629;SK0231501166;Imel;Imel;Imel
+630;SK0231501174;Iza;Iza;Iza
+631;SK0231501182;Kamenicna;Kamenicna;Kamenicna
+632;SK0231501191;Klizska Nema;Klizska Nema;Klizska Nema
+633;SK0231501204;Kolarovo;Kolarovo;Kolarovo
+634;SK0231501212;Kravany nad Dunajom;Kravany nad Dunajom;Kravany nad Dunajom
+635;SK0231501221;Lipove;Lipove;Lipove
+636;SK0231501239;Marcelova;Marcelova;Marcelova
+637;SK0231501247;Martovce;Martovce;Martovce
+638;SK0231501255;Moca;Moca;Moca
+639;SK0231501263;Modrany;Modrany;Modrany
+640;SK0231501271;Mudronovo;Mudronovo;Mudronovo
+641;SK0231501280;Nesvady;Nesvady;Nesvady
+642;SK0231501301;Okolicna na Ostrove;Okolicna na Ostrove;Okolicna na Ostrove
+643;SK0231501310;Patince;Patince;Patince
+644;SK0231501328;Pribeta;Pribeta;Pribeta
+645;SK0231501336;Radvan nad Dunajom;Radvan nad Dunajom;Radvan nad Dunajom
+646;SK0231501344;Sokolce;Sokolce;Sokolce
+647;SK0231501352;Srobarova;Srobarova;Srobarova
+648;SK0231501361;Ton;Ton;Ton
+649;SK0231501379;Travnik;Travnik;Travnik
+650;SK0231501387;Velke Kosihy;Velke Kosihy;Velke Kosihy
+651;SK0231501395;Batorove Kosihy;Batorove Kosihy;Batorove Kosihy
+652;SK0231501409;Vrbova nad Vahom;Vrbova nad Vahom;Vrbova nad Vahom
+653;SK0231501417;Zemianska Olca;Zemianska Olca;Zemianska Olca
+654;SK0231501425;Zlatna na Ostrove;Zlatna na Ostrove;Zlatna na Ostrove
+655;SK0231555819;Bodzianske Luky;Bodzianske Luky;Bodzianske Luky
+656;SK0231555827;Virt;Virt;Virt
+657;SK0231580911;Holiare;Holiare;Holiare
+658;SK0232502031;Levice;Levice;Levice
+659;SK0232502049;Bajka;Bajka;Bajka
+660;SK0232502057;Batovce;Batovce;Batovce
+661;SK0232502065;Besa;Besa;Besa
+662;SK0232502073;Bielovce;Bielovce;Bielovce
+663;SK0232502090;Bory;Bory;Bory
+664;SK0232502103;Brhlovce;Brhlovce;Brhlovce
+665;SK0232502111;Cajkov;Cajkov;Cajkov
+666;SK0232502120;Caka;Caka;Caka
+667;SK0232502154;Demandice;Demandice;Demandice
+668;SK0232502162;Devicany;Devicany;Devicany
+669;SK0232502171;Dolna Sec;Dolna Sec;Dolna Sec
+670;SK0232502189;Dolne Semerovce;Dolne Semerovce;Dolne Semerovce
+671;SK0232502197;Dolny Pial;Dolny Pial;Dolny Pial
+672;SK0232502201;Domadice;Domadice;Domadice
+673;SK0232502219;Drzenice;Drzenice;Drzenice
+674;SK0232502227;Farna;Farna;Farna
+675;SK0232502243;Hokovce;Hokovce;Hokovce
+676;SK0232502251;Hontianska Vrbica;Hontianska Vrbica;Hontianska Vrbica
+677;SK0232502260;Horna Sec;Horna Sec;Horna Sec
+678;SK0232502278;Horne Semerovce;Horne Semerovce;Horne Semerovce
+679;SK0232502286;Horne Turovce;Horne Turovce;Horne Turovce
+680;SK0232502294;Horny Pial;Horny Pial;Horny Pial
+681;SK0232502324;Hronovce;Hronovce;Hronovce
+682;SK0232502332;Hronske Klacany;Hronske Klacany;Hronske Klacany
+683;SK0232502341;Hronske Kosihy;Hronske Kosihy;Hronske Kosihy
+684;SK0232502359;Ina;Ina;Ina
+685;SK0232502367;Ipelske Ulany;Ipelske Ulany;Ipelske Ulany
+686;SK0232502375;Ipelsky Sokolec;Ipelsky Sokolec;Ipelsky Sokolec
+687;SK0232502383;Jablonovce;Jablonovce;Jablonovce
+688;SK0232502391;Jur nad Hronom;Jur nad Hronom;Jur nad Hronom
+689;SK0232502413;Kalna nad Hronom;Kalna nad Hronom;Kalna nad Hronom
+690;SK0232502421;Kozarovce;Kozarovce;Kozarovce
+691;SK0232502430;Krskany;Krskany;Krskany
+692;SK0232502448;Kubanovo;Kubanovo;Kubanovo
+693;SK0232502456;Kukucinov;Kukucinov;Kukucinov
+694;SK0232502464;Kuralany;Kuralany;Kuralany
+695;SK0232502472;Ket;Ket;Ket
+696;SK0232502481;Lok;Lok;Lok
+697;SK0232502499;Lontov;Lontov;Lontov
+698;SK0232502502;Lula;Lula;Lula
+699;SK0232502511;Malas;Malas;Malas
+700;SK0232502537;Male Ludince;Male Ludince;Male Ludince
+701;SK0232502570;Mytne Ludany;Mytne Ludany;Mytne Ludany
+702;SK0232502588;Nova Dedina;Nova Dedina;Nova Dedina
+703;SK0232502596;Novy Tekov;Novy Tekov;Novy Tekov
+704;SK0232502600;Nyrovce;Nyrovce;Nyrovce
+705;SK0232502618;Ondrejovce;Ondrejovce;Ondrejovce
+706;SK0232502626;Pastovce;Pastovce;Pastovce
+707;SK0232502634;Pecenice;Pecenice;Pecenice
+708;SK0232502642;Plastovce;Plastovce;Plastovce
+709;SK0232502651;Plave Vozokany;Plave Vozokany;Plave Vozokany
+710;SK0232502669;Podluzany;Podluzany;Podluzany
+711;SK0232502677;Pohronsky Ruskov;Pohronsky Ruskov;Pohronsky Ruskov
+712;SK0232502693;Pukanec;Pukanec;Pukanec
+713;SK0232502707;Rybnik;Rybnik;Rybnik
+714;SK0232502715;Santovka;Santovka;Santovka
+715;SK0232502723;Sazdice;Sazdice;Sazdice
+716;SK0232502731;Sikenica;Sikenica;Sikenica
+717;SK0232502740;Slatina;Slatina;Slatina
+718;SK0232502758;Stary Hradok;Stary Hradok;Stary Hradok
+719;SK0232502766;Stary Tekov;Stary Tekov;Stary Tekov
+720;SK0232502782;Sahy;Sahy;Sahy
+721;SK0232502791;Salov;Salov;Salov
+722;SK0232502804;Sarovce;Sarovce;Sarovce
+723;SK0232502812;Tehla;Tehla;Tehla
+724;SK0232502821;Tekovske Luzany;Tekovske Luzany;Tekovske Luzany
+725;SK0232502847;Tekovsky Hradok;Tekovsky Hradok;Tekovsky Hradok
+726;SK0232502863;Tlmace;Tlmace;Tlmace
+727;SK0232502871;Tupa;Tupa;Tupa
+728;SK0232502880;Tura;Tura;Tura
+729;SK0232502898;Uhliska;Uhliska;Uhliska
+730;SK0232502910;Velke Ludince;Velke Ludince;Velke Ludince
+731;SK0232502928;Velke Turovce;Velke Turovce;Velke Turovce
+732;SK0232502936;Velky Dur;Velky Dur;Velky Dur
+733;SK0232502944;Vyskovce nad Iplom;Vyskovce nad Iplom;Vyskovce nad Iplom
+734;SK0232502952;Vysne nad Hronom;Vysne nad Hronom;Vysne nad Hronom
+735;SK0232502961;Zalaba;Zalaba;Zalaba
+736;SK0232502979;Zbrojniky;Zbrojniky;Zbrojniky
+737;SK0232502987;Zeliezovce;Zeliezovce;Zeliezovce
+738;SK0232502995;Zemberovce;Zemberovce;Zemberovce
+739;SK0232503002;Zemliare;Zemliare;Zemliare
+740;SK0232545350;Hontianske Trstany;Hontianske Trstany;Hontianske Trstany
+741;SK0232555843;Cata;Cata;Cata
+742;SK0232556777;Jesenske;Jesenske;Jesenske
+743;SK0232580937;Bohunice;Bohunice;Bohunice
+744;SK0232581135;Male Kozmalovce;Male Kozmalovce;Male Kozmalovce
+745;SK0232581160;Velke Kozmalovce;Velke Kozmalovce;Velke Kozmalovce
+746;SK0232581895;Hrkovce;Hrkovce;Hrkovce
+747;SK0233500011;Nitra;Nitra;Nitra
+748;SK0233500020;Aleksince;Aleksince;Aleksince
+749;SK0233500046;Bab;Bab;Bab
+750;SK0233500071;Branc;Branc;Branc
+751;SK0233500101;Cakajovce;Cakajovce;Cakajovce
+752;SK0233500135;Celadice;Celadice;Celadice
+753;SK0233500160;Cifare;Cifare;Cifare
+754;SK0233500194;Dolne Obdokovce;Dolne Obdokovce;Dolne Obdokovce
+755;SK0233500232;Golianovo;Golianovo;Golianovo
+756;SK0233500313;Hrubonovo;Hrubonovo;Hrubonovo
+757;SK0233500356;Jarok;Jarok;Jarok
+758;SK0233500372;Jelenec;Jelenec;Jelenec
+759;SK0233500381;Jelsovce;Jelsovce;Jelsovce
+760;SK0233500399;Kapince;Kapince;Kapince
+761;SK0233500402;Klasov;Klasov;Klasov
+762;SK0233500411;Kolinany;Kolinany;Kolinany
+763;SK0233500453;Lehota;Lehota;Lehota
+764;SK0233500470;Lucnica nad Zitavou;Lucnica nad Zitavou;Lucnica nad Zitavou
+765;SK0233500488;Lukacovce;Lukacovce;Lukacovce
+766;SK0233500518;Velke Chyndice;Velke Chyndice;Velke Chyndice
+767;SK0233500534;Male Zaluzie;Male Zaluzie;Male Zaluzie
+768;SK0233500569;Melek;Melek;Melek
+769;SK0233500577;Mojmirovce;Mojmirovce;Mojmirovce
+770;SK0233500631;Nova Ves nad Zitavou;Nova Ves nad Zitavou;Nova Ves nad Zitavou
+771;SK0233500640;Nove Sady;Nove Sady;Nove Sady
+772;SK0233500666;Pana;Pana;Pana
+773;SK0233500674;Podhorany;Podhorany;Podhorany
+774;SK0233500682;Pohranice;Pohranice;Pohranice
+775;SK0233500691;Polny Kesov;Polny Kesov;Polny Kesov
+776;SK0233500704;Risnovce;Risnovce;Risnovce
+777;SK0233500712;Rumanova;Rumanova;Rumanova
+778;SK0233500780;Surianky;Surianky;Surianky
+779;SK0233500798;Tajna;Tajna;Tajna
+780;SK0233500844;Velka Dolina;Velka Dolina;Velka Dolina
+781;SK0233500887;Velke Zaluzie;Velke Zaluzie;Velke Zaluzie
+782;SK0233500895;Velky Cetin;Velky Cetin;Velky Cetin
+783;SK0233500917;Vinodol;Vinodol;Vinodol
+784;SK0233500933;Vrable;Vrable;Vrable
+785;SK0233500941;Vycapy-Opatovce;Vycapy-Opatovce;Vycapy-Opatovce
+786;SK0233500950;Zbehy;Zbehy;Zbehy
+787;SK0233500992;Zirany;Zirany;Zirany
+788;SK0233501018;Zitavce;Zitavce;Zitavce
+789;SK0233545589;Cabaj-Capor;Cabaj-Capor;Cabaj-Capor
+790;SK0233545635;Horne Lefantovce;Horne Lefantovce;Horne Lefantovce
+791;SK0233555851;Maly Lapas;Maly Lapas;Maly Lapas
+792;SK0233555860;Velky Lapas;Velky Lapas;Velky Lapas
+793;SK0233555886;Cechynce;Cechynce;Cechynce
+794;SK0233555908;Maly Cetin;Maly Cetin;Maly Cetin
+795;SK0233555959;Hostova;Hostova;Hostova
+796;SK0233555967;Telince;Telince;Telince
+797;SK0233555991;Svatoplukovo;Svatoplukovo;Svatoplukovo
+798;SK0233556696;Nitrianske Hrnciarovce;Nitrianske Hrnciarovce;Nitrianske Hrnciarovce
+799;SK0233556785;Male Chyndice;Male Chyndice;Male Chyndice
+800;SK0233558320;Ivanka pri Nitre;Ivanka pri Nitre;Ivanka pri Nitre
+801;SK0233580899;Luzianky;Luzianky;Luzianky
+802;SK0233581097;Ludovitova;Ludovitova;Ludovitova
+803;SK0233581623;Babindol;Babindol;Babindol
+804;SK0233581691;Stefanovicova;Stefanovicova;Stefanovicova
+805;SK0233582387;Cab;Cab;Cab
+806;SK0233582425;Dolne Lefantovce;Dolne Lefantovce;Dolne Lefantovce
+807;SK0233582697;Badice;Badice;Badice
+808;SK0233582719;Stitare;Stitare;Stitare
+809;SK0234503011;Nove Zamky;Nove Zamky;Nove Zamky
+810;SK0234503029;Andovce;Andovce;Andovce
+811;SK0234503037;Bajtava;Bajtava;Bajtava
+812;SK0234503045;Banov;Banov;Banov
+813;SK0234503053;Bardonovo;Bardonovo;Bardonovo
+814;SK0234503061;Bela;Bela;Bela
+815;SK0234503070;Besenov;Besenov;Besenov
+816;SK0234503088;Bina;Bina;Bina
+817;SK0234503096;Branovo;Branovo;Branovo
+818;SK0234503100;Bruty;Bruty;Bruty
+819;SK0234503118;Cechy;Cechy;Cechy
+820;SK0234503126;Cernik;Cernik;Cernik
+821;SK0234503134;Dedinka;Dedinka;Dedinka
+822;SK0234503151;Dolny Ohaj;Dolny Ohaj;Dolny Ohaj
+823;SK0234503169;Dubnik;Dubnik;Dubnik
+824;SK0234503177;Dvory nad Zitavou;Dvory nad Zitavou;Dvory nad Zitavou
+825;SK0234503185;Gbelce;Gbelce;Gbelce
+826;SK0234503193;Hul;Hul;Hul
+827;SK0234503207;Chlaba;Chlaba;Chlaba
+828;SK0234503215;Jasova;Jasova;Jasova
+829;SK0234503223;Jatov;Jatov;Jatov
+830;SK0234503231;Kamenica nad Hronom;Kamenica nad Hronom;Kamenica nad Hronom
+831;SK0234503240;Kamenin;Kamenin;Kamenin
+832;SK0234503258;Kamenny Most;Kamenny Most;Kamenny Most
+833;SK0234503266;Kmetovo;Kmetovo;Kmetovo
+834;SK0234503274;Kolta;Kolta;Kolta
+835;SK0234503282;Komjatice;Komjatice;Komjatice
+836;SK0234503291;Komoca;Komoca;Komoca
+837;SK0234503312;Lela;Lela;Lela
+838;SK0234503321;Lipova;Lipova;Lipova
+839;SK0234503339;Luba;Luba;Luba
+840;SK0234503347;Mala nad Hronom;Mala nad Hronom;Mala nad Hronom
+841;SK0234503355;Male Kosihy;Male Kosihy;Male Kosihy
+842;SK0234503363;Mana;Mana;Mana
+843;SK0234503371;Michal nad Zitavou;Michal nad Zitavou;Michal nad Zitavou
+844;SK0234503380;Velky Kyr;Velky Kyr;Velky Kyr
+845;SK0234503398;Mojzesovo;Mojzesovo;Mojzesovo
+846;SK0234503401;Muzla;Muzla;Muzla
+847;SK0234503436;Nova Vieska;Nova Vieska;Nova Vieska
+848;SK0234503452;Palarikovo;Palarikovo;Palarikovo
+849;SK0234503479;Podhajska;Podhajska;Podhajska
+850;SK0234503487;Pozba;Pozba;Pozba
+851;SK0234503495;Radava;Radava;Radava
+852;SK0234503509;Rastislavice;Rastislavice;Rastislavice
+853;SK0234503517;Ruban;Ruban;Ruban
+854;SK0234503525;Salka;Salka;Salka
+855;SK0234503533;Semerovo;Semerovo;Semerovo
+856;SK0234503541;Sikenicka;Sikenicka;Sikenicka
+857;SK0234503550;Strekov;Strekov;Strekov
+858;SK0234503568;Svodin;Svodin;Svodin
+859;SK0234503576;Sarkan;Sarkan;Sarkan
+860;SK0234503584;Sturovo;Sturovo;Sturovo
+861;SK0234503592;Surany;Surany;Surany
+862;SK0234503606;Travnica;Travnica;Travnica
+863;SK0234503614;Tvrdosovce;Tvrdosovce;Tvrdosovce
+864;SK0234503631;Velke Lovce;Velke Lovce;Velke Lovce
+865;SK0234503649;Zemne;Zemne;Zemne
+866;SK0234556025;Vlkas;Vlkas;Vlkas
+867;SK0234556033;Pavlova;Pavlova;Pavlova
+868;SK0234556050;Ulany nad Zitavou;Ulany nad Zitavou;Ulany nad Zitavou
+869;SK0234556092;Nana;Nana;Nana
+870;SK0234582361;Obid;Obid;Obid
+871;SK0235500241;Hajske;Hajske;Hajske
+872;SK0235500739;Mocenok;Mocenok;Mocenok
+873;SK0235503711;Diakovce;Diakovce;Diakovce
+874;SK0235503720;Dlha nad Vahom;Dlha nad Vahom;Dlha nad Vahom
+875;SK0235503886;Kralova nad Vahom;Kralova nad Vahom;Kralova nad Vahom
+876;SK0235503932;Neded;Neded;Neded
+877;SK0235503991;Selice;Selice;Selice
+878;SK0235504025;Sala;Sala;Sala
+879;SK0235504068;Tesedikovo;Tesedikovo;Tesedikovo
+880;SK0235504092;Trnovec nad Vahom;Trnovec nad Vahom;Trnovec nad Vahom
+881;SK0235504165;Vlcany;Vlcany;Vlcany
+882;SK0235504190;Ziharec;Ziharec;Ziharec
+883;SK0235555878;Horna Kralova;Horna Kralova;Horna Kralova
+884;SK0236504998;Topolcany;Topolcany;Topolcany
+885;SK0236505021;Lipovnik;Lipovnik;Lipovnik
+886;SK0236505048;Ludanice;Ludanice;Ludanice
+887;SK0236505064;Luzany;Luzany;Luzany
+888;SK0236505137;Male Ripnany;Male Ripnany;Male Ripnany
+889;SK0236505226;Nemecky;Nemecky;Nemecky
+890;SK0236505234;Nitrianska Blatnica;Nitrianska Blatnica;Nitrianska Blatnica
+891;SK0236505242;Nitrianska Streda;Nitrianska Streda;Nitrianska Streda
+892;SK0236505251;Norovce;Norovce;Norovce
+893;SK0236505285;Oponice;Oponice;Oponice
+894;SK0236505340;Podhradie;Podhradie;Podhradie
+895;SK0236505374;Prasice;Prasice;Prasice
+896;SK0236505404;Preselany;Preselany;Preselany
+897;SK0236505421;Radosina;Radosina;Radosina
+898;SK0236505439;Rajcany;Rajcany;Rajcany
+899;SK0236505498;Solcany;Solcany;Solcany
+900;SK0236505510;Sulovce;Sulovce;Sulovce
+901;SK0236505536;Salgovce;Salgovce;Salgovce
+902;SK0236505561;Tesare;Tesare;Tesare
+903;SK0236505617;Tvrdomestice;Tvrdomestice;Tvrdomestice
+904;SK0236505641;Urmince;Urmince;Urmince
+905;SK0236505676;Velke Dvorany;Velke Dvorany;Velke Dvorany
+906;SK0236505714;Velke Ripnany;Velke Ripnany;Velke Ripnany
+907;SK0236505749;Velusovce;Velusovce;Velusovce
+908;SK0236505757;Vozokany;Vozokany;Vozokany
+909;SK0236505773;Zavada;Zavada;Zavada
+910;SK0236542661;Belince;Belince;Belince
+911;SK0236542695;Biskupova;Biskupova;Biskupova
+912;SK0236542709;Blesovce;Blesovce;Blesovce
+913;SK0236542717;Bojna;Bojna;Bojna
+914;SK0236542792;Cermany;Cermany;Cermany
+915;SK0236542881;Hajna Nova Ves;Hajna Nova Ves;Hajna Nova Ves
+916;SK0236542938;Horne Obdokovce;Horne Obdokovce;Horne Obdokovce
+917;SK0236542954;Horne Stitare;Horne Stitare;Horne Stitare
+918;SK0236542971;Hrusovany;Hrusovany;Hrusovany
+919;SK0236543039;Kamanova;Kamanova;Kamanova
+920;SK0236543063;Koniarovce;Koniarovce;Koniarovce
+921;SK0236543071;Kovarce;Kovarce;Kovarce
+922;SK0236543101;Krnca;Krnca;Krnca
+923;SK0236543110;Krtovce;Krtovce;Krtovce
+924;SK0236556149;Krusovce;Krusovce;Krusovce
+925;SK0236556157;Jacovce;Jacovce;Jacovce
+926;SK0236556165;Chrabrany;Chrabrany;Chrabrany
+927;SK0236556211;Oresany;Oresany;Oresany
+928;SK0236556220;Ardanovce;Ardanovce;Ardanovce
+929;SK0236556238;Svrbice;Svrbice;Svrbice
+930;SK0236556262;Dvorany nad Nitrou;Dvorany nad Nitrou;Dvorany nad Nitrou
+931;SK0236556297;Celadince;Celadince;Celadince
+932;SK0236556327;Solcianky;Solcianky;Solcianky
+933;SK0236556351;Horne Chlebany;Horne Chlebany;Horne Chlebany
+934;SK0236580457;Tovarniky;Tovarniky;Tovarniky
+935;SK0236581305;Nemcice;Nemcice;Nemcice
+936;SK0236581658;Praznovce;Praznovce;Praznovce
+937;SK0236581704;Kuzmice;Kuzmice;Kuzmice
+938;SK0237500062;Beladice;Beladice;Beladice
+939;SK0237500127;Caradice;Caradice;Caradice
+940;SK0237500151;Cierne Klacany;Cierne Klacany;Cierne Klacany
+941;SK0237500283;Hostie;Hostie;Hostie
+942;SK0237500305;Hostovce;Hostovce;Hostovce
+943;SK0237500321;Choca;Choca;Choca
+944;SK0237500364;Jedlove Kostolany;Jedlove Kostolany;Jedlove Kostolany
+945;SK0237500429;Kostolany pod Tribecom;Kostolany pod Tribecom;Kostolany pod Tribecom
+946;SK0237500437;Ladice;Ladice;Ladice
+947;SK0237500461;Lovce;Lovce;Lovce
+948;SK0237500500;Machulince;Machulince;Machulince
+949;SK0237500542;Mankovce;Mankovce;Mankovce
+950;SK0237500551;Martin nad Zitavou;Martin nad Zitavou;Martin nad Zitavou
+951;SK0237500585;Nemcinany;Nemcinany;Nemcinany
+952;SK0237500593;Neverice;Neverice;Neverice
+953;SK0237500607;Nevidzany;Nevidzany;Nevidzany
+954;SK0237500658;Obyce;Obyce;Obyce
+955;SK0237500721;Skycov;Skycov;Skycov
+956;SK0237500747;Slazany;Slazany;Slazany
+957;SK0237500755;Slepcany;Slepcany;Slepcany
+958;SK0237500810;Tesarske Mlynany;Tesarske Mlynany;Tesarske Mlynany
+959;SK0237500828;Topolcianky;Topolcianky;Topolcianky
+960;SK0237500836;Velcice;Velcice;Velcice
+961;SK0237500909;Vieska nad Zitavou;Vieska nad Zitavou;Vieska nad Zitavou
+962;SK0237500925;Volkovce;Volkovce;Volkovce
+963;SK0237500968;Zlate Moravce;Zlate Moravce;Zlate Moravce
+964;SK0237500976;Zlatno;Zlatno;Zlatno
+965;SK0237500984;Zikava;Zikava;Zikava
+966;SK0237517305;Tekovske Nemce;Tekovske Nemce;Tekovske Nemce
+967;SK0237555916;Cerveny Hradok;Cerveny Hradok;Cerveny Hradok
+968;SK0237555924;Male Vozokany;Male Vozokany;Male Vozokany
+969;SK0237555932;Velke Vozokany;Velke Vozokany;Velke Vozokany
+970;SK0237582816;Zitavany;Zitavany;Zitavany
+971;SK031A509604;Brezovica;Brezovica;Brezovica
+972;SK031A509655;Habovka;Habovka;Habovka
+973;SK031A509663;Hladovka;Hladovka;Hladovka
+974;SK031A509795;Liesek;Liesek;Liesek
+975;SK031A509876;Nizna;Nizna;Nizna
+976;SK031A509949;Oravsky Biely Potok;Oravsky Biely Potok;Oravsky Biely Potok
+977;SK031A509981;Podbiel;Podbiel;Podbiel
+978;SK031A510076;Sucha Hora;Sucha Hora;Sucha Hora
+979;SK031A510084;Stefanov nad Oravou;Stefanov nad Oravou;Stefanov nad Oravou
+980;SK031A510106;Trstena;Trstena;Trstena
+981;SK031A510114;Tvrdosin;Tvrdosin;Tvrdosin
+982;SK031A510173;Vitanova;Vitanova;Vitanova
+983;SK031A510190;Zabiedovo;Zabiedovo;Zabiedovo
+984;SK031A510238;Zuberec;Zuberec;Zuberec
+985;SK031A518719;Cimhova;Cimhova;Cimhova
+986;SK031B517402;Zilina;Zilina;Zilina
+987;SK031B517429;Bela;Bela;Bela
+988;SK031B517470;Cicmany;Cicmany;Cicmany
+989;SK031B517488;Divina;Divina;Divina
+990;SK031B517496;Divinka;Divinka;Divinka
+991;SK031B517500;Dlhe Pole;Dlhe Pole;Dlhe Pole
+992;SK031B517518;Dolna Tizina;Dolna Tizina;Dolna Tizina
+993;SK031B517526;Dolny Hricov;Dolny Hricov;Dolny Hricov
+994;SK031B517542;Fackov;Fackov;Fackov
+995;SK031B517551;Gbelany;Gbelany;Gbelany
+996;SK031B517577;Horky;Horky;Horky
+997;SK031B517593;Horny Hricov;Horny Hricov;Horny Hricov
+998;SK031B517640;Jasenove;Jasenove;Jasenove
+999;SK031B517658;Kamenna Poruba;Kamenna Poruba;Kamenna Poruba
+1000;SK031B517682;Konska;Konska;Konska
+1001;SK031B517704;Kotrcina Lucka;Kotrcina Lucka;Kotrcina Lucka
+1002;SK031B517712;Krasnany;Krasnany;Krasnany
+1003;SK031B517721;Kunerad;Kunerad;Kunerad
+1004;SK031B517739;Lietava;Lietava;Lietava
+1005;SK031B517755;Lietavska Svinna-Babkov;Lietavska Svinna-Babkov;Lietavska Svinna-Babkov
+1006;SK031B517763;Lutise;Lutise;Lutise
+1007;SK031B517771;Lysica;Lysica;Lysica
+1008;SK031B517780;Mala Cierna;Mala Cierna;Mala Cierna
+1009;SK031B517801;Mojs;Mojs;Mojs
+1010;SK031B517828;Nededza;Nededza;Nededza
+1011;SK031B517879;Podhorie;Podhorie;Podhorie
+1012;SK031B517917;Rajec;Rajec;Rajec
+1013;SK031B517925;Rajecka Lesna;Rajecka Lesna;Rajecka Lesna
+1014;SK031B517933;Rajecke Teplice;Rajecke Teplice;Rajecke Teplice
+1015;SK031B517941;Rosina;Rosina;Rosina
+1016;SK031B517950;Stranavy;Stranavy;Stranavy
+1017;SK031B517968;Stranske;Stranske;Stranske
+1018;SK031B517976;Straza;Straza;Straza
+1019;SK031B517984;Strecno;Strecno;Strecno
+1020;SK031B518000;Svedernik;Svedernik;Svedernik
+1021;SK031B518034;Teplicka nad Vahom;Teplicka nad Vahom;Teplicka nad Vahom
+1022;SK031B518042;Terchova;Terchova;Terchova
+1023;SK031B518051;Turie;Turie;Turie
+1024;SK031B518069;Varin;Varin;Varin
+1025;SK031B518077;Velka Cierna;Velka Cierna;Velka Cierna
+1026;SK031B518093;Visnove;Visnove;Visnove
+1027;SK031B518131;Zbynov;Zbynov;Zbynov
+1028;SK031B547522;Bitarova;Bitarova;Bitarova
+1029;SK031B547557;Brezany;Brezany;Brezany
+1030;SK031B547590;Hricovske Podhradie;Hricovske Podhradie;Hricovske Podhradie
+1031;SK031B547611;Ovciarsko;Ovciarsko;Ovciarsko
+1032;SK031B547620;Pastina Zavada;Pastina Zavada;Pastina Zavada
+1033;SK031B557935;Lietavska Lucka;Lietavska Lucka;Lietavska Lucka
+1034;SK031B557960;Porubka;Porubka;Porubka
+1035;SK031B557986;Durcina;Durcina;Durcina
+1036;SK031B557994;Klace;Klace;Klace
+1037;SK031B558168;Nezbudska Lucka;Nezbudska Lucka;Nezbudska Lucka
+1038;SK031B581712;Suja;Suja;Suja
+1039;SK0311517461;Bytca;Bytca;Bytca
+1040;SK0311517623;Hvozdnica;Hvozdnica;Hvozdnica
+1041;SK0311517631;Jablonove;Jablonove;Jablonove
+1042;SK0311517674;Kolarovice;Kolarovice;Kolarovice
+1043;SK0311517691;Kotesova;Kotesova;Kotesova
+1044;SK0311517798;Marsova-Rasov;Marsova-Rasov;Marsova-Rasov
+1045;SK0311517861;Petrovice;Petrovice;Petrovice
+1046;SK0311517895;Predmier;Predmier;Predmier
+1047;SK0311517992;Sulov-Hradna;Sulov-Hradna;Sulov-Hradna
+1048;SK0311518018;Stiavnik;Stiavnik;Stiavnik
+1049;SK0311518085;Velke Rovne;Velke Rovne;Velke Rovne
+1050;SK0311581984;Hlboke nad Vahom;Hlboke nad Vahom;Hlboke nad Vahom
+1051;SK0312509132;Cadca;Cadca;Cadca
+1052;SK0312509159;Cierne;Cierne;Cierne
+1053;SK0312509167;Dlha nad Kysucou;Dlha nad Kysucou;Dlha nad Kysucou
+1054;SK0312509183;Dunajov;Dunajov;Dunajov
+1055;SK0312509213;Klokocov;Klokocov;Klokocov
+1056;SK0312509221;Klubina;Klubina;Klubina
+1057;SK0312509230;Korna;Korna;Korna
+1058;SK0312509248;Krasno nad Kysucou;Krasno nad Kysucou;Krasno nad Kysucou
+1059;SK0312509299;Makov;Makov;Makov
+1060;SK0312509311;Nova Bystrica;Nova Bystrica;Nova Bystrica
+1061;SK0312509337;Olesna;Olesna;Olesna
+1062;SK0312509345;Oscadnica;Oscadnica;Oscadnica
+1063;SK0312509361;Podvysoka;Podvysoka;Podvysoka
+1064;SK0312509396;Radostka;Radostka;Radostka
+1065;SK0312509400;Rakova;Rakova;Rakova
+1066;SK0312509451;Skalite;Skalite;Skalite
+1067;SK0312509477;Stara Bystrica;Stara Bystrica;Stara Bystrica
+1068;SK0312509485;Staskov;Staskov;Staskov
+1069;SK0312509493;Svrcinovec;Svrcinovec;Svrcinovec
+1070;SK0312509507;Turzovka;Turzovka;Turzovka
+1071;SK0312509515;Vysoka nad Kysucou;Vysoka nad Kysucou;Vysoka nad Kysucou
+1072;SK0312509523;Zakopcie;Zakopcie;Zakopcie
+1073;SK0312509531;Zborov nad Bystricou;Zborov nad Bystricou;Zborov nad Bystricou
+1074;SK0313509540;Dolny Kubin;Dolny Kubin;Dolny Kubin
+1075;SK0313509639;Dlha nad Oravou;Dlha nad Oravou;Dlha nad Oravou
+1076;SK0313509671;Horna Lehota;Horna Lehota;Horna Lehota
+1077;SK0313509698;Chlebnice;Chlebnice;Chlebnice
+1078;SK0313509701;Istebne;Istebne;Istebne
+1079;SK0313509710;Jasenova;Jasenova;Jasenova
+1080;SK0313509744;Kralovany;Kralovany;Kralovany
+1081;SK0313509761;Kriva;Kriva;Kriva
+1082;SK0313509787;Lestiny;Lestiny;Lestiny
+1083;SK0313509825;Malatina;Malatina;Malatina
+1084;SK0313509833;Medzibrodie nad Oravou;Medzibrodie nad Oravou;Medzibrodie nad Oravou
+1085;SK0313509922;Oravska Poruba;Oravska Poruba;Oravska Poruba
+1086;SK0313509957;Oravsky Podzamok;Oravsky Podzamok;Oravsky Podzamok
+1087;SK0313509965;Osadka;Osadka;Osadka
+1088;SK0313509973;Parnica;Parnica;Parnica
+1089;SK0313509990;Pokryvac;Pokryvac;Pokryvac
+1090;SK0313510009;Pribis;Pribis;Pribis
+1091;SK0313510017;Pucov;Pucov;Pucov
+1092;SK0313510041;Sedliacka Dubova;Sedliacka Dubova;Sedliacka Dubova
+1093;SK0313510165;Velicna;Velicna;Velicna
+1094;SK0313510181;Vysny Kubin;Vysny Kubin;Vysny Kubin
+1095;SK0313510211;Zazriva;Zazriva;Zazriva
+1096;SK0313510254;Zaskov;Zaskov;Zaskov
+1097;SK0313580813;Bziny;Bziny;Bziny
+1098;SK0314509175;Dolny Vadicov;Dolny Vadicov;Dolny Vadicov
+1099;SK0314509205;Horny Vadicov;Horny Vadicov;Horny Vadicov
+1100;SK0314509256;Kysucke Nove Mesto;Kysucke Nove Mesto;Kysucke Nove Mesto
+1101;SK0314509264;Kysucky Lieskovec;Kysucky Lieskovec;Kysucky Lieskovec
+1102;SK0314509272;Lodno;Lodno;Lodno
+1103;SK0314509281;Lopusne Pazite;Lopusne Pazite;Lopusne Pazite
+1104;SK0314509302;Neslusa;Neslusa;Neslusa
+1105;SK0314509329;Ochodnica;Ochodnica;Ochodnica
+1106;SK0314509370;Povina;Povina;Povina
+1107;SK0314509426;Rudina;Rudina;Rudina
+1108;SK0314509434;Rudinka;Rudinka;Rudinka
+1109;SK0314509442;Rudinska;Rudinska;Rudinska
+1110;SK0314509469;Sneznica;Sneznica;Sneznica
+1111;SK0314580791;Radola;Radola;Radola
+1112;SK0315507393;Konska;Konska;Konska
+1113;SK0315510262;Liptovsky Mikulas;Liptovsky Mikulas;Liptovsky Mikulas
+1114;SK0315510271;Benadikova;Benadikova;Benadikova
+1115;SK0315510319;Bobrovcek;Bobrovcek;Bobrovcek
+1116;SK0315510327;Bobrovec;Bobrovec;Bobrovec
+1117;SK0315510335;Bobrovnik;Bobrovnik;Bobrovnik
+1118;SK0315510351;Bukovina;Bukovina;Bukovina
+1119;SK0315510386;Demanovska Dolina;Demanovska Dolina;Demanovska Dolina
+1120;SK0315510408;Dubrava;Dubrava;Dubrava
+1121;SK0315510416;Galovany;Galovany;Galovany
+1122;SK0315510424;Gotovany;Gotovany;Gotovany
+1123;SK0315510459;Huty;Huty;Huty
+1124;SK0315510467;Hybe;Hybe;Hybe
+1125;SK0315510505;Jakubovany;Jakubovany;Jakubovany
+1126;SK0315510513;Jalovec;Jalovec;Jalovec
+1127;SK0315510521;Jamnik;Jamnik;Jamnik
+1128;SK0315510564;Kralova Lehota;Kralova Lehota;Kralova Lehota
+1129;SK0315510572;Kvacany;Kvacany;Kvacany
+1130;SK0315510581;Lazisko;Lazisko;Lazisko
+1131;SK0315510602;Liptovska Anna;Liptovska Anna;Liptovska Anna
+1132;SK0315510611;Liptovska Kokava;Liptovska Kokava;Liptovska Kokava
+1133;SK0315510653;Liptovska Sielnica;Liptovska Sielnica;Liptovska Sielnica
+1134;SK0315510688;Liptovske Beharovce;Liptovske Beharovce;Liptovske Beharovce
+1135;SK0315510696;Liptovske Klacany;Liptovske Klacany;Liptovske Klacany
+1136;SK0315510700;Liptovske Matiasovce;Liptovske Matiasovce;Liptovske Matiasovce
+1137;SK0315510726;Liptovsky Hradok;Liptovsky Hradok;Liptovsky Hradok
+1138;SK0315510734;Liptovsky Jan;Liptovsky Jan;Liptovsky Jan
+1139;SK0315510751;Liptovsky Ondrej;Liptovsky Ondrej;Liptovsky Ondrej
+1140;SK0315510777;Liptovsky Trnovec;Liptovsky Trnovec;Liptovsky Trnovec
+1141;SK0315510793;Lubela;Lubela;Lubela
+1142;SK0315510831;Malatiny;Malatiny;Malatiny
+1143;SK0315510840;Male Borove;Male Borove;Male Borove
+1144;SK0315510858;Maluzina;Maluzina;Maluzina
+1145;SK0315510874;Nizna Boca;Nizna Boca;Nizna Boca
+1146;SK0315510904;Partizanska Lupca;Partizanska Lupca;Partizanska Lupca
+1147;SK0315510912;Pavcina Lehota;Pavcina Lehota;Pavcina Lehota
+1148;SK0315510921;Pavlova Ves;Pavlova Ves;Pavlova Ves
+1149;SK0315510947;Podturen;Podturen;Podturen
+1150;SK0315510963;Pribylina;Pribylina;Pribylina
+1151;SK0315510971;Prosiek;Prosiek;Prosiek
+1152;SK0315511013;Smrecany;Smrecany;Smrecany
+1153;SK0315511048;Svaty Kriz;Svaty Kriz;Svaty Kriz
+1154;SK0315511072;Trstene;Trstene;Trstene
+1155;SK0315511099;Uhorska Ves;Uhorska Ves;Uhorska Ves
+1156;SK0315511111;Vavrisovo;Vavrisovo;Vavrisovo
+1157;SK0315511129;Vazec;Vazec;Vazec
+1158;SK0315511137;Velke Borove;Velke Borove;Velke Borove
+1159;SK0315511145;Veterna Poruba;Veterna Poruba;Veterna Poruba
+1160;SK0315511153;Vlachy;Vlachy;Vlachy
+1161;SK0315511170;Vychodna;Vychodna;Vychodna
+1162;SK0315511188;Vysna Boca;Vysna Boca;Vysna Boca
+1163;SK0315511196;Zavazna Poruba;Zavazna Poruba;Zavazna Poruba
+1164;SK0315511200;Ziar;Ziar;Ziar
+1165;SK0315556807;Izipovce;Izipovce;Izipovce
+1166;SK0315558281;Liptovska Porubka;Liptovska Porubka;Liptovska Porubka
+1167;SK0315580287;Liptovsky Peter;Liptovsky Peter;Liptovsky Peter
+1168;SK0316512036;Martin;Martin;Martin
+1169;SK0316512052;Bela-Dulice;Bela-Dulice;Bela-Dulice
+1170;SK0316512061;Benice;Benice;Benice
+1171;SK0316512079;Blatnica;Blatnica;Blatnica
+1172;SK0316512133;Bystricka;Bystricka;Bystricka
+1173;SK0316512150;Danova;Danova;Danova
+1174;SK0316512168;Diakova;Diakova;Diakova
+1175;SK0316512206;Dolny Kalnik;Dolny Kalnik;Dolny Kalnik
+1176;SK0316512214;Drazkovce;Drazkovce;Drazkovce
+1177;SK0316512257;Folkusova;Folkusova;Folkusova
+1178;SK0316512290;Horny Kalnik;Horny Kalnik;Horny Kalnik
+1179;SK0316512346;Karlova;Karlova;Karlova
+1180;SK0316512354;Klastor pod Znievom;Klastor pod Znievom;Klastor pod Znievom
+1181;SK0316512371;Kostany nad Turcom;Kostany nad Turcom;Kostany nad Turcom
+1182;SK0316512389;Krpelany;Krpelany;Krpelany
+1183;SK0316512397;Laskar;Laskar;Laskar
+1184;SK0316512419;Leziachov;Leziachov;Leziachov
+1185;SK0316512435;Lipovec;Lipovec;Lipovec
+1186;SK0316512478;Necpaly;Necpaly;Necpaly
+1187;SK0316512486;Nolcovo;Nolcovo;Nolcovo
+1188;SK0316512508;Podhradie;Podhradie;Podhradie
+1189;SK0316512524;Pribovce;Pribovce;Pribovce
+1190;SK0316512541;Rakovo;Rakovo;Rakovo
+1191;SK0316512567;Ratkovo;Ratkovo;Ratkovo
+1192;SK0316512583;Sklabina;Sklabina;Sklabina
+1193;SK0316512591;Sklabinsky Podzamok;Sklabinsky Podzamok;Sklabinsky Podzamok
+1194;SK0316512613;Slovany;Slovany;Slovany
+1195;SK0316512630;Socovce;Socovce;Socovce
+1196;SK0316512648;Sucany;Sucany;Sucany
+1197;SK0316512656;Sutovo;Sutovo;Sutovo
+1198;SK0316512664;Trebostovo;Trebostovo;Trebostovo
+1199;SK0316512672;Trnovo;Trnovo;Trnovo
+1200;SK0316512681;Turany;Turany;Turany
+1201;SK0316512702;Turcianska Stiavnicka;Turcianska Stiavnicka;Turcianska Stiavnicka
+1202;SK0316512711;Turcianske Klacany;Turcianske Klacany;Turcianske Klacany
+1203;SK0316512737;Turciansky Dur;Turciansky Dur;Turciansky Dur
+1204;SK0316512753;Turciansky Peter;Turciansky Peter;Turciansky Peter
+1205;SK0316512761;Valca;Valca;Valca
+1206;SK0316512796;Vricko;Vricko;Vricko
+1207;SK0316512818;Zaborie;Zaborie;Zaborie
+1208;SK0316512834;Zabokreky;Zabokreky;Zabokreky
+1209;SK0316545961;Turcianske Jaseno;Turcianske Jaseno;Turcianske Jaseno
+1210;SK0316557358;Vrutky;Vrutky;Vrutky
+1211;SK0317509558;Babin;Babin;Babin
+1212;SK0317509566;Benadovo;Benadovo;Benadovo
+1213;SK0317509582;Bobrov;Bobrov;Bobrov
+1214;SK0317509591;Breza;Breza;Breza
+1215;SK0317509680;Hrustin;Hrustin;Hrustin
+1216;SK0317509728;Klin;Klin;Klin
+1217;SK0317509779;Krusetnica;Krusetnica;Krusetnica
+1218;SK0317509809;Lokca;Lokca;Lokca
+1219;SK0317509817;Lomna;Lomna;Lomna
+1220;SK0317509850;Mutne;Mutne;Mutne
+1221;SK0317509868;Namestovo;Namestovo;Namestovo
+1222;SK0317509884;Novot;Novot;Novot
+1223;SK0317509892;Oravska Jasenica;Oravska Jasenica;Oravska Jasenica
+1224;SK0317509906;Oravska Lesna;Oravska Lesna;Oravska Lesna
+1225;SK0317509914;Oravska Polhora;Oravska Polhora;Oravska Polhora
+1226;SK0317509931;Oravske Vesele;Oravske Vesele;Oravske Vesele
+1227;SK0317510025;Rabca;Rabca;Rabca
+1228;SK0317510033;Rabcice;Rabcice;Rabcice
+1229;SK0317510050;Sihelne;Sihelne;Sihelne
+1230;SK0317510092;Tapesovo;Tapesovo;Tapesovo
+1231;SK0317510149;Vasilov;Vasilov;Vasilov
+1232;SK0317510157;Vavrecka;Vavrecka;Vavrecka
+1233;SK0317510203;Zakamenne;Zakamenne;Zakamenne
+1234;SK0317510246;Zubrohlava;Zubrohlava;Zubrohlava
+1235;SK0318507300;Ivachnova;Ivachnova;Ivachnova
+1236;SK0318507407;Turik;Turik;Turik
+1237;SK0318510301;Besenova;Besenova;Besenova
+1238;SK0318510441;Hubova;Hubova;Hubova
+1239;SK0318510530;Kalameny;Kalameny;Kalameny
+1240;SK0318510548;Komjatna;Komjatna;Komjatna
+1241;SK0318510599;Likavka;Likavka;Likavka
+1242;SK0318510629;Liptovska Luzna;Liptovska Luzna;Liptovska Luzna
+1243;SK0318510637;Liptovska Osada;Liptovska Osada;Liptovska Osada
+1244;SK0318510661;Liptovska Stiavnica;Liptovska Stiavnica;Liptovska Stiavnica
+1245;SK0318510670;Liptovska Tepla;Liptovska Tepla;Liptovska Tepla
+1246;SK0318510718;Liptovske Revuce;Liptovske Revuce;Liptovske Revuce
+1247;SK0318510742;Liptovsky Michal;Liptovsky Michal;Liptovsky Michal
+1248;SK0318510785;Liskova;Liskova;Liskova
+1249;SK0318510807;Lubochna;Lubochna;Lubochna
+1250;SK0318510815;Lucky;Lucky;Lucky
+1251;SK0318510823;Ludrova;Ludrova;Ludrova
+1252;SK0318510866;Martincek;Martincek;Martincek
+1253;SK0318510955;Potok;Potok;Potok
+1254;SK0318510998;Ruzomberok;Ruzomberok;Ruzomberok
+1255;SK0318511005;Liptovske Sliace;Liptovske Sliace;Liptovske Sliace
+1256;SK0318511030;Stankovany;Stankovany;Stankovany
+1257;SK0318511056;Stiavnicka;Stiavnicka;Stiavnicka
+1258;SK0318511064;Svosov;Svosov;Svosov
+1259;SK0318511102;Valaska Dubova;Valaska Dubova;Valaska Dubova
+1260;SK0319512044;Abramova;Abramova;Abramova
+1261;SK0319512087;Blazovce;Blazovce;Blazovce
+1262;SK0319512095;Bodorova;Bodorova;Bodorova
+1263;SK0319512109;Borcova;Borcova;Borcova
+1264;SK0319512117;Briestie;Briestie;Briestie
+1265;SK0319512125;Budis;Budis;Budis
+1266;SK0319512141;Cremosne;Cremosne;Cremosne
+1267;SK0319512222;Dubove;Dubove;Dubove
+1268;SK0319512265;Haj;Haj;Haj
+1269;SK0319512273;Horna Stubna;Horna Stubna;Horna Stubna
+1270;SK0319512303;Ivancina;Ivancina;Ivancina
+1271;SK0319512311;Jasenovo;Jasenovo;Jasenovo
+1272;SK0319512320;Jazernica;Jazernica;Jazernica
+1273;SK0319512338;Kalamenova;Kalamenova;Kalamenova
+1274;SK0319512427;Liesno;Liesno;Liesno
+1275;SK0319512443;Maly Cepcin;Maly Cepcin;Maly Cepcin
+1276;SK0319512451;Moskovec;Moskovec;Moskovec
+1277;SK0319512460;Mosovce;Mosovce;Mosovce
+1278;SK0319512494;Ondrasova;Ondrasova;Ondrasova
+1279;SK0319512559;Raksa;Raksa;Raksa
+1280;SK0319512575;Rudno;Rudno;Rudno
+1281;SK0319512605;Sklene;Sklene;Sklene
+1282;SK0319512621;Slovenske Pravno;Slovenske Pravno;Slovenske Pravno
+1283;SK0319512699;Turcek;Turcek;Turcek
+1284;SK0319512729;Turcianske Teplice;Turcianske Teplice;Turcianske Teplice
+1285;SK0319512788;Velky Cepcin;Velky Cepcin;Velky Cepcin
+1286;SK032A515850;Velky Krtis;Velky Krtis;Velky Krtis
+1287;SK032A515868;Balog nad Iplom;Balog nad Iplom;Balog nad Iplom
+1288;SK032A515876;Batorova;Batorova;Batorova
+1289;SK032A515884;Brusnik;Brusnik;Brusnik
+1290;SK032A515892;Busince;Busince;Busince
+1291;SK032A515906;Cebovce;Cebovce;Cebovce
+1292;SK032A515914;Celare;Celare;Celare
+1293;SK032A515922;Celovce;Celovce;Celovce
+1294;SK032A515931;Cervenany;Cervenany;Cervenany
+1295;SK032A515949;Dacov Lom;Dacov Lom;Dacov Lom
+1296;SK032A515957;Dolinka;Dolinka;Dolinka
+1297;SK032A515965;Dolna Strehova;Dolna Strehova;Dolna Strehova
+1298;SK032A515973;Dolne Plachtince;Dolne Plachtince;Dolne Plachtince
+1299;SK032A515981;Dolne Strhare;Dolne Strhare;Dolne Strhare
+1300;SK032A515990;Durkovce;Durkovce;Durkovce
+1301;SK032A516007;Glabusovce;Glabusovce;Glabusovce
+1302;SK032A516015;Horna Strehova;Horna Strehova;Horna Strehova
+1303;SK032A516023;Horne Plachtince;Horne Plachtince;Horne Plachtince
+1304;SK032A516031;Horne Strhare;Horne Strhare;Horne Strhare
+1305;SK032A516040;Hrusov;Hrusov;Hrusov
+1306;SK032A516058;Chrastince;Chrastince;Chrastince
+1307;SK032A516066;Chrtany;Chrtany;Chrtany
+1308;SK032A516074;Ipelske Predmostie;Ipelske Predmostie;Ipelske Predmostie
+1309;SK032A516082;Kamenne Kosihy;Kamenne Kosihy;Kamenne Kosihy
+1310;SK032A516091;Kiarov;Kiarov;Kiarov
+1311;SK032A516104;Klenany;Klenany;Klenany
+1312;SK032A516112;Kolare;Kolare;Kolare
+1313;SK032A516121;Kosihovce;Kosihovce;Kosihovce
+1314;SK032A516139;Kosihy nad Iplom;Kosihy nad Iplom;Kosihy nad Iplom
+1315;SK032A516147;Kovacovce;Kovacovce;Kovacovce
+1316;SK032A516155;Lesenice;Lesenice;Lesenice
+1317;SK032A516163;Luboriecka;Luboriecka;Luboriecka
+1318;SK032A516171;Mala Calomija;Mala Calomija;Mala Calomija
+1319;SK032A516198;Male Zlievce;Male Zlievce;Male Zlievce
+1320;SK032A516210;Modry Kamen;Modry Kamen;Modry Kamen
+1321;SK032A516228;Mula;Mula;Mula
+1322;SK032A516236;Nenince;Nenince;Nenince
+1323;SK032A516244;Nova Ves;Nova Ves;Nova Ves
+1324;SK032A516252;Obeckov;Obeckov;Obeckov
+1325;SK032A516261;Olovary;Olovary;Olovary
+1326;SK032A516279;Opatovska Nova Ves;Opatovska Nova Ves;Opatovska Nova Ves
+1327;SK032A516287;Opava;Opava;Opava
+1328;SK032A516295;Potor;Potor;Potor
+1329;SK032A516309;Pravica;Pravica;Pravica
+1330;SK032A516317;Pribelce;Pribelce;Pribelce
+1331;SK032A516333;Secianky;Secianky;Secianky
+1332;SK032A516341;Selany;Selany;Selany
+1333;SK032A516368;Senne;Senne;Senne
+1334;SK032A516376;Sklabina;Sklabina;Sklabina
+1335;SK032A516384;Slovenske Darmoty;Slovenske Darmoty;Slovenske Darmoty
+1336;SK032A516392;Slovenske Klacany;Slovenske Klacany;Slovenske Klacany
+1337;SK032A516406;Stredne Plachtince;Stredne Plachtince;Stredne Plachtince
+1338;SK032A516414;Suchan;Suchan;Suchan
+1339;SK032A516422;Suche Brezovo;Suche Brezovo;Suche Brezovo
+1340;SK032A516431;Sirakov;Sirakov;Sirakov
+1341;SK032A516449;Sula;Sula;Sula
+1342;SK032A516457;Trebusovce;Trebusovce;Trebusovce
+1343;SK032A516465;Velka Calomija;Velka Calomija;Velka Calomija
+1344;SK032A516473;Velka Ves nad Iplom;Velka Ves nad Iplom;Velka Ves nad Iplom
+1345;SK032A516490;Velke Zlievce;Velke Zlievce;Velke Zlievce
+1346;SK032A516503;Velky Lom;Velky Lom;Velky Lom
+1347;SK032A516511;Vieska;Vieska;Vieska
+1348;SK032A516520;Vinica;Vinica;Vinica
+1349;SK032A516538;Vrbovka;Vrbovka;Vrbovka
+1350;SK032A516546;Zahorce;Zahorce;Zahorce
+1351;SK032A516554;Zavada;Zavada;Zavada
+1352;SK032A516562;Zombor;Zombor;Zombor
+1353;SK032A516571;Zelovce;Zelovce;Zelovce
+1354;SK032A558192;Maly Krtis;Maly Krtis;Maly Krtis
+1355;SK032A558206;Male Straciny;Male Straciny;Male Straciny
+1356;SK032A558214;Velke Straciny;Velke Straciny;Velke Straciny
+1357;SK032B518158;Zvolen;Zvolen;Zvolen
+1358;SK032B518166;Babina;Babina;Babina
+1359;SK032B518174;Bacurov;Bacurov;Bacurov
+1360;SK032B518191;Breziny;Breziny;Breziny
+1361;SK032B518204;Budca;Budca;Budca
+1362;SK032B518221;Bzovska Lehotka;Bzovska Lehotka;Bzovska Lehotka
+1363;SK032B518298;Dobra Niva;Dobra Niva;Dobra Niva
+1364;SK032B518361;Dubove;Dubove;Dubove
+1365;SK032B518476;Hronska Breznica;Hronska Breznica;Hronska Breznica
+1366;SK032B518506;Kovacova;Kovacova;Kovacova
+1367;SK032B518581;Lest (vojensky obvod);Lest;Lest (voj.obvod)
+1368;SK032B518654;Michalkova;Michalkova;Michalkova
+1369;SK032B518662;Ocova;Ocova;Ocova
+1370;SK032B518671;Ostra Luka;Ostra Luka;Ostra Luka
+1371;SK032B518689;Pliesovce;Pliesovce;Pliesovce
+1372;SK032B518697;Podzamcok;Podzamcok;Podzamcok
+1373;SK032B518727;Sasa;Sasa;Sasa
+1374;SK032B518760;Sielnica;Sielnica;Sielnica
+1375;SK032B518808;Sliac;Sliac;Sliac
+1376;SK032B518875;Trnie;Trnie;Trnie
+1377;SK032B518891;Turova;Turova;Turova
+1378;SK032B518972;Zvolenska Slatina;Zvolenska Slatina;Zvolenska Slatina
+1379;SK032B518981;Zelezna Breznica;Zelezna Breznica;Zelezna Breznica
+1380;SK032B558087;Lukavica;Lukavica;Lukavica
+1381;SK032B558133;Lieskovec;Lieskovec;Lieskovec
+1382;SK032B581585;Velka Luka;Velka Luka;Velka Luka
+1383;SK032C516759;Hodrusa-Hamre;Hodrusa-Hamre;Hodrusa-Hamre
+1384;SK032C516805;Horne Hamre;Horne Hamre;Horne Hamre
+1385;SK032C516813;Hrabicov;Hrabicov;Hrabicov
+1386;SK032C516830;Hronsky Benadik;Hronsky Benadik;Hronsky Benadik
+1387;SK032C516902;Klak;Klak;Klak
+1388;SK032C517062;Mala Lehota;Mala Lehota;Mala Lehota
+1389;SK032C517097;Nova Bana;Nova Bana;Nova Bana
+1390;SK032C517119;Ostry Grun;Ostry Grun;Ostry Grun
+1391;SK032C517127;Pila;Pila;Pila
+1392;SK032C517232;Rudno nad Hronom;Rudno nad Hronom;Rudno nad Hronom
+1393;SK032C517291;Tekovska Breznica;Tekovska Breznica;Tekovska Breznica
+1394;SK032C517330;Velka Lehota;Velka Lehota;Velka Lehota
+1395;SK032C517348;Velke Pole;Velke Pole;Velke Pole
+1396;SK032C517356;Voznica;Voznica;Voznica
+1397;SK032C517381;Zarnovica;Zarnovica;Zarnovica
+1398;SK032C517399;Zupkov;Zupkov;Zupkov
+1399;SK032C580546;Orovnica;Orovnica;Orovnica
+1400;SK032C581607;Brehy;Brehy;Brehy
+1401;SK032D516589;Ziar nad Hronom;Ziar nad Hronom;Ziar nad Hronom
+1402;SK032D516660;Bartosova Lehotka;Bartosova Lehotka;Bartosova Lehotka
+1403;SK032D516708;Bzenica;Bzenica;Bzenica
+1404;SK032D516724;Dolna Trnavka;Dolna Trnavka;Dolna Trnavka
+1405;SK032D516732;Dolna Ves;Dolna Ves;Dolna Ves
+1406;SK032D516741;Dolna Zdana;Dolna Zdana;Dolna Zdana
+1407;SK032D516767;Hlinik nad Hronom;Hlinik nad Hronom;Hlinik nad Hronom
+1408;SK032D516791;Horna Zdana;Horna Zdana;Horna Zdana
+1409;SK032D516821;Hronska Dubrava;Hronska Dubrava;Hronska Dubrava
+1410;SK032D516848;Ihrac;Ihrac;Ihrac
+1411;SK032D516872;Janova Lehota;Janova Lehota;Janova Lehota
+1412;SK032D516881;Jastraba;Jastraba;Jastraba
+1413;SK032D516937;Kopernica;Kopernica;Kopernica
+1414;SK032D516945;Kosorin;Kosorin;Kosorin
+1415;SK032D516961;Krahule;Krahule;Krahule
+1416;SK032D516970;Kremnica;Kremnica;Kremnica
+1417;SK032D516988;Kremnicke Bane;Kremnicke Bane;Kremnicke Bane
+1418;SK032D516996;Kunesov;Kunesov;Kunesov
+1419;SK032D517011;Lehotka pod Brehmi;Lehotka pod Brehmi;Lehotka pod Brehmi
+1420;SK032D517020;Lovca;Lovca;Lovca
+1421;SK032D517038;Lovcica-Trubin;Lovcica-Trubin;Lovcica-Trubin
+1422;SK032D517046;Lucky;Lucky;Lucky
+1423;SK032D517089;Nevolne;Nevolne;Nevolne
+1424;SK032D517135;Pitelova;Pitelova;Pitelova
+1425;SK032D517186;Prestavlky;Prestavlky;Prestavlky
+1426;SK032D517194;Prochot;Prochot;Prochot
+1427;SK032D517216;Repiste;Repiste;Repiste
+1428;SK032D517241;Sklene Teplice;Sklene Teplice;Sklene Teplice
+1429;SK032D517259;Slaska;Slaska;Slaska
+1430;SK032D517267;Stara Kremnicka;Stara Kremnicka;Stara Kremnicka
+1431;SK032D517313;Trnava Hora;Trnava Hora;Trnava Hora
+1432;SK032D517364;Vyhne;Vyhne;Vyhne
+1433;SK032D581747;Horna Ves;Horna Ves;Horna Ves
+1434;SK032D599328;Ladomerska Vieska;Ladomerska Vieska;Ladomerska Vieska
+1435;SK032D599336;Lutila;Lutila;Lutila
+1436;SK0321508438;Banska Bystrica;Banska Bystrica;Banska Bystrica
+1437;SK0321508454;Badin;Badin;Badin
+1438;SK0321508471;Balaze;Balaze;Balaze
+1439;SK0321508519;Cerin;Cerin;Cerin
+1440;SK0321508543;Dolna Micina;Dolna Micina;Dolna Micina
+1441;SK0321508551;Dolny Harmanec;Dolny Harmanec;Dolny Harmanec
+1442;SK0321508560;Donovaly;Donovaly;Donovaly
+1443;SK0321508586;Dubravica;Dubravica;Dubravica
+1444;SK0321508594;Harmanec;Harmanec;Harmanec
+1445;SK0321508616;Hiadel;Hiadel;Hiadel
+1446;SK0321508632;Horna Micina;Horna Micina;Horna Micina
+1447;SK0321508641;Horne Prsany;Horne Prsany;Horne Prsany
+1448;SK0321508659;Hrochot;Hrochot;Hrochot
+1449;SK0321508675;Brusno;Brusno;Brusno
+1450;SK0321508713;Kordiky;Kordiky;Kordiky
+1451;SK0321508721;Kraliky;Kraliky;Kraliky
+1452;SK0321508748;Lubietova;Lubietova;Lubietova
+1453;SK0321508756;Lucatin;Lucatin;Lucatin
+1454;SK0321508764;Medzibrod;Medzibrod;Medzibrod
+1455;SK0321508781;Molca;Molca;Molca
+1456;SK0321508799;Mostenica;Mostenica;Mostenica
+1457;SK0321508802;Motycky;Motycky;Motycky
+1458;SK0321508837;Oravce;Oravce;Oravce
+1459;SK0321508861;Podkonice;Podkonice;Podkonice
+1460;SK0321508896;Pohronsky Bukovec;Pohronsky Bukovec;Pohronsky Bukovec
+1461;SK0321508918;Poniky;Poniky;Poniky
+1462;SK0321508926;Povraznik;Povraznik;Povraznik
+1463;SK0321508942;Priechod;Priechod;Priechod
+1464;SK0321508969;Riecka;Riecka;Riecka
+1465;SK0321508977;Sebedin-Becov;Sebedin-Becov;Sebedin-Becov
+1466;SK0321508985;Selce;Selce;Selce
+1467;SK0321509001;Slovenska Lupca;Slovenska Lupca;Slovenska Lupca
+1468;SK0321509019;Stare Hory;Stare Hory;Stare Hory
+1469;SK0321509027;Strelniky;Strelniky;Strelniky
+1470;SK0321509035;Spania Dolina;Spania Dolina;Spania Dolina
+1471;SK0321509060;Tajov;Tajov;Tajov
+1472;SK0321557269;Turecka;Turecka;Turecka
+1473;SK0321557277;Kyncelova;Kyncelova;Kyncelova
+1474;SK0321557285;Nemce;Nemce;Nemce
+1475;SK0321557293;Vlkanova;Vlkanova;Vlkanova
+1476;SK0321580236;Hronsek;Hronsek;Hronsek
+1477;SK0321580244;Malachov;Malachov;Malachov
+1478;SK0322516597;Svaty Anton;Svaty Anton;Svaty Anton
+1479;SK0322516601;Badan;Badan;Badan
+1480;SK0322516627;Banska Bela;Banska Bela;Banska Bela
+1481;SK0322516643;Banska Stiavnica;Banska Stiavnica;Banska Stiavnica
+1482;SK0322516651;Bansky Studenec;Bansky Studenec;Bansky Studenec
+1483;SK0322516678;Beluj;Beluj;Beluj
+1484;SK0322516716;Dekys;Dekys;Dekys
+1485;SK0322516856;Ilija;Ilija;Ilija
+1486;SK0322516953;Kozelnik;Kozelnik;Kozelnik
+1487;SK0322517071;Mociar;Mociar;Mociar
+1488;SK0322517143;Podhorie;Podhorie;Podhorie
+1489;SK0322517160;Pocuvadlo;Pocuvadlo;Pocuvadlo
+1490;SK0322517178;Prencov;Prencov;Prencov
+1491;SK0322517283;Stiavnicke Bane;Stiavnicke Bane;Stiavnicke Bane
+1492;SK0322517372;Vysoka;Vysoka;Vysoka
+1493;SK0323508446;Bacuch;Bacuch;Bacuch
+1494;SK0323508462;Benus;Benus;Benus
+1495;SK0323508489;Bravacovo;Bravacovo;Bravacovo
+1496;SK0323508497;Brezno;Brezno;Brezno
+1497;SK0323508527;Cierny Balog;Cierny Balog;Cierny Balog
+1498;SK0323508535;Dolna Lehota;Dolna Lehota;Dolna Lehota
+1499;SK0323508578;Drabsko;Drabsko;Drabsko
+1500;SK0323508608;Helpa;Helpa;Helpa
+1501;SK0323508624;Horna Lehota;Horna Lehota;Horna Lehota
+1502;SK0323508667;Hronec;Hronec;Hronec
+1503;SK0323508691;Jaraba;Jaraba;Jaraba
+1504;SK0323508705;Jasenie;Jasenie;Jasenie
+1505;SK0323508730;Lom nad Rimavicou;Lom nad Rimavicou;Lom nad Rimavicou
+1506;SK0323508772;Michalova;Michalova;Michalova
+1507;SK0323508811;Myto pod Dumbierom;Myto pod Dumbierom;Myto pod Dumbierom
+1508;SK0323508829;Nemecka;Nemecka;Nemecka
+1509;SK0323508845;Osrblie;Osrblie;Osrblie
+1510;SK0323508853;Podbrezova;Podbrezova;Podbrezova
+1511;SK0323508870;Pohorela;Pohorela;Pohorela
+1512;SK0323508888;Pohronska Polhora;Pohronska Polhora;Pohronska Polhora
+1513;SK0323508900;Polomka;Polomka;Polomka
+1514;SK0323508934;Predajna;Predajna;Predajna
+1515;SK0323508951;Raztoka;Raztoka;Raztoka
+1516;SK0323508993;Sihla;Sihla;Sihla
+1517;SK0323509043;Sumiac;Sumiac;Sumiac
+1518;SK0323509051;Telgart;Telgart;Telgart
+1519;SK0323509086;Valaska;Valaska;Valaska
+1520;SK0323509094;Valkovna;Valkovna;Valkovna
+1521;SK0323509124;Zavadka nad Hronom;Zavadka nad Hronom;Zavadka nad Hronom
+1522;SK0323557251;Bystra;Bystra;Bystra
+1523;SK0324511510;Latky;Latky;Latky
+1524;SK0324511731;Podkrivan;Podkrivan;Podkrivan
+1525;SK0324518263;Detva;Detva;Detva
+1526;SK0324518271;Detvianska Huta;Detvianska Huta;Detvianska Huta
+1527;SK0324518379;Dubravy;Dubravy;Dubravy
+1528;SK0324518450;Horny Tisovnik;Horny Tisovnik;Horny Tisovnik
+1529;SK0324518468;Hrinova;Hrinova;Hrinova
+1530;SK0324518492;Klokoc;Klokoc;Klokoc
+1531;SK0324518549;Krivan;Krivan;Krivan
+1532;SK0324518794;Slatinske Lazy;Slatinske Lazy;Slatinske Lazy
+1533;SK0324518816;Stara Huta;Stara Huta;Stara Huta
+1534;SK0324518824;Stozok;Stozok;Stozok
+1535;SK0324518921;Viglas;Viglas;Viglas
+1536;SK0324518930;Viglasska Huta-Kalinka;Viglasska Huta-Kalinka;Viglasska Huta-Kalinka
+1537;SK0324580520;Korytarky;Korytarky;Korytarky
+1538;SK0325518212;Bzovik;Bzovik;Bzovik
+1539;SK0325518239;Cerovo;Cerovo;Cerovo
+1540;SK0325518247;Cabradsky Vrbovok;Cabradsky Vrbovok;Cabradsky Vrbovok
+1541;SK0325518255;Cekovce;Cekovce;Cekovce
+1542;SK0325518280;Devicie;Devicie;Devicie
+1543;SK0325518301;Dolne Mladonice;Dolne Mladonice;Dolne Mladonice
+1544;SK0325518310;Dolny Badin;Dolny Badin;Dolny Badin
+1545;SK0325518336;Domaniky;Domaniky;Domaniky
+1546;SK0325518344;Drazovce;Drazovce;Drazovce
+1547;SK0325518352;Drienovo;Drienovo;Drienovo
+1548;SK0325518387;Dudince;Dudince;Dudince
+1549;SK0325518409;Hontianske Moravce;Hontianske Moravce;Hontianske Moravce
+1550;SK0325518417;Hontianske Nemce;Hontianske Nemce;Hontianske Nemce
+1551;SK0325518425;Hontianske Tesare;Hontianske Tesare;Hontianske Tesare
+1552;SK0325518433;Horne Mladonice;Horne Mladonice;Horne Mladonice
+1553;SK0325518441;Horny Badin;Horny Badin;Horny Badin
+1554;SK0325518484;Jalsovik;Jalsovik;Jalsovik
+1555;SK0325518514;Kozi Vrbovok;Kozi Vrbovok;Kozi Vrbovok
+1556;SK0325518531;Kralovce-Krnisov;Kralovce-Krnisov;Kralovce-Krnisov
+1557;SK0325518557;Krupina;Krupina;Krupina
+1558;SK0325518565;Lackov;Lackov;Lackov
+1559;SK0325518573;Ladzany;Ladzany;Ladzany
+1560;SK0325518603;Lisov;Lisov;Lisov
+1561;SK0325518611;Litava;Litava;Litava
+1562;SK0325518646;Medovarce;Medovarce;Medovarce
+1563;SK0325518701;Rykyncice;Rykyncice;Rykyncice
+1564;SK0325518735;Sebechleby;Sebechleby;Sebechleby
+1565;SK0325518743;Selce;Selce;Selce
+1566;SK0325518751;Senohrad;Senohrad;Senohrad
+1567;SK0325518832;Sudince;Sudince;Sudince
+1568;SK0325518841;Sudovce;Sudovce;Sudovce
+1569;SK0325518867;Terany;Terany;Terany
+1570;SK0325518883;Trpin;Trpin;Trpin
+1571;SK0325518905;Unatin;Unatin;Unatin
+1572;SK0325518956;Zemiansky Vrbovok;Zemiansky Vrbovok;Zemiansky Vrbovok
+1573;SK0325518999;Zibritov;Zibritov;Zibritov
+1574;SK0326511218;Lucenec;Lucenec;Lucenec
+1575;SK0326511226;Abelova;Abelova;Abelova
+1576;SK0326511234;Belina;Belina;Belina
+1577;SK0326511251;Bolkovce;Bolkovce;Bolkovce
+1578;SK0326511277;Budina;Budina;Budina
+1579;SK0326511293;Buzitka;Buzitka;Buzitka
+1580;SK0326511323;Cakanovce;Cakanovce;Cakanovce
+1581;SK0326511331;Camovce;Camovce;Camovce
+1582;SK0326511358;Divin;Divin;Divin
+1583;SK0326511366;Dobroc;Dobroc;Dobroc
+1584;SK0326511374;Kotmanova;Kotmanova;Kotmanova
+1585;SK0326511391;Filakovo;Filakovo;Filakovo
+1586;SK0326511404;Filakovske Kovace;Filakovske Kovace;Filakovske Kovace
+1587;SK0326511421;Halic;Halic;Halic
+1588;SK0326511439;Holisa;Holisa;Holisa
+1589;SK0326511463;Jelsovec;Jelsovec;Jelsovec
+1590;SK0326511480;Kalonda;Kalonda;Kalonda
+1591;SK0326511528;Lehotka;Lehotka;Lehotka
+1592;SK0326511536;Lentvora;Lentvora;Lentvora
+1593;SK0326511544;Lipovany;Lipovany;Lipovany
+1594;SK0326511552;Lovinobana;Lovinobana;Lovinobana
+1595;SK0326511561;Luborec;Luborec;Luborec
+1596;SK0326511579;Lupoc;Lupoc;Lupoc
+1597;SK0326511609;Maskova;Maskova;Maskova
+1598;SK0326511625;Mucin;Mucin;Mucin
+1599;SK0326511641;Mytna;Mytna;Mytna
+1600;SK0326511668;Nitra nad Iplom;Nitra nad Iplom;Nitra nad Iplom
+1601;SK0326511676;Nove Hony;Nove Hony;Nove Hony
+1602;SK0326511692;Panicke Dravce;Panicke Dravce;Panicke Dravce
+1603;SK0326511706;Pila;Pila;Pila
+1604;SK0326511714;Pincina;Pincina;Pincina
+1605;SK0326511722;Ples;Ples;Ples
+1606;SK0326511749;Podrecany;Podrecany;Podrecany
+1607;SK0326511757;Polichno;Polichno;Polichno
+1608;SK0326511773;Praha;Praha;Praha
+1609;SK0326511781;Prsa;Prsa;Prsa
+1610;SK0326511790;Radzovce;Radzovce;Radzovce
+1611;SK0326511803;Rapovce;Rapovce;Rapovce
+1612;SK0326511811;Ratka;Ratka;Ratka
+1613;SK0326511838;Ruzina;Ruzina;Ruzina
+1614;SK0326511846;Stara Halic;Stara Halic;Stara Halic
+1615;SK0326511854;Savol;Savol;Savol
+1616;SK0326511862;Siatorska Bukovinka;Siatorska Bukovinka;Siatorska Bukovinka
+1617;SK0326511871;Sid;Sid;Sid
+1618;SK0326511897;Surice;Surice;Surice
+1619;SK0326511901;Tocnica;Tocnica;Tocnica
+1620;SK0326511919;Tomasovce;Tomasovce;Tomasovce
+1621;SK0326511927;Trebelovce;Trebelovce;Trebelovce
+1622;SK0326511943;Tuhar;Tuhar;Tuhar
+1623;SK0326511994;Velka nad Iplom;Velka nad Iplom;Velka nad Iplom
+1624;SK0326512010;Velke Dravce;Velke Dravce;Velke Dravce
+1625;SK0326557307;Vidina;Vidina;Vidina
+1626;SK0326557315;Biskupice;Biskupice;Biskupice
+1627;SK0326557331;Gregorova Vieska;Gregorova Vieska;Gregorova Vieska
+1628;SK0326557340;Trenc;Trenc;Trenc
+1629;SK0326558273;Bulhary;Bulhary;Bulhary
+1630;SK0326580309;Mikusovce;Mikusovce;Mikusovce
+1631;SK0327511269;Breznicka;Breznicka;Breznicka
+1632;SK0327511315;Cinobana;Cinobana;Cinobana
+1633;SK0327511340;Ceske Brezovo;Ceske Brezovo;Ceske Brezovo
+1634;SK0327511447;Hradiste;Hradiste;Hradiste
+1635;SK0327511471;Kalinovo;Kalinovo;Kalinovo
+1636;SK0327511498;Kokava nad Rimavicou;Kokava nad Rimavicou;Kokava nad Rimavicou
+1637;SK0327511501;Krna;Krna;Krna
+1638;SK0327511595;Malinec;Malinec;Malinec
+1639;SK0327511617;Mladzovo;Mladzovo;Mladzovo
+1640;SK0327511684;Ozdin;Ozdin;Ozdin
+1641;SK0327511765;Poltar;Poltar;Poltar
+1642;SK0327511820;Rovnany;Rovnany;Rovnany
+1643;SK0327511889;Soltyska;Soltyska;Soltyska
+1644;SK0327511978;Uhorske;Uhorske;Uhorske
+1645;SK0327512001;Velka Ves;Velka Ves;Velka Ves
+1646;SK0327514900;Hrnciarska Ves;Hrnciarska Ves;Hrnciarska Ves
+1647;SK0327514918;Hrnciarske Zaluzany;Hrnciarske Zaluzany;Hrnciarske Zaluzany
+1648;SK0327515515;Selce;Selce;Selce
+1649;SK0327515591;Susany;Susany;Susany
+1650;SK0327557323;Dubakovo;Dubakovo;Dubakovo
+1651;SK0327580317;Utekac;Utekac;Utekac
+1652;SK0327582051;Zlatno;Zlatno;Zlatno
+1653;SK0328514675;Drzkovce;Drzkovce;Drzkovce
+1654;SK0328514721;Gemer;Gemer;Gemer
+1655;SK0328514756;Gemerska Ves;Gemerska Ves;Gemerska Ves
+1656;SK0328514896;Hrlica;Hrlica;Hrlica
+1657;SK0328514977;Chvalova;Chvalova;Chvalova
+1658;SK0328515159;Levkuska;Levkuska;Levkuska
+1659;SK0328515256;Otrocok;Otrocok;Otrocok
+1660;SK0328515302;Ploske;Ploske;Ploske
+1661;SK0328515311;Polina;Polina;Polina
+1662;SK0328515361;Rasice;Rasice;Rasice
+1663;SK0328515370;Ratkova;Ratkova;Ratkova
+1664;SK0328515400;Ratkovske Bystre;Ratkovske Bystre;Ratkovske Bystre
+1665;SK0328515507;Rybnik;Rybnik;Rybnik
+1666;SK0328515523;Skeresovo;Skeresovo;Skeresovo
+1667;SK0328515574;Levare;Levare;Levare
+1668;SK0328515612;Tornala;Tornala;Tornala
+1669;SK0328515761;Visnove;Visnove;Visnove
+1670;SK0328515833;Ziar;Ziar;Ziar
+1671;SK0328525677;Gemerske Teplice;Gemerske Teplice;Gemerske Teplice
+1672;SK0328525685;Gemersky Sad;Gemersky Sad;Gemersky Sad
+1673;SK0328525766;Hucin;Hucin;Hucin
+1674;SK0328525774;Chyzne;Chyzne;Chyzne
+1675;SK0328525791;Jelsava;Jelsava;Jelsava
+1676;SK0328525812;Kamenany;Kamenany;Kamenany
+1677;SK0328525901;Licince;Licince;Licince
+1678;SK0328525928;Lubenik;Lubenik;Lubenik
+1679;SK0328525944;Magnezitovce;Magnezitovce;Magnezitovce
+1680;SK0328525987;Muran;Muran;Muran
+1681;SK0328525995;Muranska Dlha Luka;Muranska Dlha Luka;Muranska Dlha Luka
+1682;SK0328526002;Muranska Huta;Muranska Huta;Muranska Huta
+1683;SK0328526011;Muranska Lehota;Muranska Lehota;Muranska Lehota
+1684;SK0328526029;Muranska Zdychava;Muranska Zdychava;Muranska Zdychava
+1685;SK0328526037;Nandraz;Nandraz;Nandraz
+1686;SK0328526100;Prihradzany;Prihradzany;Prihradzany
+1687;SK0328526118;Rakos;Rakos;Rakos
+1688;SK0328526142;Revuca;Revuca;Revuca
+1689;SK0328526151;Revucka Lehota;Revucka Lehota;Revucka Lehota
+1690;SK0328526258;Sirk;Sirk;Sirk
+1691;SK0328526304;Sivetice;Sivetice;Sivetice
+1692;SK0328526321;Turcok;Turcok;Turcok
+1693;SK0328557820;Sasa;Sasa;Sasa
+1694;SK0328580384;Mokra Luka;Mokra Luka;Mokra Luka
+1695;SK0329514462;Rimavska Sobota;Rimavska Sobota;Rimavska Sobota
+1696;SK0329514489;Babinec;Babinec;Babinec
+1697;SK0329514501;Barca;Barca;Barca
+1698;SK0329514519;Batka;Batka;Batka
+1699;SK0329514535;Belin;Belin;Belin
+1700;SK0329514543;Blhovce;Blhovce;Blhovce
+1701;SK0329514551;Bottovo;Bottovo;Bottovo
+1702;SK0329514586;Budikovany;Budikovany;Budikovany
+1703;SK0329514594;Cakov;Cakov;Cakov
+1704;SK0329514608;Cerencany;Cerencany;Cerencany
+1705;SK0329514616;Cierny Potok;Cierny Potok;Cierny Potok
+1706;SK0329514624;Ciz;Ciz;Ciz
+1707;SK0329514632;Dolne Zahorany;Dolne Zahorany;Dolne Zahorany
+1708;SK0329514641;Drazice;Drazice;Drazice
+1709;SK0329514659;Driencany;Driencany;Driencany
+1710;SK0329514667;Drna;Drna;Drna
+1711;SK0329514683;Dubno;Dubno;Dubno
+1712;SK0329514691;Dubovec;Dubovec;Dubovec
+1713;SK0329514713;Figa;Figa;Figa
+1714;SK0329514730;Gemercek;Gemercek;Gemercek
+1715;SK0329514764;Gemerske Dechtare;Gemerske Dechtare;Gemerske Dechtare
+1716;SK0329514781;Gemersky Jablonec;Gemersky Jablonec;Gemersky Jablonec
+1717;SK0329514799;Gortva;Gortva;Gortva
+1718;SK0329514811;Hajnacka;Hajnacka;Hajnacka
+1719;SK0329514829;Hnusta;Hnusta;Hnusta
+1720;SK0329514837;Hodejov;Hodejov;Hodejov
+1721;SK0329514845;Hodejovec;Hodejovec;Hodejovec
+1722;SK0329514853;Horne Zahorany;Horne Zahorany;Horne Zahorany
+1723;SK0329514861;Hostice;Hostice;Hostice
+1724;SK0329514870;Hostisovce;Hostisovce;Hostisovce
+1725;SK0329514888;Hrachovo;Hrachovo;Hrachovo
+1726;SK0329514926;Hrusovo;Hrusovo;Hrusovo
+1727;SK0329514934;Hubovo;Hubovo;Hubovo
+1728;SK0329514942;Husina;Husina;Husina
+1729;SK0329514951;Chanava;Chanava;Chanava
+1730;SK0329514969;Chramec;Chramec;Chramec
+1731;SK0329514985;Ivanice;Ivanice;Ivanice
+1732;SK0329514993;Janice;Janice;Janice
+1733;SK0329515001;Jesenske;Jesenske;Jesenske
+1734;SK0329515019;Jestice;Jestice;Jestice
+1735;SK0329515027;Kalosa;Kalosa;Kalosa
+1736;SK0329515035;Kesovce;Kesovce;Kesovce
+1737;SK0329515043;Klenovec;Klenovec;Klenovec
+1738;SK0329515051;Kociha;Kociha;Kociha
+1739;SK0329515060;Konradovce;Konradovce;Konradovce
+1740;SK0329515078;Kral;Kral;Kral
+1741;SK0329515086;Kraskovo;Kraskovo;Kraskovo
+1742;SK0329515094;Krokava;Krokava;Krokava
+1743;SK0329515108;Kruzno;Kruzno;Kruzno
+1744;SK0329515116;Kyjatice;Kyjatice;Kyjatice
+1745;SK0329515124;Lehota nad Rimavicou;Lehota nad Rimavicou;Lehota nad Rimavicou
+1746;SK0329515132;Lenartovce;Lenartovce;Lenartovce
+1747;SK0329515141;Lenka;Lenka;Lenka
+1748;SK0329515167;Lipovec;Lipovec;Lipovec
+1749;SK0329515175;Lukovistia;Lukovistia;Lukovistia
+1750;SK0329515183;Martinova;Martinova;Martinova
+1751;SK0329515205;Neporadza;Neporadza;Neporadza
+1752;SK0329515230;Nova Basta;Nova Basta;Nova Basta
+1753;SK0329515248;Oravka;Oravka;Oravka
+1754;SK0329515264;Ozdany;Ozdany;Ozdany
+1755;SK0329515272;Padarovce;Padarovce;Padarovce
+1756;SK0329515281;Pavlovce;Pavlovce;Pavlovce
+1757;SK0329515299;Petrovce;Petrovce;Petrovce
+1758;SK0329515337;Poproc;Poproc;Poproc
+1759;SK0329515345;Potok;Potok;Potok
+1760;SK0329515353;Radnovce;Radnovce;Radnovce
+1761;SK0329515388;Ratkovska Lehota;Ratkovska Lehota;Ratkovska Lehota
+1762;SK0329515396;Ratkovska Sucha;Ratkovska Sucha;Ratkovska Sucha
+1763;SK0329515426;Rimavska Bana;Rimavska Bana;Rimavska Bana
+1764;SK0329515442;Rimavska Sec;Rimavska Sec;Rimavska Sec
+1765;SK0329515451;Rimavske Brezovo;Rimavske Brezovo;Rimavske Brezovo
+1766;SK0329515469;Rimavske Janovce;Rimavske Janovce;Rimavske Janovce
+1767;SK0329515485;Rovne;Rovne;Rovne
+1768;SK0329515493;Rumince;Rumince;Rumince
+1769;SK0329515531;Slizke;Slizke;Slizke
+1770;SK0329515540;Stara Basta;Stara Basta;Stara Basta
+1771;SK0329515566;Stranska;Stranska;Stranska
+1772;SK0329515582;Studena;Studena;Studena
+1773;SK0329515604;Sutor;Sutor;Sutor
+1774;SK0329515621;Simonovce;Simonovce;Simonovce
+1775;SK0329515639;Sirkovce;Sirkovce;Sirkovce
+1776;SK0329515647;Spanie Pole;Spanie Pole;Spanie Pole
+1777;SK0329515655;Strkovec;Strkovec;Strkovec
+1778;SK0329515663;Tachty;Tachty;Tachty
+1779;SK0329515671;Teply Vrch;Teply Vrch;Teply Vrch
+1780;SK0329515680;Tisovec;Tisovec;Tisovec
+1781;SK0329515698;Tomasovce;Tomasovce;Tomasovce
+1782;SK0329515701;Uzovska Panica;Uzovska Panica;Uzovska Panica
+1783;SK0329515710;Vcelince;Vcelince;Vcelince
+1784;SK0329515728;Vecelkov;Vecelkov;Vecelkov
+1785;SK0329515736;Velke Teriakovce;Velke Teriakovce;Velke Teriakovce
+1786;SK0329515744;Velky Blh;Velky Blh;Velky Blh
+1787;SK0329515752;Vieska nad Blhom;Vieska nad Blhom;Vieska nad Blhom
+1788;SK0329515779;Vlkyna;Vlkyna;Vlkyna
+1789;SK0329515795;Valice;Valice;Valice
+1790;SK0329515809;Vysny Skalnik;Vysny Skalnik;Vysny Skalnik
+1791;SK0329515817;Zador;Zador;Zador
+1792;SK0329515841;Zip;Zip;Zip
+1793;SK0329557757;Abovce;Abovce;Abovce
+1794;SK0329557765;Riecka;Riecka;Riecka
+1795;SK0329557790;Nizny Skalnik;Nizny Skalnik;Nizny Skalnik
+1796;SK0329557811;Rimavske Zaluzany;Rimavske Zaluzany;Rimavske Zaluzany
+1797;SK0329557854;Rakytnik;Rakytnik;Rakytnik
+1798;SK0329557889;Gemerske Michalovce;Gemerske Michalovce;Gemerske Michalovce
+1799;SK0329557901;Vysne Valice;Vysne Valice;Vysne Valice
+1800;SK0329557919;Dulovo;Dulovo;Dulovo
+1801;SK0329557927;Zacharovce;Zacharovce;Zacharovce
+1802;SK041A526665;Stara Lubovna;Stara Lubovna;Stara Lubovna
+1803;SK041A526673;Circ;Circ;Circ
+1804;SK041A526681;Durkova;Durkova;Durkova
+1805;SK041A526690;Forbasy;Forbasy;Forbasy
+1806;SK041A526703;Hajtovka;Hajtovka;Hajtovka
+1807;SK041A526711;Haligovce;Haligovce;Haligovce
+1808;SK041A526720;Hniezdne;Hniezdne;Hniezdne
+1809;SK041A526738;Hranicne;Hranicne;Hranicne
+1810;SK041A526746;Hromos;Hromos;Hromos
+1811;SK041A526754;Chmelnica;Chmelnica;Chmelnica
+1812;SK041A526762;Jakubany;Jakubany;Jakubany
+1813;SK041A526771;Jarabina;Jarabina;Jarabina
+1814;SK041A526789;Kamienka;Kamienka;Kamienka
+1815;SK041A526797;Kolackov;Kolackov;Kolackov
+1816;SK041A526801;Kremna;Kremna;Kremna
+1817;SK041A526819;Kyjov;Kyjov;Kyjov
+1818;SK041A526827;Lackova;Lackova;Lackova
+1819;SK041A526835;Legnava;Legnava;Legnava
+1820;SK041A526843;Lesnica;Lesnica;Lesnica
+1821;SK041A526851;Litmanova;Litmanova;Litmanova
+1822;SK041A526860;Lomnicka;Lomnicka;Lomnicka
+1823;SK041A526878;Lubotin;Lubotin;Lubotin
+1824;SK041A526886;Maly Lipnik;Maly Lipnik;Maly Lipnik
+1825;SK041A526894;Matysova;Matysova;Matysova
+1826;SK041A526908;Mnisek nad Popradom;Mnisek nad Popradom;Mnisek nad Popradom
+1827;SK041A526916;Nizne Ruzbachy;Nizne Ruzbachy;Nizne Ruzbachy
+1828;SK041A526924;Nova Lubovna;Nova Lubovna;Nova Lubovna
+1829;SK041A526932;Obrucne;Obrucne;Obrucne
+1830;SK041A526941;Orlov;Orlov;Orlov
+1831;SK041A526959;Plavec;Plavec;Plavec
+1832;SK041A526967;Plavnica;Plavnica;Plavnica
+1833;SK041A526975;Podolinec;Podolinec;Podolinec
+1834;SK041A526983;Puste Pole;Puste Pole;Puste Pole
+1835;SK041A526991;Ruska Vola nad Popradom;Ruska Vola nad Popradom;Ruska Vola nad Popradom
+1836;SK041A527009;Starina;Starina;Starina
+1837;SK041A527017;Stranany;Stranany;Stranany
+1838;SK041A527025;Sulin;Sulin;Sulin
+1839;SK041A527033;Sambron;Sambron;Sambron
+1840;SK041A527041;Sarisske Jastrabie;Sarisske Jastrabie;Sarisske Jastrabie
+1841;SK041A527050;Udol;Udol;Udol
+1842;SK041A527068;Velka Lesna;Velka Lesna;Velka Lesna
+1843;SK041A527076;Velky Lipnik;Velky Lipnik;Velky Lipnik
+1844;SK041A527084;Vislanka;Vislanka;Vislanka
+1845;SK041A527092;Vysne Ruzbachy;Vysne Ruzbachy;Vysne Ruzbachy
+1846;SK041B527114;Bana;Bana;Bana
+1847;SK041B527157;Breznica;Breznica;Breznica
+1848;SK041B527165;Breznicka;Breznicka;Breznicka
+1849;SK041B527173;Brusnica;Brusnica;Brusnica
+1850;SK041B527181;Bukovce;Bukovce;Bukovce
+1851;SK041B527190;Bystra;Bystra;Bystra
+1852;SK041B527203;Bzany;Bzany;Bzany
+1853;SK041B527262;Duplin;Duplin;Duplin
+1854;SK041B527289;Gribov;Gribov;Gribov
+1855;SK041B527297;Havaj;Havaj;Havaj
+1856;SK041B527335;Chotca;Chotca;Chotca
+1857;SK041B527343;Jakusovce;Jakusovce;Jakusovce
+1858;SK041B527386;Kolbovce;Kolbovce;Kolbovce
+1859;SK041B527408;Korunkova;Korunkova;Korunkova
+1860;SK041B527416;Kozuchovce;Kozuchovce;Kozuchovce
+1861;SK041B527467;Krislovce;Krislovce;Krislovce
+1862;SK041B527475;Krusinec;Krusinec;Krusinec
+1863;SK041B527513;Lomne;Lomne;Lomne
+1864;SK041B527521;Makovce;Makovce;Makovce
+1865;SK041B527530;Mala Polana;Mala Polana;Mala Polana
+1866;SK041B527572;Mikova;Mikova;Mikova
+1867;SK041B527581;Minovce;Minovce;Minovce
+1868;SK041B527611;Mrazovce;Mrazovce;Mrazovce
+1869;SK041B527637;Nizna Olsava;Nizna Olsava;Nizna Olsava
+1870;SK041B527700;Olsavka;Olsavka;Olsavka
+1871;SK041B527718;Potocky;Potocky;Potocky
+1872;SK041B527726;Potoky;Potoky;Potoky
+1873;SK041B527793;Krucov;Krucov;Krucov
+1874;SK041B527815;Solnik;Solnik;Solnik
+1875;SK041B527823;Staskovce;Staskovce;Staskovce
+1876;SK041B527840;Stropkov;Stropkov;Stropkov
+1877;SK041B527866;Sandal;Sandal;Sandal
+1878;SK041B527912;Tisinec;Tisinec;Tisinec
+1879;SK041B527921;Tokajik;Tokajik;Tokajik
+1880;SK041B527939;Turany nad Ondavou;Turany nad Ondavou;Turany nad Ondavou
+1881;SK041B527971;Varechovce;Varechovce;Varechovce
+1882;SK041B527980;Velkrop;Velkrop;Velkrop
+1883;SK041B527998;Vislava;Vislava;Vislava
+1884;SK041B528005;Vladica;Vladica;Vladica
+1885;SK041B528013;Vojtovce;Vojtovce;Vojtovce
+1886;SK041B528021;Vyskovce;Vyskovce;Vyskovce
+1887;SK041B528048;Vysna Olsava;Vysna Olsava;Vysna Olsava
+1888;SK041B560073;Vysny Hrabovec;Vysny Hrabovec;Vysny Hrabovec
+1889;SK041C519197;Giraltovce;Giraltovce;Giraltovce
+1890;SK041C519316;Kalniste;Kalniste;Kalniste
+1891;SK041C519332;Kobylnice;Kobylnice;Kobylnice
+1892;SK041C519391;Kracunovce;Kracunovce;Kracunovce
+1893;SK041C519448;Kukova;Kukova;Kukova
+1894;SK041C519537;Lucka;Lucka;Lucka
+1895;SK041C519561;Luzany pri Topli;Luzany pri Topli;Luzany pri Topli
+1896;SK041C519596;Micakovce;Micakovce;Micakovce
+1897;SK041C519987;Zeleznik;Zeleznik;Zeleznik
+1898;SK041C519995;Zelmanovce;Zelmanovce;Zelmanovce
+1899;SK041C527106;Svidnik;Svidnik;Svidnik
+1900;SK041C527122;Belejovce;Belejovce;Belejovce
+1901;SK041C527131;Benadikovce;Benadikovce;Benadikovce
+1902;SK041C527149;Bodruzal;Bodruzal;Bodruzal
+1903;SK041C527211;Cernina;Cernina;Cernina
+1904;SK041C527220;Cigla;Cigla;Cigla
+1905;SK041C527238;Dlhona;Dlhona;Dlhona
+1906;SK041C527246;Dobroslava;Dobroslava;Dobroslava
+1907;SK041C527254;Dubova;Dubova;Dubova
+1908;SK041C527271;Fijas;Fijas;Fijas
+1909;SK041C527301;Havranec;Havranec;Havranec
+1910;SK041C527319;Hrabovcik;Hrabovcik;Hrabovcik
+1911;SK041C527327;Hunkovce;Hunkovce;Hunkovce
+1912;SK041C527351;Jurkova Vola;Jurkova Vola;Jurkova Vola
+1913;SK041C527360;Kapisova;Kapisova;Kapisova
+1914;SK041C527378;Keckovce;Keckovce;Keckovce
+1915;SK041C527394;Korejovce;Korejovce;Korejovce
+1916;SK041C527424;Krajna Bystra;Krajna Bystra;Krajna Bystra
+1917;SK041C527432;Krajna Polana;Krajna Polana;Krajna Polana
+1918;SK041C527441;Krajna Porubka;Krajna Porubka;Krajna Porubka
+1919;SK041C527459;Krajne Cierno;Krajne Cierno;Krajne Cierno
+1920;SK041C527483;Kruzlova;Kruzlova;Kruzlova
+1921;SK041C527491;Kurimka;Kurimka;Kurimka
+1922;SK041C527505;Ladomirova;Ladomirova;Ladomirova
+1923;SK041C527548;Matovce;Matovce;Matovce
+1924;SK041C527556;Medvedie;Medvedie;Medvedie
+1925;SK041C527564;Mestisko;Mestisko;Mestisko
+1926;SK041C527599;Mirola;Mirola;Mirola
+1927;SK041C527602;Mlynarovce;Mlynarovce;Mlynarovce
+1928;SK041C527629;Nizna Jedlova;Nizna Jedlova;Nizna Jedlova
+1929;SK041C527645;Nizna Pisana;Nizna Pisana;Nizna Pisana
+1930;SK041C527653;Nizny Komarnik;Nizny Komarnik;Nizny Komarnik
+1931;SK041C527661;Nizny Mirosov;Nizny Mirosov;Nizny Mirosov
+1932;SK041C527670;Nizny Orlik;Nizny Orlik;Nizny Orlik
+1933;SK041C527688;Nova Polianka;Nova Polianka;Nova Polianka
+1934;SK041C527696;Okruhle;Okruhle;Okruhle
+1935;SK041C527734;Prikra;Prikra;Prikra
+1936;SK041C527742;Pstrina;Pstrina;Pstrina
+1937;SK041C527751;Radoma;Radoma;Radoma
+1938;SK041C527769;Rakovcik;Rakovcik;Rakovcik
+1939;SK041C527777;Rovne;Rovne;Rovne
+1940;SK041C527785;Roztoky;Roztoky;Roztoky
+1941;SK041C527807;Sobos;Sobos;Sobos
+1942;SK041C527831;Strocin;Strocin;Strocin
+1943;SK041C527858;Svidnicka;Svidnicka;Svidnicka
+1944;SK041C527874;Sarbov;Sarbov;Sarbov
+1945;SK041C527882;Sarissky Stiavnik;Sarissky Stiavnik;Sarissky Stiavnik
+1946;SK041C527891;Semetkovce;Semetkovce;Semetkovce
+1947;SK041C527904;Stefurov;Stefurov;Stefurov
+1948;SK041C527947;Vagrinec;Vagrinec;Vagrinec
+1949;SK041C527955;Valkovce;Valkovce;Valkovce
+1950;SK041C527963;Vapenik;Vapenik;Vapenik
+1951;SK041C528030;Vysna Jedlova;Vysna Jedlova;Vysna Jedlova
+1952;SK041C528056;Vysna Pisana;Vysna Pisana;Vysna Pisana
+1953;SK041C528064;Vysny Komarnik;Vysny Komarnik;Vysny Komarnik
+1954;SK041C528072;Vysny Mirosov;Vysny Mirosov;Vysny Mirosov
+1955;SK041C528081;Vysny Orlik;Vysny Orlik;Vysny Orlik
+1956;SK041C580601;Dukovce;Dukovce;Dukovce
+1957;SK041D528731;Holcikovce;Holcikovce;Holcikovce
+1958;SK041D528749;Jasenovce;Jasenovce;Jasenovce
+1959;SK041D528757;Jastrabie nad Toplou;Jastrabie nad Toplou;Jastrabie nad Toplou
+1960;SK041D528765;Juskova Vola;Juskova Vola;Juskova Vola
+1961;SK041D528773;Kamenna Poruba;Kamenna Poruba;Kamenna Poruba
+1962;SK041D528781;Kladzany;Kladzany;Kladzany
+1963;SK041D528790;Komarany;Komarany;Komarany
+1964;SK041D528811;Kucin;Kucin;Kucin
+1965;SK041D528820;Kvakovce;Kvakovce;Kvakovce
+1966;SK041D528838;Majerovce;Majerovce;Majerovce
+1967;SK041D528846;Mala Domasa;Mala Domasa;Mala Domasa
+1968;SK041D528854;Matiaska;Matiaska;Matiaska
+1969;SK041D528862;Medzianky;Medzianky;Medzianky
+1970;SK041D528871;Mernik;Mernik;Mernik
+1971;SK041D528889;Michalok;Michalok;Michalok
+1972;SK041D528901;Nizny Hrabovec;Nizny Hrabovec;Nizny Hrabovec
+1973;SK041D528919;Nizny Hrusov;Nizny Hrusov;Nizny Hrusov
+1974;SK041D528927;Nizny Krucov;Nizny Krucov;Nizny Krucov
+1975;SK041D528935;Nova Kelca;Nova Kelca;Nova Kelca
+1976;SK041D528943;Ondavske Matiasovce;Ondavske Matiasovce;Ondavske Matiasovce
+1977;SK041D528960;Pavlovce;Pavlovce;Pavlovce
+1978;SK041D528978;Petkovce;Petkovce;Petkovce
+1979;SK041D528986;Petrovce;Petrovce;Petrovce
+1980;SK041D528994;Piskorovce;Piskorovce;Piskorovce
+1981;SK041D529001;Posa;Posa;Posa
+1982;SK041D529028;Prosacov;Prosacov;Prosacov
+1983;SK041D529036;Radvanovce;Radvanovce;Radvanovce
+1984;SK041D529044;Rafajovce;Rafajovce;Rafajovce
+1985;SK041D529052;Remeniny;Remeniny;Remeniny
+1986;SK041D529079;Rudlov;Rudlov;Rudlov
+1987;SK041D529109;Ruska Vola;Ruska Vola;Ruska Vola
+1988;SK041D529117;Vysny Kazimir;Vysny Kazimir;Vysny Kazimir
+1989;SK041D529125;Sacurov;Sacurov;Sacurov
+1990;SK041D529133;Secovska Polianka;Secovska Polianka;Secovska Polianka
+1991;SK041D529141;Sedliska;Sedliska;Sedliska
+1992;SK041D529150;Skrabske;Skrabske;Skrabske
+1993;SK041D529168;Slovenska Kajna;Slovenska Kajna;Slovenska Kajna
+1994;SK041D529176;Sol;Sol;Sol
+1995;SK041D529184;Stefanovce;Stefanovce;Stefanovce
+1996;SK041D529192;Tovarne;Tovarne;Tovarne
+1997;SK041D529206;Tovarnianska Polianka;Tovarnianska Polianka;Tovarnianska Polianka
+1998;SK041D529214;Vavrinec;Vavrinec;Vavrinec
+1999;SK041D529222;Vechec;Vechec;Vechec
+2000;SK041D529231;Vlaca;Vlaca;Vlaca
+2001;SK041D529257;Vysny Zipov;Vysny Zipov;Vysny Zipov
+2002;SK041D529265;Zamutov;Zamutov;Zamutov
+2003;SK041D529281;Zlatnik;Zlatnik;Zlatnik
+2004;SK041D529290;Zalobin;Zalobin;Zalobin
+2005;SK041D544051;Vranov nad Toplou;Vranov nad Toplou;Vranov nad Toplou
+2006;SK041D544060;Babie;Babie;Babie
+2007;SK041D544078;Banske;Banske;Banske
+2008;SK041D544086;Benkovce;Benkovce;Benkovce
+2009;SK041D544094;Bystre;Bystre;Bystre
+2010;SK041D544108;Cabov;Cabov;Cabov
+2011;SK041D544116;Caklov;Caklov;Caklov
+2012;SK041D544124;Cicava;Cicava;Cicava
+2013;SK041D544132;Cierne nad Toplou;Cierne nad Toplou;Cierne nad Toplou
+2014;SK041D544141;Dapalovce;Dapalovce;Dapalovce
+2015;SK041D544159;Davidov;Davidov;Davidov
+2016;SK041D544167;Detrik;Detrik;Detrik
+2017;SK041D544175;Dlhe Klcovo;Dlhe Klcovo;Dlhe Klcovo
+2018;SK041D544183;Durdos;Durdos;Durdos
+2019;SK041D544191;Giglovce;Giglovce;Giglovce
+2020;SK041D544205;Girovce;Girovce;Girovce
+2021;SK041D544213;Hanusovce nad Toplou;Hanusovce nad Toplou;Hanusovce nad Toplou
+2022;SK041D544221;Hermanovce nad Toplou;Hermanovce nad Toplou;Hermanovce nad Toplou
+2023;SK041D544230;Hlinne;Hlinne;Hlinne
+2024;SK041D581674;Hencovce;Hencovce;Hencovce
+2025;SK0411518964;Vaniskovce;Vaniskovce;Vaniskovce
+2026;SK0411519006;Bardejov;Bardejov;Bardejov
+2027;SK0411519014;Abrahamovce;Abrahamovce;Abrahamovce
+2028;SK0411519022;Andrejova;Andrejova;Andrejova
+2029;SK0411519049;Bartosovce;Bartosovce;Bartosovce
+2030;SK0411519057;Becherov;Becherov;Becherov
+2031;SK0411519065;Beloveza;Beloveza;Beloveza
+2032;SK0411519073;Bogliarka;Bogliarka;Bogliarka
+2033;SK0411519081;Brezov;Brezov;Brezov
+2034;SK0411519090;Brezovka;Brezovka;Brezovka
+2035;SK0411519103;Buclovany;Buclovany;Buclovany
+2036;SK0411519111;Cigelka;Cigelka;Cigelka
+2037;SK0411519138;Dubinne;Dubinne;Dubinne
+2038;SK0411519154;Fricka;Fricka;Fricka
+2039;SK0411519162;Frickovce;Frickovce;Frickovce
+2040;SK0411519171;Gaboltov;Gaboltov;Gaboltov
+2041;SK0411519189;Gerlachov;Gerlachov;Gerlachov
+2042;SK0411519201;Hankovce;Hankovce;Hankovce
+2043;SK0411519219;Harhaj;Harhaj;Harhaj
+2044;SK0411519227;Hazlin;Hazlin;Hazlin
+2045;SK0411519235;Hertnik;Hertnik;Hertnik
+2046;SK0411519243;Hervartov;Hervartov;Hervartov
+2047;SK0411519251;Hrabovec;Hrabovec;Hrabovec
+2048;SK0411519260;Hrabske;Hrabske;Hrabske
+2049;SK0411519278;Hutka;Hutka;Hutka
+2050;SK0411519286;Chmelova;Chmelova;Chmelova
+2051;SK0411519294;Janovce;Janovce;Janovce
+2052;SK0411519308;Jedlinka;Jedlinka;Jedlinka
+2053;SK0411519324;Klusov;Klusov;Klusov
+2054;SK0411519341;Kobyly;Kobyly;Kobyly
+2055;SK0411519359;Kochanovce;Kochanovce;Kochanovce
+2056;SK0411519367;Komarov;Komarov;Komarov
+2057;SK0411519375;Koprivnica;Koprivnica;Koprivnica
+2058;SK0411519383;Kozany;Kozany;Kozany
+2059;SK0411519405;Krive;Krive;Krive
+2060;SK0411519413;Krize;Krize;Krize
+2061;SK0411519421;Kruzlov;Kruzlov;Kruzlov
+2062;SK0411519430;Kucin;Kucin;Kucin
+2063;SK0411519456;Kurima;Kurima;Kurima
+2064;SK0411519464;Kurov;Kurov;Kurov
+2065;SK0411519472;Lascov;Lascov;Lascov
+2066;SK0411519481;Lenartov;Lenartov;Lenartov
+2067;SK0411519499;Lipova;Lipova;Lipova
+2068;SK0411519502;Livov;Livov;Livov
+2069;SK0411519511;Livovska Huta;Livovska Huta;Livovska Huta
+2070;SK0411519529;Lopuchov;Lopuchov;Lopuchov
+2071;SK0411519545;Lukavica;Lukavica;Lukavica
+2072;SK0411519553;Lukov;Lukov;Lukov
+2073;SK0411519570;Malcov;Malcov;Malcov
+2074;SK0411519588;Marhan;Marhan;Marhan
+2075;SK0411519600;Mikulasova;Mikulasova;Mikulasova
+2076;SK0411519618;Mokroluh;Mokroluh;Mokroluh
+2077;SK0411519626;Nemcovce;Nemcovce;Nemcovce
+2078;SK0411519634;Nizna Polianka;Nizna Polianka;Nizna Polianka
+2079;SK0411519642;Nizna Vola;Nizna Vola;Nizna Vola
+2080;SK0411519669;Nizny Tvarozec;Nizny Tvarozec;Nizny Tvarozec
+2081;SK0411519677;Olsavce;Olsavce;Olsavce
+2082;SK0411519685;Ondavka;Ondavka;Ondavka
+2083;SK0411519693;Ortutova;Ortutova;Ortutova
+2084;SK0411519707;Osikov;Osikov;Osikov
+2085;SK0411519715;Petrova;Petrova;Petrova
+2086;SK0411519723;Poliakovce;Poliakovce;Poliakovce
+2087;SK0411519731;Porubka;Porubka;Porubka
+2088;SK0411519740;Regetovka;Regetovka;Regetovka
+2089;SK0411519758;Resov;Resov;Resov
+2090;SK0411519766;Richvald;Richvald;Richvald
+2091;SK0411519774;Rokytov;Rokytov;Rokytov
+2092;SK0411519782;Smilno;Smilno;Smilno
+2093;SK0411519791;Snakov;Snakov;Snakov
+2094;SK0411519804;Stebnicka Huta;Stebnicka Huta;Stebnicka Huta
+2095;SK0411519812;Stebnik;Stebnik;Stebnik
+2096;SK0411519821;Stulany;Stulany;Stulany
+2097;SK0411519839;Sverzov;Sverzov;Sverzov
+2098;SK0411519847;Sarisske Cierne;Sarisske Cierne;Sarisske Cierne
+2099;SK0411519855;Sasova;Sasova;Sasova
+2100;SK0411519863;Siba;Siba;Siba
+2101;SK0411519871;Tarnov;Tarnov;Tarnov
+2102;SK0411519880;Trocany;Trocany;Trocany
+2103;SK0411519901;Varadka;Varadka;Varadka
+2104;SK0411519910;Vysna Polianka;Vysna Polianka;Vysna Polianka
+2105;SK0411519928;Vysna Vola;Vysna Vola;Vysna Vola
+2106;SK0411519936;Raslavice;Raslavice;Raslavice
+2107;SK0411519944;Vysny Krucov;Vysny Krucov;Vysny Krucov
+2108;SK0411519952;Vysny Tvarozec;Vysny Tvarozec;Vysny Tvarozec
+2109;SK0411519961;Zborov;Zborov;Zborov
+2110;SK0411519979;Zlate;Zlate;Zlate
+2111;SK0412518638;Valaskovce (vojensky obvod);Valaskovce;Valaskovce (voj.obvod)
+2112;SK0412520004;Humenne;Humenne;Humenne
+2113;SK0412520012;Adidovce;Adidovce;Adidovce
+2114;SK0412520021;Baskovce;Baskovce;Baskovce
+2115;SK0412520055;Brekov;Brekov;Brekov
+2116;SK0412520063;Brestov;Brestov;Brestov
+2117;SK0412520110;Cernina;Cernina;Cernina
+2118;SK0412520152;Dedacov;Dedacov;Dedacov
+2119;SK0412520195;Hankovce;Hankovce;Hankovce
+2120;SK0412520225;Hrabovec nad Laborcom;Hrabovec nad Laborcom;Hrabovec nad Laborcom
+2121;SK0412520233;Hrubov;Hrubov;Hrubov
+2122;SK0412520241;Hudcovce;Hudcovce;Hudcovce
+2123;SK0412520250;Rokytov pri Humennom;Rokytov pri Humennom;Rokytov pri Humennom
+2124;SK0412520268;Chlmec;Chlmec;Chlmec
+2125;SK0412520276;Jablon;Jablon;Jablon
+2126;SK0412520292;Jankovce;Jankovce;Jankovce
+2127;SK0412520331;Kamenica nad Cirochou;Kamenica nad Cirochou;Kamenica nad Cirochou
+2128;SK0412520349;Kamienka;Kamienka;Kamienka
+2129;SK0412520357;Karna;Karna;Karna
+2130;SK0412520373;Kochanovce;Kochanovce;Kochanovce
+2131;SK0412520403;Koskovce;Koskovce;Koskovce
+2132;SK0412520446;Lieskovec;Lieskovec;Lieskovec
+2133;SK0412520454;Lubisa;Lubisa;Lubisa
+2134;SK0412520462;Lukacovce;Lukacovce;Lukacovce
+2135;SK0412520497;Modra nad Cirochou;Modra nad Cirochou;Modra nad Cirochou
+2136;SK0412520501;Myslina;Myslina;Myslina
+2137;SK0412520527;Nechvalova Polianka;Nechvalova Polianka;Nechvalova Polianka
+2138;SK0412520535;Nizna Jablonka;Nizna Jablonka;Nizna Jablonka
+2139;SK0412520543;Nizne Ladickovce;Nizne Ladickovce;Nizne Ladickovce
+2140;SK0412520560;Ohradzany;Ohradzany;Ohradzany
+2141;SK0412520624;Papin;Papin;Papin
+2142;SK0412520667;Porubka;Porubka;Porubka
+2143;SK0412520683;Pticie;Pticie;Pticie
+2144;SK0412520721;Rovne;Rovne;Rovne
+2145;SK0412520772;Slovenska Volova;Slovenska Volova;Slovenska Volova
+2146;SK0412520781;Slovenske Krive;Slovenske Krive;Slovenske Krive
+2147;SK0412520896;Topolovka;Topolovka;Topolovka
+2148;SK0412520900;Turcovce;Turcovce;Turcovce
+2149;SK0412520926;Udavske;Udavske;Udavske
+2150;SK0412520977;Velopolie;Velopolie;Velopolie
+2151;SK0412520985;Vitazovce;Vitazovce;Vitazovce
+2152;SK0412521019;Vysna Jablonka;Vysna Jablonka;Vysna Jablonka
+2153;SK0412521027;Vysne Ladickovce;Vysne Ladickovce;Vysne Ladickovce
+2154;SK0412521035;Vysny Hrusov;Vysny Hrusov;Vysny Hrusov
+2155;SK0412521043;Zavadka;Zavadka;Zavadka
+2156;SK0412521086;Zbudske Dlhe;Zbudske Dlhe;Zbudske Dlhe
+2157;SK0412521116;Zubne;Zubne;Zubne
+2158;SK0412528803;Kosarovce;Kosarovce;Kosarovce
+2159;SK0412528897;Nizna Sitnica;Nizna Sitnica;Nizna Sitnica
+2160;SK0412528951;Pakostov;Pakostov;Pakostov
+2161;SK0412529010;Pritulany;Pritulany;Pritulany
+2162;SK0412529061;Rohoznik;Rohoznik;Rohoznik
+2163;SK0412529087;Ruska Kajna;Ruska Kajna;Ruska Kajna
+2164;SK0412529095;Ruska Poruba;Ruska Poruba;Ruska Poruba
+2165;SK0412529249;Vysna Sitnica;Vysna Sitnica;Vysna Sitnica
+2166;SK0412529273;Zavada;Zavada;Zavada
+2167;SK0412559547;Jasenov;Jasenov;Jasenov
+2168;SK0412559598;Hazin nad Cirochou;Hazin nad Cirochou;Hazin nad Cirochou
+2169;SK0412559636;Sopkovce;Sopkovce;Sopkovce
+2170;SK0412559644;Gruzovce;Gruzovce;Gruzovce
+2171;SK0412559652;Maskovce;Maskovce;Maskovce
+2172;SK0412582140;Lackovce;Lackovce;Lackovce
+2173;SK0413523399;Abrahamovce;Abrahamovce;Abrahamovce
+2174;SK0413523411;Busovce;Busovce;Busovce
+2175;SK0413523429;Cerveny Klastor;Cerveny Klastor;Cerveny Klastor
+2176;SK0413523461;Havka;Havka;Havka
+2177;SK0413523470;Holumnica;Holumnica;Holumnica
+2178;SK0413523500;Hradisko;Hradisko;Hradisko
+2179;SK0413523526;Huncovce;Huncovce;Huncovce
+2180;SK0413523534;Ihlany;Ihlany;Ihlany
+2181;SK0413523551;Javorina (vojensky obvod);Javorina;Javorina (voj.obvod)
+2182;SK0413523569;Jezersko;Jezersko;Jezersko
+2183;SK0413523577;Jurske;Jurske;Jurske
+2184;SK0413523585;Kezmarok;Kezmarok;Kezmarok
+2185;SK0413523607;Krizova Ves;Krizova Ves;Krizova Ves
+2186;SK0413523615;Lechnica;Lechnica;Lechnica
+2187;SK0413523623;Lendak;Lendak;Lendak
+2188;SK0413523674;Majere;Majere;Majere
+2189;SK0413523682;Lubica;Lubica;Lubica
+2190;SK0413523712;Matiasovce;Matiasovce;Matiasovce
+2191;SK0413523739;Mlynceky;Mlynceky;Mlynceky
+2192;SK0413523771;Osturna;Osturna;Osturna
+2193;SK0413523780;Podhorany;Podhorany;Podhorany
+2194;SK0413523798;Rakusy;Rakusy;Rakusy
+2195;SK0413523801;Relov;Relov;Relov
+2196;SK0413523810;Slovenska Ves;Slovenska Ves;Slovenska Ves
+2197;SK0413523828;Spisska Bela;Spisska Bela;Spisska Bela
+2198;SK0413523836;Spisska Stara Ves;Spisska Stara Ves;Spisska Stara Ves
+2199;SK0413523861;Spisske Hanusovce;Spisske Hanusovce;Spisske Hanusovce
+2200;SK0413523887;Stara Lesna;Stara Lesna;Stara Lesna
+2201;SK0413523909;Strane pod Tatrami;Strane pod Tatrami;Strane pod Tatrami
+2202;SK0413523976;Toporec;Toporec;Toporec
+2203;SK0413523984;Tvarozna;Tvarozna;Tvarozna
+2204;SK0413523992;Velka Frankova;Velka Frankova;Velka Frankova
+2205;SK0413524000;Velka Lomnica;Velka Lomnica;Velka Lomnica
+2206;SK0413524042;Vlkova;Vlkova;Vlkova
+2207;SK0413524051;Vlkovce;Vlkovce;Vlkovce
+2208;SK0413524069;Vojnany;Vojnany;Vojnany
+2209;SK0413524077;Vrbov;Vrbov;Vrbov
+2210;SK0413524085;Vyborna;Vyborna;Vyborna
+2211;SK0413524115;Zalesie;Zalesie;Zalesie
+2212;SK0413524123;Zakovce;Zakovce;Zakovce
+2213;SK0413559938;Mala Frankova;Mala Frankova;Mala Frankova
+2214;SK0413581241;Maly Slavkov;Maly Slavkov;Maly Slavkov
+2215;SK0414526371;Baldovce;Baldovce;Baldovce
+2216;SK0414526380;Beharovce;Beharovce;Beharovce
+2217;SK0414526401;Bijacovce;Bijacovce;Bijacovce
+2218;SK0414526410;Brutovce;Brutovce;Brutovce
+2219;SK0414526428;Buglovce;Buglovce;Buglovce
+2220;SK0414526452;Dlhe Straze;Dlhe Straze;Dlhe Straze
+2221;SK0414526461;Dolany;Dolany;Dolany
+2222;SK0414526479;Domanovce;Domanovce;Domanovce
+2223;SK0414526487;Dravce;Dravce;Dravce
+2224;SK0414526495;Dubrava;Dubrava;Dubrava
+2225;SK0414526517;Granc-Petrovce;Granc-Petrovce;Granc-Petrovce
+2226;SK0414526525;Harakovce;Harakovce;Harakovce
+2227;SK0414526606;Vysne Repase;Vysne Repase;Vysne Repase
+2228;SK0414526614;Vysny Slavkov;Vysny Slavkov;Vysny Slavkov
+2229;SK0414543179;Jablonov;Jablonov;Jablonov
+2230;SK0414543225;Klcov;Klcov;Klcov
+2231;SK0414543276;Kurimany;Kurimany;Kurimany
+2232;SK0414543292;Levoca;Levoca;Levoca
+2233;SK0414543314;Lucka;Lucka;Lucka
+2234;SK0414543381;Nemesany;Nemesany;Nemesany
+2235;SK0414543390;Nizne Repase;Nizne Repase;Nizne Repase
+2236;SK0414543420;Olsavica;Olsavica;Olsavica
+2237;SK0414543446;Ordzovany;Ordzovany;Ordzovany
+2238;SK0414543454;Pavlany;Pavlany;Pavlany
+2239;SK0414543462;Polanovce;Polanovce;Polanovce
+2240;SK0414543471;Pongracovce;Pongracovce;Pongracovce
+2241;SK0414543578;Spisske Podhradie;Spisske Podhradie;Spisske Podhradie
+2242;SK0414543608;Spissky Hrhov;Spissky Hrhov;Spissky Hrhov
+2243;SK0414543624;Spissky Stvrtok;Spissky Stvrtok;Spissky Stvrtok
+2244;SK0414543641;Studenec;Studenec;Studenec
+2245;SK0414543675;Torysky;Torysky;Torysky
+2246;SK0414543691;Uloza;Uloza;Uloza
+2247;SK0414581640;Korytne;Korytne;Korytne
+2248;SK0415520071;Brestov nad Laborcom;Brestov nad Laborcom;Brestov nad Laborcom
+2249;SK0415520098;Cabalovce;Cabalovce;Cabalovce
+2250;SK0415520101;Cabiny;Cabiny;Cabiny
+2251;SK0415520128;Certizne;Certizne;Certizne
+2252;SK0415520187;Habura;Habura;Habura
+2253;SK0415520314;Kalinov;Kalinov;Kalinov
+2254;SK0415520411;Krasny Brod;Krasny Brod;Krasny Brod
+2255;SK0415520471;Medzilaborce;Medzilaborce;Medzilaborce
+2256;SK0415520519;Nagov;Nagov;Nagov
+2257;SK0415520578;Olka;Olka;Olka
+2258;SK0415520586;Olsinkov;Olsinkov;Olsinkov
+2259;SK0415520616;Palota;Palota;Palota
+2260;SK0415520691;Radvan nad Laborcom;Radvan nad Laborcom;Radvan nad Laborcom
+2261;SK0415520705;Repejov;Repejov;Repejov
+2262;SK0415520713;Roskovce;Roskovce;Roskovce
+2263;SK0415520853;Sukov;Sukov;Sukov
+2264;SK0415520861;Svetlice;Svetlice;Svetlice
+2265;SK0415520951;Valentovce;Valentovce;Valentovce
+2266;SK0415520993;Volica;Volica;Volica
+2267;SK0415521001;Vyrava;Vyrava;Vyrava
+2268;SK0415521060;Zbojne;Zbojne;Zbojne
+2269;SK0415521078;Zbudska Bela;Zbudska Bela;Zbudska Bela
+2270;SK0415559610;Rokytovce;Rokytovce;Rokytovce
+2271;SK0416523381;Poprad;Poprad;Poprad
+2272;SK0416523402;Batizovce;Batizovce;Batizovce
+2273;SK0416523437;Ganovce;Ganovce;Ganovce
+2274;SK0416523445;Gerlachov;Gerlachov;Gerlachov
+2275;SK0416523488;Horka;Horka;Horka
+2276;SK0416523496;Hozelec;Hozelec;Hozelec
+2277;SK0416523518;Hranovnica;Hranovnica;Hranovnica
+2278;SK0416523542;Janovce;Janovce;Janovce
+2279;SK0416523593;Kravany;Kravany;Kravany
+2280;SK0416523631;Liptovska Teplicka;Liptovska Teplicka;Liptovska Teplicka
+2281;SK0416523658;Lucivna;Lucivna;Lucivna
+2282;SK0416523721;Mengusovce;Mengusovce;Mengusovce
+2283;SK0416523747;Mlynica;Mlynica;Mlynica
+2284;SK0416523763;Nova Lesna;Nova Lesna;Nova Lesna
+2285;SK0416523844;Spisska Teplica;Spisska Teplica;Spisska Teplica
+2286;SK0416523852;Spisske Bystre;Spisske Bystre;Spisske Bystre
+2287;SK0416523879;Spissky Stiavnik;Spissky Stiavnik;Spissky Stiavnik
+2288;SK0416523925;Svit;Svit;Svit
+2289;SK0416523933;Strba;Strba;Strba
+2290;SK0416523950;Svabovce;Svabovce;Svabovce
+2291;SK0416524018;Velky Slavkov;Velky Slavkov;Velky Slavkov
+2292;SK0416524026;Vernar;Vernar;Vernar
+2293;SK0416524034;Vikartovce;Vikartovce;Vikartovce
+2294;SK0416524093;Vydrnik;Vydrnik;Vydrnik
+2295;SK0416524107;Sunava;Sunava;Sunava
+2296;SK0416524131;Zdiar;Zdiar;Zdiar
+2297;SK0416559890;Stola;Stola;Stola
+2298;SK0416560103;Vysoke Tatry;Vysoke Tatry;Vysoke Tatry
+2299;SK0416580368;Tatranska Javorina;Tatranska Javorina;Tatranska Javorina
+2300;SK0417518522;Haniska;Haniska;Haniska
+2301;SK0417518590;Lubotice;Lubotice;Lubotice
+2302;SK0417524140;Presov;Presov;Presov
+2303;SK0417524158;Abranovce;Abranovce;Abranovce
+2304;SK0417524174;Bajerov;Bajerov;Bajerov
+2305;SK0417524191;Bertotovce;Bertotovce;Bertotovce
+2306;SK0417524212;Brestov;Brestov;Brestov
+2307;SK0417524221;Bretejovce;Bretejovce;Bretejovce
+2308;SK0417524255;Brezany;Brezany;Brezany
+2309;SK0417524263;Bzenov;Bzenov;Bzenov
+2310;SK0417524271;Celovce;Celovce;Celovce
+2311;SK0417524301;Cervenica;Cervenica;Cervenica
+2312;SK0417524336;Demjata;Demjata;Demjata
+2313;SK0417524352;Drienov;Drienov;Drienov
+2314;SK0417524361;Drienovska Nova Ves;Drienovska Nova Ves;Drienovska Nova Ves
+2315;SK0417524387;Dulova Ves;Dulova Ves;Dulova Ves
+2316;SK0417524395;Fintice;Fintice;Fintice
+2317;SK0417524409;Fricovce;Fricovce;Fricovce
+2318;SK0417524417;Fulianka;Fulianka;Fulianka
+2319;SK0417524425;Geraltov;Geraltov;Geraltov
+2320;SK0417524433;Gregorovce;Gregorovce;Gregorovce
+2321;SK0417524450;Hendrichovce;Hendrichovce;Hendrichovce
+2322;SK0417524468;Hermanovce;Hermanovce;Hermanovce
+2323;SK0417524476;Hrabkov;Hrabkov;Hrabkov
+2324;SK0417524506;Chmelov;Chmelov;Chmelov
+2325;SK0417524514;Chmelovec;Chmelovec;Chmelovec
+2326;SK0417524522;Chminianska Nova Ves;Chminianska Nova Ves;Chminianska Nova Ves
+2327;SK0417524531;Chminianske Jakubovany;Chminianske Jakubovany;Chminianske Jakubovany
+2328;SK0417524549;Chminany;Chminany;Chminany
+2329;SK0417524581;Janov;Janov;Janov
+2330;SK0417524590;Janovik;Janovik;Janovik
+2331;SK0417524620;Kapusany;Kapusany;Kapusany
+2332;SK0417524638;Kendice;Kendice;Kendice
+2333;SK0417524646;Klenov;Klenov;Klenov
+2334;SK0417524654;Kojatice;Kojatice;Kojatice
+2335;SK0417524662;Kokosovce;Kokosovce;Kokosovce
+2336;SK0417524697;Krizovany;Krizovany;Krizovany
+2337;SK0417524701;Kvacany;Kvacany;Kvacany
+2338;SK0417524727;Lada;Lada;Lada
+2339;SK0417524735;Lazany;Lazany;Lazany
+2340;SK0417524743;Lemesany;Lemesany;Lemesany
+2341;SK0417524751;Lesicek;Lesicek;Lesicek
+2342;SK0417524760;Licartovce;Licartovce;Licartovce
+2343;SK0417524786;Lipovce;Lipovce;Lipovce
+2344;SK0417524794;Lubovec;Lubovec;Lubovec
+2345;SK0417524808;Lucina;Lucina;Lucina
+2346;SK0417524832;Maly Slivnik;Maly Slivnik;Maly Slivnik
+2347;SK0417524841;Maly Saris;Maly Saris;Maly Saris
+2348;SK0417524867;Miklusovce;Miklusovce;Miklusovce
+2349;SK0417524883;Mirkovce;Mirkovce;Mirkovce
+2350;SK0417524905;Mosurov;Mosurov;Mosurov
+2351;SK0417524913;Nemcovce;Nemcovce;Nemcovce
+2352;SK0417524930;Okruzna;Okruzna;Okruzna
+2353;SK0417524964;Ondrasovce;Ondrasovce;Ondrasovce
+2354;SK0417524999;Ovcie;Ovcie;Ovcie
+2355;SK0417525014;Petrovany;Petrovany;Petrovany
+2356;SK0417525022;Podhorany;Podhorany;Podhorany
+2357;SK0417525031;Podhradik;Podhradik;Podhradik
+2358;SK0417525057;Proc;Proc;Proc
+2359;SK0417525065;Pusovce;Pusovce;Pusovce
+2360;SK0417525073;Radatice;Radatice;Radatice
+2361;SK0417525111;Rokycany;Rokycany;Rokycany
+2362;SK0417525138;Ruska Nova Ves;Ruska Nova Ves;Ruska Nova Ves
+2363;SK0417525154;Sedlice;Sedlice;Sedlice
+2364;SK0417525162;Seniakovce;Seniakovce;Seniakovce
+2365;SK0417525171;Svinia;Svinia;Svinia
+2366;SK0417525189;Sarisska Poruba;Sarisska Poruba;Sarisska Poruba
+2367;SK0417525197;Sarisska Trstena;Sarisska Trstena;Sarisska Trstena
+2368;SK0417525201;Sarisske Bohdanovce;Sarisske Bohdanovce;Sarisske Bohdanovce
+2369;SK0417525251;Sindliar;Sindliar;Sindliar
+2370;SK0417525260;Siroke;Siroke;Siroke
+2371;SK0417525278;Stefanovce;Stefanovce;Stefanovce
+2372;SK0417525286;Teriakovce;Teriakovce;Teriakovce
+2373;SK0417525294;Terna;Terna;Terna
+2374;SK0417525324;Trnkov;Trnkov;Trnkov
+2375;SK0417525332;Tuhrina;Tuhrina;Tuhrina
+2376;SK0417525341;Tulcik;Tulcik;Tulcik
+2377;SK0417525383;Varhanovce;Varhanovce;Varhanovce
+2378;SK0417525391;Velky Slivnik;Velky Slivnik;Velky Slivnik
+2379;SK0417525405;Velky Saris;Velky Saris;Velky Saris
+2380;SK0417525413;Vitaz;Vitaz;Vitaz
+2381;SK0417525430;Vysna Sebastova;Vysna Sebastova;Vysna Sebastova
+2382;SK0417525448;Zaborske;Zaborske;Zaborske
+2383;SK0417525456;Zahradne;Zahradne;Zahradne
+2384;SK0417525472;Zlata Bana;Zlata Bana;Zlata Bana
+2385;SK0417525499;Zehna;Zehna;Zehna
+2386;SK0417525502;Zipov;Zipov;Zipov
+2387;SK0417525511;Zupcany;Zupcany;Zupcany
+2388;SK0417556823;Medzany;Medzany;Medzany
+2389;SK0417559971;Lipniky;Lipniky;Lipniky
+2390;SK0417559989;Sucha Dolina;Sucha Dolina;Sucha Dolina
+2391;SK0418524182;Bajerovce;Bajerovce;Bajerovce
+2392;SK0418524204;Bodovce;Bodovce;Bodovce
+2393;SK0418524239;Brezovica;Brezovica;Brezovica
+2394;SK0418524247;Brezovicka;Brezovicka;Brezovicka
+2395;SK0418524280;Cervena Voda;Cervena Voda;Cervena Voda
+2396;SK0418524298;Cervenica pri Sabinove;Cervenica pri Sabinove;Cervenica pri Sabinove
+2397;SK0418524310;Dacov;Dacov;Dacov
+2398;SK0418524328;Daletice;Daletice;Daletice
+2399;SK0418524344;Drienica;Drienica;Drienica
+2400;SK0418524379;Dubovica;Dubovica;Dubovica
+2401;SK0418524441;Hanigovce;Hanigovce;Hanigovce
+2402;SK0418524492;Hubosovce;Hubosovce;Hubosovce
+2403;SK0418524557;Jakovany;Jakovany;Jakovany
+2404;SK0418524565;Jakubova Vola;Jakubova Vola;Jakubova Vola
+2405;SK0418524573;Jakubovany;Jakubovany;Jakubovany
+2406;SK0418524603;Jarovnice;Jarovnice;Jarovnice
+2407;SK0418524611;Kamenica;Kamenica;Kamenica
+2408;SK0418524671;Krasna Luka;Krasna Luka;Krasna Luka
+2409;SK0418524689;Krivany;Krivany;Krivany
+2410;SK0418524778;Lipany;Lipany;Lipany
+2411;SK0418524816;Lucka;Lucka;Lucka
+2412;SK0418524824;Lutina;Lutina;Lutina
+2413;SK0418524875;Milpos;Milpos;Milpos
+2414;SK0418524921;Nizny Slavkov;Nizny Slavkov;Nizny Slavkov
+2415;SK0418524948;Olejnikov;Olejnikov;Olejnikov
+2416;SK0418524956;Olsov;Olsov;Olsov
+2417;SK0418524981;Ostrovany;Ostrovany;Ostrovany
+2418;SK0418525006;Pecovska Nova Ves;Pecovska Nova Ves;Pecovska Nova Ves
+2419;SK0418525049;Poloma;Poloma;Poloma
+2420;SK0418525081;Ratvaj;Ratvaj;Ratvaj
+2421;SK0418525090;Raznany;Raznany;Raznany
+2422;SK0418525103;Rencisov;Rencisov;Rencisov
+2423;SK0418525120;Rozkovany;Rozkovany;Rozkovany
+2424;SK0418525146;Sabinov;Sabinov;Sabinov
+2425;SK0418525219;Sarisske Dravce;Sarisske Dravce;Sarisske Dravce
+2426;SK0418525235;Sarisske Michalany;Sarisske Michalany;Sarisske Michalany
+2427;SK0418525243;Sarisske Sokolovce;Sarisske Sokolovce;Sarisske Sokolovce
+2428;SK0418525308;Tichy Potok;Tichy Potok;Tichy Potok
+2429;SK0418525316;Torysa;Torysa;Torysa
+2430;SK0418525359;Uzovce;Uzovce;Uzovce
+2431;SK0418525367;Uzovske Peklany;Uzovske Peklany;Uzovske Peklany
+2432;SK0418525375;Uzovsky Salgov;Uzovsky Salgov;Uzovsky Salgov
+2433;SK0418525421;Vysoka;Vysoka;Vysoka
+2434;SK0419520039;Bela nad Cirochou;Bela nad Cirochou;Bela nad Cirochou
+2435;SK0419520080;Brezovec;Brezovec;Brezovec
+2436;SK0419520136;Cukalovce;Cukalovce;Cukalovce
+2437;SK0419520161;Dlhe nad Cirochou;Dlhe nad Cirochou;Dlhe nad Cirochou
+2438;SK0419520179;Dubrava;Dubrava;Dubrava
+2439;SK0419520209;Hostovice;Hostovice;Hostovice
+2440;SK0419520217;Hrabova Roztoka;Hrabova Roztoka;Hrabova Roztoka
+2441;SK0419520284;Jalova;Jalova;Jalova
+2442;SK0419520322;Kalna Roztoka;Kalna Roztoka;Kalna Roztoka
+2443;SK0419520365;Klenova;Klenova;Klenova
+2444;SK0419520381;Kolbasov;Kolbasov;Kolbasov
+2445;SK0419520390;Kolonica;Kolonica;Kolonica
+2446;SK0419520438;Ladomirov;Ladomirov;Ladomirov
+2447;SK0419520489;Michajlov;Michajlov;Michajlov
+2448;SK0419520551;Nova Sedlica;Nova Sedlica;Nova Sedlica
+2449;SK0419520594;Osadne;Osadne;Osadne
+2450;SK0419520632;Parihuzovce;Parihuzovce;Parihuzovce
+2451;SK0419520641;Pcoline;Pcoline;Pcoline
+2452;SK0419520659;Pichne;Pichne;Pichne
+2453;SK0419520675;Prislop;Prislop;Prislop
+2454;SK0419520730;Runina;Runina;Runina
+2455;SK0419520748;Ruska Volova;Ruska Volova;Ruska Volova
+2456;SK0419520764;Rusky Potok;Rusky Potok;Rusky Potok
+2457;SK0419520802;Snina;Snina;Snina
+2458;SK0419520811;Stakcinska Roztoka;Stakcinska Roztoka;Stakcinska Roztoka
+2459;SK0419520829;Stakcin;Stakcin;Stakcin
+2460;SK0419520845;Strihovce;Strihovce;Strihovce
+2461;SK0419520870;Smigovec;Smigovec;Smigovec
+2462;SK0419520888;Topola;Topola;Topola
+2463;SK0419520918;Ubla;Ubla;Ubla
+2464;SK0419520934;Ulic;Ulic;Ulic
+2465;SK0419520942;Ulicske Krive;Ulicske Krive;Ulicske Krive
+2466;SK0419521051;Zboj;Zboj;Zboj
+2467;SK0419521108;Zemplinske Hamre;Zemplinske Hamre;Zemplinske Hamre
+2468;SK042A526355;Spisska Nova Ves;Spisska Nova Ves;Spisska Nova Ves
+2469;SK042A526363;Arnutovce;Arnutovce;Arnutovce
+2470;SK042A526398;Betlanovce;Betlanovce;Betlanovce
+2471;SK042A526436;Bystrany;Bystrany;Bystrany
+2472;SK042A526444;Danisovce;Danisovce;Danisovce
+2473;SK042A526533;Harichovce;Harichovce;Harichovce
+2474;SK042A526568;Hincovce;Hincovce;Hincovce
+2475;SK042A526576;Hnilcik;Hnilcik;Hnilcik
+2476;SK042A526584;Hnilec;Hnilec;Hnilec
+2477;SK042A526592;Hrabusice;Hrabusice;Hrabusice
+2478;SK042A526657;Zehra;Zehra;Zehra
+2479;SK042A543152;Chrast nad Hornadom;Chrast nad Hornadom;Chrast nad Hornadom
+2480;SK042A543161;Iliasovce;Iliasovce;Iliasovce
+2481;SK042A543195;Jamnik;Jamnik;Jamnik
+2482;SK042A543209;Kalava;Kalava;Kalava
+2483;SK042A543250;Kolinovce;Kolinovce;Kolinovce
+2484;SK042A543268;Krompachy;Krompachy;Krompachy
+2485;SK042A543284;Letanovce;Letanovce;Letanovce
+2486;SK042A543306;Lieskovany;Lieskovany;Lieskovany
+2487;SK042A543331;Markusovce;Markusovce;Markusovce
+2488;SK042A543349;Matejovce nad Hornadom;Matejovce nad Hornadom;Matejovce nad Hornadom
+2489;SK042A543357;Mlynky;Mlynky;Mlynky
+2490;SK042A543403;Odorin;Odorin;Odorin
+2491;SK042A543411;Olcnava;Olcnava;Olcnava
+2492;SK042A543438;Olsavka;Olsavka;Olsavka
+2493;SK042A543489;Porac;Porac;Porac
+2494;SK042A543519;Rudnany;Rudnany;Rudnany
+2495;SK042A543527;Slatvina;Slatvina;Slatvina
+2496;SK042A543535;Slovinky;Slovinky;Slovinky
+2497;SK042A543586;Spisske Tomasovce;Spisske Tomasovce;Spisske Tomasovce
+2498;SK042A543594;Spisske Vlachy;Spisske Vlachy;Spisske Vlachy
+2499;SK042A543616;Spissky Hrusov;Spissky Hrusov;Spissky Hrusov
+2500;SK042A543667;Teplicka;Teplicka;Teplicka
+2501;SK042A543713;Vitkovce;Vitkovce;Vitkovce
+2502;SK042A543721;Vojkovce;Vojkovce;Vojkovce
+2503;SK042A560154;Smizany;Smizany;Smizany
+2504;SK042B513792;Mala Trna;Mala Trna;Mala Trna
+2505;SK042B513806;Velka Trna;Velka Trna;Velka Trna
+2506;SK042B513831;Klin nad Bodrogom;Klin nad Bodrogom;Klin nad Bodrogom
+2507;SK042B513849;Stanca;Stanca;Stanca
+2508;SK042B528099;Trebisov;Trebisov;Trebisov
+2509;SK042B528102;Backa;Backa;Backa
+2510;SK042B528111;Backov;Backov;Backov
+2511;SK042B528129;Bara;Bara;Bara
+2512;SK042B528145;Biel;Biel;Biel
+2513;SK042B528153;Svata Maria;Svata Maria;Svata Maria
+2514;SK042B528161;Bol;Bol;Bol
+2515;SK042B528170;Borsa;Borsa;Borsa
+2516;SK042B528188;Botany;Botany;Botany
+2517;SK042B528200;Brehov;Brehov;Brehov
+2518;SK042B528218;Brezina;Brezina;Brezina
+2519;SK042B528226;Bysta;Bysta;Bysta
+2520;SK042B528234;Cejkov;Cejkov;Cejkov
+2521;SK042B528242;Celovce;Celovce;Celovce
+2522;SK042B528251;Cerhov;Cerhov;Cerhov
+2523;SK042B528269;Cernochov;Cernochov;Cernochov
+2524;SK042B528285;Cierna;Cierna;Cierna
+2525;SK042B528293;Cierna nad Tisou;Cierna nad Tisou;Cierna nad Tisou
+2526;SK042B528315;Dargov;Dargov;Dargov
+2527;SK042B528323;Dobra;Dobra;Dobra
+2528;SK042B528340;Dvorianky;Dvorianky;Dvorianky
+2529;SK042B528358;Egres;Egres;Egres
+2530;SK042B528366;Hran;Hran;Hran
+2531;SK042B528374;Hrcel;Hrcel;Hrcel
+2532;SK042B528382;Hriadky;Hriadky;Hriadky
+2533;SK042B528412;Kasov;Kasov;Kasov
+2534;SK042B528421;Kazimir;Kazimir;Kazimir
+2535;SK042B528439;Kozuchov;Kozuchov;Kozuchov
+2536;SK042B528447;Kralovsky Chlmec;Kralovsky Chlmec;Kralovsky Chlmec
+2537;SK042B528455;Kravany;Kravany;Kravany
+2538;SK042B528471;Kuzmice;Kuzmice;Kuzmice
+2539;SK042B528480;Kysta;Kysta;Kysta
+2540;SK042B528498;Ladmovce;Ladmovce;Ladmovce
+2541;SK042B528501;Lastovce;Lastovce;Lastovce
+2542;SK042B528510;Leles;Leles;Leles
+2543;SK042B528528;Luhyna;Luhyna;Luhyna
+2544;SK042B528536;Male Ozorovce;Male Ozorovce;Male Ozorovce
+2545;SK042B528544;Male Trakany;Male Trakany;Male Trakany
+2546;SK042B528552;Maly Hores;Maly Hores;Maly Hores
+2547;SK042B528561;Maly Kamenec;Maly Kamenec;Maly Kamenec
+2548;SK042B528587;Michalany;Michalany;Michalany
+2549;SK042B528609;Nizny Zipov;Nizny Zipov;Nizny Zipov
+2550;SK042B528617;Novosad;Novosad;Novosad
+2551;SK042B528625;Novy Ruskov;Novy Ruskov;Novy Ruskov
+2552;SK042B528641;Plechotice;Plechotice;Plechotice
+2553;SK042B528650;Svatuse;Svatuse;Svatuse
+2554;SK042B528668;Polany;Polany;Polany
+2555;SK042B528676;Parchovany;Parchovany;Parchovany
+2556;SK042B528684;Pribenik;Pribenik;Pribenik
+2557;SK042B528706;Rad;Rad;Rad
+2558;SK042B528722;Secovce;Secovce;Secovce
+2559;SK042B543730;Sirnik;Sirnik;Sirnik
+2560;SK042B543748;Slivnik;Slivnik;Slivnik
+2561;SK042B543756;Slovenske Nove Mesto;Slovenske Nove Mesto;Slovenske Nove Mesto
+2562;SK042B543764;Solnicka;Solnicka;Solnicka
+2563;SK042B543772;Somotor;Somotor;Somotor
+2564;SK042B543781;Stankovce;Stankovce;Stankovce
+2565;SK042B543799;Strazne;Strazne;Strazne
+2566;SK042B543802;Streda nad Bodrogom;Streda nad Bodrogom;Streda nad Bodrogom
+2567;SK042B543811;Svinice;Svinice;Svinice
+2568;SK042B543829;Trnavka;Trnavka;Trnavka
+2569;SK042B543845;Velaty;Velaty;Velaty
+2570;SK042B543861;Velke Ozorovce;Velke Ozorovce;Velke Ozorovce
+2571;SK042B543896;Velke Trakany;Velke Trakany;Velke Trakany
+2572;SK042B543900;Velky Hores;Velky Hores;Velky Hores
+2573;SK042B543918;Velky Kamenec;Velky Kamenec;Velky Kamenec
+2574;SK042B543926;Vinicky;Vinicky;Vinicky
+2575;SK042B543934;Visnov;Visnov;Visnov
+2576;SK042B543951;Vojcice;Vojcice;Vojcice
+2577;SK042B543969;Vojka;Vojka;Vojka
+2578;SK042B543977;Zatin;Zatin;Zatin
+2579;SK042B543985;Zbehnov;Zbehnov;Zbehnov
+2580;SK042B543993;Zemplin;Zemplin;Zemplin
+2581;SK042B544001;Zemplinska Nova Ves;Zemplinska Nova Ves;Zemplinska Nova Ves
+2582;SK042B544019;Zemplinska Teplica;Zemplinska Teplica;Zemplinska Teplica
+2583;SK042B544027;Zemplinske Hradiste;Zemplinske Hradiste;Zemplinske Hradiste
+2584;SK042B544035;Zemplinske Jastrabie;Zemplinske Jastrabie;Zemplinske Jastrabie
+2585;SK042B544043;Zemplinsky Branc;Zemplinsky Branc;Zemplinsky Branc
+2586;SK0421526509;Gelnica;Gelnica;Gelnica
+2587;SK0421526541;Helcmanovce;Helcmanovce;Helcmanovce
+2588;SK0421526550;Henclova;Henclova;Henclova
+2589;SK0421526631;Zavadka;Zavadka;Zavadka
+2590;SK0421526649;Zakarovce;Zakarovce;Zakarovce
+2591;SK0421543144;Hrisovce;Hrisovce;Hrisovce
+2592;SK0421543187;Jaklovce;Jaklovce;Jaklovce
+2593;SK0421543233;Kluknava;Kluknava;Kluknava
+2594;SK0421543241;Kojsov;Kojsov;Kojsov
+2595;SK0421543322;Margecany;Margecany;Margecany
+2596;SK0421543365;Mnisek nad Hnilcom;Mnisek nad Hnilcom;Mnisek nad Hnilcom
+2597;SK0421543373;Nalepkovo;Nalepkovo;Nalepkovo
+2598;SK0421543497;Prakovce;Prakovce;Prakovce
+2599;SK0421543501;Richnava;Richnava;Richnava
+2600;SK0421543551;Smolnicka Huta;Smolnicka Huta;Smolnicka Huta
+2601;SK0421543560;Smolnik;Smolnik;Smolnik
+2602;SK0421543632;Stara Voda;Stara Voda;Stara Voda
+2603;SK0421543659;Svedlar;Svedlar;Svedlar
+2604;SK0421543683;Uhorna;Uhorna;Uhorna
+2605;SK0421543705;Velky Folkmar;Velky Folkmar;Velky Folkmar
+2606;SK0422598119;Kosice - mestska cast Kavecany;Kosice-Kavecany;Kosice-Kavecany
+2607;SK0422598127;Kosice - mestska cast Tahanovce;Kosice-Tahanovce;Kosice-Tahanovce
+2608;SK0422598151;Kosice - mestska cast Sever;Kosice-Sever;Kosice-Sever
+2609;SK0422598186;Kosice - mestska cast Stare Mesto;Kosice-Stare Mesto;Kosice-Stare Mesto
+2610;SK0422599875;Kosice - mestska cast Sidlisko Tahanovce;Kosice-Sidlisko Tahanovce;Kosice-Sidl.Tahanovce
+2611;SK0422599891;Kosice - mestska cast Dzungla;Kosice-Dzungla;Kosice-Dzungla
+2612;SK0423598194;Kosice - mestska cast Lorincik;Kosice-Lorincik;Kosice-Lorincik
+2613;SK0423598208;Kosice - mestska cast Peres;Kosice-Peres;Kosice-Peres
+2614;SK0423598216;Kosice - mestska cast Myslava;Kosice-Myslava;Kosice-Myslava
+2615;SK0423598224;Kosice - mestska cast Zapad;Kosice-Zapad;Kosice-Zapad
+2616;SK0423599841;Kosice - mestska cast Saca;Kosice-Saca;Kosice-Saca
+2617;SK0423599859;Kosice - mestska cast Polov;Kosice-Polov;Kosice-Polov
+2618;SK0423599883;Kosice - mestska cast Sidlisko KVP;Kosice-Sidlisko KVP;Kosice-Sidlisko KVP
+2619;SK0423599972;Kosice - mestska cast Lunik IX;Kosice-Lunik IX;Kosice-Lunik IX
+2620;SK0424598682;Kosice - mestska cast Dargovskych hrdinov;Kosice-Dargovskych hrdinov;Kosice-Dargov.hrdinov
+2621;SK0424599018;Kosice - mestska cast Kosicka Nova Ves;Kosice-Kosicka Nova Ves;Kosice-Kosic.Nova Ves
+2622;SK0425599093;Kosice - mestska cast Barca;Kosice-Barca;Kosice-Barca
+2623;SK0425599786;Kosice - mestska cast Sebastovce;Kosice-Sebastovce;Kosice-Sebastovce
+2624;SK0425599794;Kosice - mestska cast Krasna;Kosice-Krasna;Kosice-Krasna
+2625;SK0425599816;Kosice - mestska cast Nad jazerom;Kosice-Nad jazerom;Kosice-Nad jazerom
+2626;SK0425599824;Kosice - mestska cast Juh;Kosice-Juh;Kosice-Juh
+2627;SK0425599913;Kosice - mestska cast Vysne Opatske;Kosice-Vysne Opatske;Kosice-Vysne Opatske
+2628;SK0426518107;Hostovce;Hostovce;Hostovce
+2629;SK0426518115;Slancik;Slancik;Slancik
+2630;SK0426518123;Haj;Haj;Haj
+2631;SK0426518140;Nizna Hutka;Nizna Hutka;Nizna Hutka
+2632;SK0426521141;Backovik;Backovik;Backovik
+2633;SK0426521159;Baska;Baska;Baska
+2634;SK0426521167;Belza;Belza;Belza
+2635;SK0426521175;Beniakovce;Beniakovce;Beniakovce
+2636;SK0426521183;Bidovce;Bidovce;Bidovce
+2637;SK0426521191;Blazice;Blazice;Blazice
+2638;SK0426521205;Bohdanovce;Bohdanovce;Bohdanovce
+2639;SK0426521213;Boliarov;Boliarov;Boliarov
+2640;SK0426521221;Budimir;Budimir;Budimir
+2641;SK0426521248;Bukovec;Bukovec;Bukovec
+2642;SK0426521256;Bunetice;Bunetice;Bunetice
+2643;SK0426521264;Buzica;Buzica;Buzica
+2644;SK0426521272;Cestice;Cestice;Cestice
+2645;SK0426521281;Cakanovce;Cakanovce;Cakanovce
+2646;SK0426521299;Cana;Cana;Cana
+2647;SK0426521302;Cecejovce;Cecejovce;Cecejovce
+2648;SK0426521311;Cizatice;Cizatice;Cizatice
+2649;SK0426521329;Debrad;Debrad;Debrad
+2650;SK0426521337;Drienovec;Drienovec;Drienovec
+2651;SK0426521345;Druzstevna pri Hornade;Druzstevna pri Hornade;Druzstevna pri Hornade
+2652;SK0426521353;Durdosik;Durdosik;Durdosik
+2653;SK0426521361;Durkov;Durkov;Durkov
+2654;SK0426521370;Geca;Geca;Geca
+2655;SK0426521388;Gynov;Gynov;Gynov
+2656;SK0426521396;Hacava;Hacava;Hacava
+2657;SK0426521400;Haniska;Haniska;Haniska
+2658;SK0426521418;Herlany;Herlany;Herlany
+2659;SK0426521426;Hodkovce;Hodkovce;Hodkovce
+2660;SK0426521442;Hrasovik;Hrasovik;Hrasovik
+2661;SK0426521469;Hylov;Hylov;Hylov
+2662;SK0426521477;Chrastne;Chrastne;Chrastne
+2663;SK0426521485;Janik;Janik;Janik
+2664;SK0426521493;Jasov;Jasov;Jasov
+2665;SK0426521507;Kalsa;Kalsa;Kalsa
+2666;SK0426521523;Kecerovce;Kecerovce;Kecerovce
+2667;SK0426521540;Kecerovsky Lipovec;Kecerovsky Lipovec;Kecerovsky Lipovec
+2668;SK0426521558;Koksov-Baksa;Koksov-Baksa;Koksov-Baksa
+2669;SK0426521566;Komarovce;Komarovce;Komarovce
+2670;SK0426521574;Kosicka Bela;Kosicka Bela;Kosicka Bela
+2671;SK0426521582;Kosicka Polianka;Kosicka Polianka;Kosicka Polianka
+2672;SK0426521591;Kosicke Olsany;Kosicke Olsany;Kosicke Olsany
+2673;SK0426521604;Kosicky Klecenov;Kosicky Klecenov;Kosicky Klecenov
+2674;SK0426521612;Kralovce;Kralovce;Kralovce
+2675;SK0426521639;Kysak;Kysak;Kysak
+2676;SK0426521655;Mala Ida;Mala Ida;Mala Ida
+2677;SK0426521663;Mala Lodina;Mala Lodina;Mala Lodina
+2678;SK0426521671;Medzev;Medzev;Medzev
+2679;SK0426521680;Mokrance;Mokrance;Mokrance
+2680;SK0426521698;Moldava nad Bodvou;Moldava nad Bodvou;Moldava nad Bodvou
+2681;SK0426521701;Mudrovce;Mudrovce;Mudrovce
+2682;SK0426521728;Nizna Kamenica;Nizna Kamenica;Nizna Kamenica
+2683;SK0426521736;Nizna Mysla;Nizna Mysla;Nizna Mysla
+2684;SK0426521744;Nizny Caj;Nizny Caj;Nizny Caj
+2685;SK0426521752;Nizny Klatov;Nizny Klatov;Nizny Klatov
+2686;SK0426521761;Nizny Lanec;Nizny Lanec;Nizny Lanec
+2687;SK0426521779;Turnianska Nova Ves;Turnianska Nova Ves;Turnianska Nova Ves
+2688;SK0426521787;Novacany;Novacany;Novacany
+2689;SK0426521795;Nova Polhora;Nova Polhora;Nova Polhora
+2690;SK0426521809;Novy Salas;Novy Salas;Novy Salas
+2691;SK0426521817;Obisovce;Obisovce;Obisovce
+2692;SK0426521825;Olsovany;Olsovany;Olsovany
+2693;SK0426521833;Opatka;Opatka;Opatka
+2694;SK0426521841;Opina;Opina;Opina
+2695;SK0426521850;Panovce;Panovce;Panovce
+2696;SK0426521868;Peder;Peder;Peder
+2697;SK0426521876;Perin-Chym;Perin-Chym;Perin-Chym
+2698;SK0426521884;Ploske;Ploske;Ploske
+2699;SK0426521892;Poproc;Poproc;Poproc
+2700;SK0426521906;Rakos;Rakos;Rakos
+2701;SK0426521914;Rankovce;Rankovce;Rankovce
+2702;SK0426521922;Resica;Resica;Resica
+2703;SK0426521931;Rozhanovce;Rozhanovce;Rozhanovce
+2704;SK0426521949;Rudnik;Rudnik;Rudnik
+2705;SK0426521957;Ruskov;Ruskov;Ruskov
+2706;SK0426521965;Sady nad Torysou;Sady nad Torysou;Sady nad Torysou
+2707;SK0426521973;Sena;Sena;Sena
+2708;SK0426521981;Skaros;Skaros;Skaros
+2709;SK0426522007;Slanec;Slanec;Slanec
+2710;SK0426522015;Slanska Huta;Slanska Huta;Slanska Huta
+2711;SK0426522023;Slanske Nove Mesto;Slanske Nove Mesto;Slanske Nove Mesto
+2712;SK0426522031;Sokol;Sokol;Sokol
+2713;SK0426522040;Svinica;Svinica;Svinica
+2714;SK0426522066;Semsa;Semsa;Semsa
+2715;SK0426522074;Stos;Stos;Stos
+2716;SK0426522082;Trebejov;Trebejov;Trebejov
+2717;SK0426522091;Trstany;Trstany;Trstany
+2718;SK0426522104;Trstene pri Hornade;Trstene pri Hornade;Trstene pri Hornade
+2719;SK0426522121;Vajkovce;Vajkovce;Vajkovce
+2720;SK0426522139;Valaliky;Valaliky;Valaliky
+2721;SK0426522147;Velka Ida;Velka Ida;Velka Ida
+2722;SK0426522155;Velka Lodina;Velka Lodina;Velka Lodina
+2723;SK0426522163;Vtackovce;Vtackovce;Vtackovce
+2724;SK0426522171;Vysna Hutka;Vysna Hutka;Vysna Hutka
+2725;SK0426522180;Vysna Kamenica;Vysna Kamenica;Vysna Kamenica
+2726;SK0426522198;Vysna Mysla;Vysna Mysla;Vysna Mysla
+2727;SK0426522201;Vysny Caj;Vysny Caj;Vysny Caj
+2728;SK0426522210;Vysny Klatov;Vysny Klatov;Vysny Klatov
+2729;SK0426522244;Zlata Idka;Zlata Idka;Zlata Idka
+2730;SK0426522252;Zarnov;Zarnov;Zarnov
+2731;SK0426522261;Zdana;Zdana;Zdana
+2732;SK0426559687;Kechnec;Kechnec;Kechnec
+2733;SK0426559784;Turna nad Bodvou;Turna nad Bodvou;Turna nad Bodvou
+2734;SK0426559831;Bociar;Bociar;Bociar
+2735;SK0426559865;Sokolany;Sokolany;Sokolany
+2736;SK0426559873;Dvorniky-Vcelare;Dvorniky-Vcelare;Dvorniky-Vcelare
+2737;SK0426559881;Zadiel;Zadiel;Zadiel
+2738;SK0426580252;Milhost;Milhost;Milhost
+2739;SK0426582093;Vysny Medzev;Vysny Medzev;Vysny Medzev
+2740;SK0426582514;Kostolany nad Hornadom;Kostolany nad Hornadom;Kostolany nad Hornadom
+2741;SK0426599310;Chorvaty;Chorvaty;Chorvaty
+2742;SK0427513857;Budince;Budince;Budince
+2743;SK0427522279;Michalovce;Michalovce;Michalovce
+2744;SK0427522287;Bajany;Bajany;Bajany
+2745;SK0427522295;Banovce nad Ondavou;Banovce nad Ondavou;Banovce nad Ondavou
+2746;SK0427522368;Bracovce;Bracovce;Bracovce
+2747;SK0427522376;Budkovce;Budkovce;Budkovce
+2748;SK0427522392;Cecehov;Cecehov;Cecehov
+2749;SK0427522406;Dubravka;Dubravka;Dubravka
+2750;SK0427522414;Falkusovce;Falkusovce;Falkusovce
+2751;SK0427522431;Hatalov;Hatalov;Hatalov
+2752;SK0427522449;Hazin;Hazin;Hazin
+2753;SK0427522465;Hnojne;Hnojne;Hnojne
+2754;SK0427522481;Horovce;Horovce;Horovce
+2755;SK0427522511;Inacovce;Inacovce;Inacovce
+2756;SK0427522546;Jastrabie pri Michalovciach;Jastrabie pri Michalovciach;Jastrabie pri Michalov.
+2757;SK0427522562;Jovsa;Jovsa;Jovsa
+2758;SK0427522571;Kacanov;Kacanov;Kacanov
+2759;SK0427522589;Kaluza;Kaluza;Kaluza
+2760;SK0427522597;Klokocov;Klokocov;Klokocov
+2761;SK0427522635;Zemplinske Kopcany;Zemplinske Kopcany;Zemplinske Kopcany
+2762;SK0427522651;Krasnovce;Krasnovce;Krasnovce
+2763;SK0427522686;Kusin;Kusin;Kusin
+2764;SK0427522694;Lastomir;Lastomir;Lastomir
+2765;SK0427522708;Laskovce;Laskovce;Laskovce
+2766;SK0427522724;Lesne;Lesne;Lesne
+2767;SK0427522732;Lozin;Lozin;Lozin
+2768;SK0427522741;Lucky;Lucky;Lucky
+2769;SK0427522759;Malcice;Malcice;Malcice
+2770;SK0427522767;Male Raskovce;Male Raskovce;Male Raskovce
+2771;SK0427522783;Markovce;Markovce;Markovce
+2772;SK0427522791;Moravany;Moravany;Moravany
+2773;SK0427522805;Nacina Ves;Nacina Ves;Nacina Ves
+2774;SK0427522848;Oreske;Oreske;Oreske
+2775;SK0427522864;Palin;Palin;Palin
+2776;SK0427522872;Pavlovce nad Uhom;Pavlovce nad Uhom;Pavlovce nad Uhom
+2777;SK0427522881;Petrikovce;Petrikovce;Petrikovce
+2778;SK0427522902;Petrovce nad Laborcom;Petrovce nad Laborcom;Petrovce nad Laborcom
+2779;SK0427522945;Poruba pod Vihorlatom;Poruba pod Vihorlatom;Poruba pod Vihorlatom
+2780;SK0427522961;Pozdisovce;Pozdisovce;Pozdisovce
+2781;SK0427522988;Puste Cemerne;Puste Cemerne;Puste Cemerne
+2782;SK0427522996;Rakovec nad Ondavou;Rakovec nad Ondavou;Rakovec nad Ondavou
+2783;SK0427523054;Senne;Senne;Senne
+2784;SK0427523062;Slavkovce;Slavkovce;Slavkovce
+2785;SK0427523071;Sliepkovce;Sliepkovce;Sliepkovce
+2786;SK0427523097;Stare;Stare;Stare
+2787;SK0427523101;Strazske;Strazske;Strazske
+2788;SK0427523119;Stretava;Stretava;Stretava
+2789;SK0427523127;Stretavka;Stretavka;Stretavka
+2790;SK0427523135;Suche;Suche;Suche
+2791;SK0427523151;Samudovce;Samudovce;Samudovce
+2792;SK0427523186;Trhoviste;Trhoviste;Trhoviste
+2793;SK0427523194;Trnava pri Laborci;Trnava pri Laborci;Trnava pri Laborci
+2794;SK0427523208;Tusice;Tusice;Tusice
+2795;SK0427523216;Tusicka Nova Ves;Tusicka Nova Ves;Tusicka Nova Ves
+2796;SK0427523241;Zaluzice;Zaluzice;Zaluzice
+2797;SK0427523259;Vinne;Vinne;Vinne
+2798;SK0427523275;Vola;Vola;Vola
+2799;SK0427523283;Vrbnica;Vrbnica;Vrbnica
+2800;SK0427523291;Vysoka nad Uhom;Vysoka nad Uhom;Vysoka nad Uhom
+2801;SK0427523348;Zavadka;Zavadka;Zavadka
+2802;SK0427523356;Zbudza;Zbudza;Zbudza
+2803;SK0427523364;Zemplinska Siroka;Zemplinska Siroka;Zemplinska Siroka
+2804;SK0427523372;Zbince;Zbince;Zbince
+2805;SK0427528137;Besa;Besa;Besa
+2806;SK0427528277;Cicarovce;Cicarovce;Cicarovce
+2807;SK0427528307;Cierne Pole;Cierne Pole;Cierne Pole
+2808;SK0427528331;Drahnov;Drahnov;Drahnov
+2809;SK0427528391;Izkovce;Izkovce;Izkovce
+2810;SK0427528404;Kapusianske Klacany;Kapusianske Klacany;Kapusianske Klacany
+2811;SK0427528463;Krisovska Lieskova;Krisovska Lieskova;Krisovska Lieskova
+2812;SK0427528579;Matovske Vojkovce;Matovske Vojkovce;Matovske Vojkovce
+2813;SK0427528633;Oborin;Oborin;Oborin
+2814;SK0427528692;Ptruksa;Ptruksa;Ptruksa
+2815;SK0427528714;Ruska;Ruska;Ruska
+2816;SK0427543853;Velke Kapusany;Velke Kapusany;Velke Kapusany
+2817;SK0427543870;Velke Raskovce;Velke Raskovce;Velke Raskovce
+2818;SK0427543888;Velke Slemence;Velke Slemence;Velke Slemence
+2819;SK0427543942;Vojany;Vojany;Vojany
+2820;SK0428514578;Bretka;Bretka;Bretka
+2821;SK0428514748;Gemerska Panica;Gemerska Panica;Gemerska Panica
+2822;SK0428525529;Roznava;Roznava;Roznava
+2823;SK0428525537;Ardovo;Ardovo;Ardovo
+2824;SK0428525545;Betliar;Betliar;Betliar
+2825;SK0428525553;Bohunovo;Bohunovo;Bohunovo
+2826;SK0428525561;Borka;Borka;Borka
+2827;SK0428525570;Brdarka;Brdarka;Brdarka
+2828;SK0428525596;Cierna Lehota;Cierna Lehota;Cierna Lehota
+2829;SK0428525600;Coltovo;Coltovo;Coltovo
+2830;SK0428525618;Dedinky;Dedinky;Dedinky
+2831;SK0428525626;Dlha Ves;Dlha Ves;Dlha Ves
+2832;SK0428525634;Dobsina;Dobsina;Dobsina
+2833;SK0428525642;Drnava;Drnava;Drnava
+2834;SK0428525651;Gemerska Horka;Gemerska Horka;Gemerska Horka
+2835;SK0428525669;Gemerska Poloma;Gemerska Poloma;Gemerska Poloma
+2836;SK0428525693;Gocaltovo;Gocaltovo;Gocaltovo
+2837;SK0428525707;Gocovo;Gocovo;Gocovo
+2838;SK0428525715;Hankova;Hankova;Hankova
+2839;SK0428525723;Henckovce;Henckovce;Henckovce
+2840;SK0428525731;Honce;Honce;Honce
+2841;SK0428525740;Hrhov;Hrhov;Hrhov
+2842;SK0428525758;Hrusov;Hrusov;Hrusov
+2843;SK0428525782;Jablonov nad Turnou;Jablonov nad Turnou;Jablonov nad Turnou
+2844;SK0428525821;Kecovo;Kecovo;Kecovo
+2845;SK0428525839;Kobeliarovo;Kobeliarovo;Kobeliarovo
+2846;SK0428525847;Kocelovce;Kocelovce;Kocelovce
+2847;SK0428525855;Kovacova;Kovacova;Kovacova
+2848;SK0428525863;Krasnohorska Dlha Luka;Krasnohorska Dlha Luka;Krasnohorska Dlha Luka
+2849;SK0428525871;Krasnohorske Podhradie;Krasnohorske Podhradie;Krasnohorske Podhradie
+2850;SK0428525898;Kunova Teplica;Kunova Teplica;Kunova Teplica
+2851;SK0428525910;Lipovnik;Lipovnik;Lipovnik
+2852;SK0428525936;Lucka;Lucka;Lucka
+2853;SK0428525952;Markuska;Markuska;Markuska
+2854;SK0428525961;Meliata;Meliata;Meliata
+2855;SK0428526045;Nizna Slana;Nizna Slana;Nizna Slana
+2856;SK0428526053;Ochtina;Ochtina;Ochtina
+2857;SK0428526061;Paca;Paca;Paca
+2858;SK0428526070;Paskova;Paskova;Paskova
+2859;SK0428526088;Petrovo;Petrovo;Petrovo
+2860;SK0428526096;Plesivec;Plesivec;Plesivec
+2861;SK0428526126;Rakovnica;Rakovnica;Rakovnica
+2862;SK0428526134;Rejdova;Rejdova;Rejdova
+2863;SK0428526177;Rochovce;Rochovce;Rochovce
+2864;SK0428526185;Rostar;Rostar;Rostar
+2865;SK0428526193;Rozlozna;Rozlozna;Rozlozna
+2866;SK0428526207;Roznavske Bystre;Roznavske Bystre;Roznavske Bystre
+2867;SK0428526215;Rudna;Rudna;Rudna
+2868;SK0428526223;Silica;Silica;Silica
+2869;SK0428526231;Silicka Brezova;Silicka Brezova;Silicka Brezova
+2870;SK0428526240;Silicka Jablonica;Silicka Jablonica;Silicka Jablonica
+2871;SK0428526266;Slavec;Slavec;Slavec
+2872;SK0428526274;Slavoska;Slavoska;Slavoska
+2873;SK0428526282;Slavosovce;Slavosovce;Slavosovce
+2874;SK0428526291;Stratena;Stratena;Stratena
+2875;SK0428526312;Stitnik;Stitnik;Stitnik
+2876;SK0428526339;Vlachovo;Vlachovo;Vlachovo
+2877;SK0428526347;Vysna Slana;Vysna Slana;Vysna Slana
+2878;SK0428560022;Brzotin;Brzotin;Brzotin
+2879;SK0428560031;Cucma;Cucma;Cucma
+2880;SK0428560049;Jovice;Jovice;Jovice
+2881;SK0428560065;Kruzna;Kruzna;Kruzna
+2882;SK0429522309;Baskovce;Baskovce;Baskovce
+2883;SK0429522317;Benatina;Benatina;Benatina
+2884;SK0429522325;Bezovce;Bezovce;Bezovce
+2885;SK0429522333;Blatna Polianka;Blatna Polianka;Blatna Polianka
+2886;SK0429522341;Blatne Remety;Blatne Remety;Blatne Remety
+2887;SK0429522350;Blatne Revistia;Blatne Revistia;Blatne Revistia
+2888;SK0429522384;Bunkovce;Bunkovce;Bunkovce
+2889;SK0429522422;Fekisovce;Fekisovce;Fekisovce
+2890;SK0429522457;Hlivistia;Hlivistia;Hlivistia
+2891;SK0429522473;Horna;Horna;Horna
+2892;SK0429522490;Husak;Husak;Husak
+2893;SK0429522503;Chonkovce;Chonkovce;Chonkovce
+2894;SK0429522520;Inovce;Inovce;Inovce
+2895;SK0429522538;Jasenov;Jasenov;Jasenov
+2896;SK0429522554;Jenkovce;Jenkovce;Jenkovce
+2897;SK0429522601;Kolibabovce;Kolibabovce;Kolibabovce
+2898;SK0429522627;Konus;Konus;Konus
+2899;SK0429522643;Koromla;Koromla;Koromla
+2900;SK0429522660;Krcava;Krcava;Krcava
+2901;SK0429522678;Kristy;Kristy;Kristy
+2902;SK0429522716;Lekarovce;Lekarovce;Lekarovce
+2903;SK0429522813;Nizna Rybnica;Nizna Rybnica;Nizna Rybnica
+2904;SK0429522821;Nizne Nemecke;Nizne Nemecke;Nizne Nemecke
+2905;SK0429522830;Orechova;Orechova;Orechova
+2906;SK0429522856;Ostrov;Ostrov;Ostrov
+2907;SK0429522899;Petrovce;Petrovce;Petrovce
+2908;SK0429522911;Pinkovce;Pinkovce;Pinkovce
+2909;SK0429522929;Podhorod;Podhorod;Podhorod
+2910;SK0429522937;Porostov;Porostov;Porostov
+2911;SK0429522953;Porubka;Porubka;Porubka
+2912;SK0429522970;Priekopa;Priekopa;Priekopa
+2913;SK0429523003;Remetske Hamre;Remetske Hamre;Remetske Hamre
+2914;SK0429523011;Ruska Bystra;Ruska Bystra;Ruska Bystra
+2915;SK0429523020;Ruskovce;Ruskovce;Ruskovce
+2916;SK0429523038;Rusky Hrabovec;Rusky Hrabovec;Rusky Hrabovec
+2917;SK0429523046;Sejkov;Sejkov;Sejkov
+2918;SK0429523089;Sobrance;Sobrance;Sobrance
+2919;SK0429523143;Svatus;Svatus;Svatus
+2920;SK0429523160;Tasula;Tasula;Tasula
+2921;SK0429523178;Tibava;Tibava;Tibava
+2922;SK0429523224;Ubrez;Ubrez;Ubrez
+2923;SK0429523232;Velke Revistia;Velke Revistia;Velke Revistia
+2924;SK0429523267;Vojnatina;Vojnatina;Vojnatina
+2925;SK0429523305;Vysna Rybnica;Vysna Rybnica;Vysna Rybnica
+2926;SK0429523313;Vysne Nemecke;Vysne Nemecke;Vysne Nemecke
+2927;SK0429523321;Vysne Remety;Vysne Remety;Vysne Remety
+2928;SK0429523330;Zahor;Zahor;Zahor
