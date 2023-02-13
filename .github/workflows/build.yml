@@ -1,0 +1,46 @@
+name: Compile Spark
+
+on:
+  workflow_dispatch:
+
+jobs:
+  windows:
+    name: run on windows
+    runs-on: windows-latest
+    steps:
+    - uses: actions/checkout@v2
+    - uses: ilammy/msvc-dev-cmd@v1.4.1
+    - name: compile
+      run: | 
+        cl Main.cpp /Fe:spark /std:c++latest
+    - name: run
+      run: |
+        spark.exe test.spark
+      shell: cmd
+    - name: upload executable
+      uses: actions/upload-artifact@v2
+      with:
+        name: windows
+        path: |
+          spark.exe
+  mac-and-ubuntu:
+    runs-on: ${{matrix.os}}
+    strategy:
+      matrix:
+        os: [ubuntu-latest]
+    name: ${{matrix.os}}
+    steps:
+      - uses: actions/checkout@v2
+      - name: compile
+        run: |
+          g++ -std=c++17 Main.cpp -o spark
+      - name: run
+        run: |
+          ./spark test.spark
+        shell: bash
+      - name: upload executable
+        uses: actions/upload-artifact@v2
+        with:
+          name: ${{matrix.os}}
+          path: |
+            spark
